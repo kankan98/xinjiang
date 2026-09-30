@@ -1,0 +1,41 @@
+{
+  "queriedAt": "2026-09-30",
+  "search": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"suggestion\":{\"keywords\":\"\",\"ciytes\":{\"suggestion\":[]}},\"pois\":[{\"id\":\"B0LUPU0GQS\",\"name\":\"特色老牌子拌面\",\"address\":\"库尔德宁镇库列村1组库尔德宁路机关街\",\"typecode\":\"050100\",\"photo\":\"https://store.is.autonavi.com/showpic/c7f863179b6d73a80000003136912605?type=pic\"},{\"id\":\"B0MA3UZGD7\",\"name\":\"农之青老牌子拌面·特色98大盘鸡辣子鸡\",\"address\":\"库尔德宁镇新丰电子西南100米\",\"typecode\":\"050100\",\"photo\":\"https://store.is.autonavi.com/showpic/48e837fa955d6edc049c1d438a7865f7\"}]}"
+      }
+    ],
+    "isError": false
+  },
+  "detail": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"id\":\"B0LUPU0GQS\",\"name\":\"特色老牌子拌面\",\"location\":\"82.669086,43.279952\",\"address\":\"库尔德宁镇库列村1组库尔德宁路机关街\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"餐饮服务;中餐厅;中餐厅\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/c7f863179b6d73a80000003136912605?type=pic\",\"cost\":\"21.00\",\"opentime2\":\"周一至周日 09:00-22:00\",\"rating\":\"4.5\",\"open_time\":\"09:00-22:00\",\"meal_ordering\":\"0\"}"
+      }
+    ],
+    "isError": false
+  },
+  "routes": {
+    "center": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.669086,43.279952\",\"destination\":\"82.692833,43.274436\",\"paths\":[{\"path\":\"\",\"distance\":\"2084\",\"duration\":\"285\",\"steps\":[{\"instruction\":\"沿737县道向东行驶1.8千米向右前方行驶\",\"road\":\"737县道\",\"distance\":\"1808\",\"orientation\":\"东\",\"duration\":\"208\"},{\"instruction\":\"向东南行驶214米左转\",\"road\":\"\",\"distance\":\"214\",\"orientation\":\"东南\",\"duration\":\"38\"},{\"instruction\":\"向东北行驶54米左转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"东北\",\"duration\":\"35\"},{\"instruction\":\"向西北行驶8米到达目的地\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"西北\",\"duration\":\"4\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "ma": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.669086,43.279952\",\"destination\":\"82.682835,43.277106\",\"paths\":[{\"path\":\"\",\"distance\":\"1326\",\"duration\":\"164\",\"steps\":[{\"instruction\":\"沿737县道向东行驶1.2千米左转调头\",\"road\":\"737县道\",\"distance\":\"1243\",\"orientation\":\"东\",\"duration\":\"146\"},{\"instruction\":\"沿737县道向西行驶83米到达目的地\",\"road\":\"737县道\",\"distance\":\"83\",\"orientation\":\"西\",\"duration\":\"18\"}]}]}"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

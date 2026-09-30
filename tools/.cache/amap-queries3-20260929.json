@@ -1,0 +1,189 @@
+[
+  {
+    "key": "detail:B0LUH95KK3",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LUH95KK3"
+    }
+  },
+  {
+    "key": "detail:B0LDADGQOF",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LDADGQOF"
+    }
+  },
+  {
+    "key": "detail:B0L1CU690X",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0L1CU690X"
+    }
+  },
+  {
+    "key": "detail:B0KRROUSRM",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KRROUSRM"
+    }
+  },
+  {
+    "key": "detail:B0K2LZOGJP",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0K2LZOGJP"
+    }
+  },
+  {
+    "key": "detail:B0LULXXU6K",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LULXXU6K"
+    }
+  },
+  {
+    "key": "detail:B0L14H1M74",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0L14H1M74"
+    }
+  },
+  {
+    "key": "detail:B0LDR5CSZ9",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LDR5CSZ9"
+    }
+  },
+  {
+    "key": "detail:B0KAOS0880",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KAOS0880"
+    }
+  },
+  {
+    "key": "detail:B0MDVCO1EA",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MDVCO1EA"
+    }
+  },
+  {
+    "key": "distance:86.874654,47.705128>86.877406,47.702818:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "86.874654,47.705128",
+      "destination": "86.877406,47.702818",
+      "type": "3"
+    }
+  },
+  {
+    "key": "distance:86.874840,47.697838>86.874318,47.699251:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "86.874840,47.697838",
+      "destination": "86.874318,47.699251",
+      "type": "3"
+    }
+  },
+  {
+    "key": "distance:86.878622,47.704568>86.874318,47.699251:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "86.878622,47.704568",
+      "destination": "86.874318,47.699251",
+      "type": "3"
+    }
+  },
+  {
+    "key": "distance:86.874350,47.700875>86.877406,47.702818:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "86.874350,47.700875",
+      "destination": "86.877406,47.702818",
+      "type": "3"
+    }
+  },
+  {
+    "key": "distance:86.874620,47.697888>86.874318,47.699251:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "86.874620,47.697888",
+      "destination": "86.874318,47.699251",
+      "type": "3"
+    }
+  },
+  {
+    "key": "distance:84.897698,44.424748>84.900179,44.403616:1",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "84.897698,44.424748",
+      "destination": "84.900179,44.403616",
+      "type": "1"
+    }
+  },
+  {
+    "key": "distance:84.897698,44.424748>84.900179,44.403616:0",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "84.897698,44.424748",
+      "destination": "84.900179,44.403616",
+      "type": "0"
+    }
+  },
+  {
+    "key": "distance:82.510743,43.800570>82.483017,43.794047:1",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "82.510743,43.800570",
+      "destination": "82.483017,43.794047",
+      "type": "1"
+    }
+  },
+  {
+    "key": "distance:82.502817,43.791517>82.483017,43.794047:1",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "82.502817,43.791517",
+      "destination": "82.483017,43.794047",
+      "type": "1"
+    }
+  },
+  {
+    "key": "distance:83.426692,43.741388>83.426423,43.742291:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "83.426692,43.741388",
+      "destination": "83.426423,43.742291",
+      "type": "3"
+    }
+  },
+  {
+    "key": "distance:84.897257,44.420823>84.900179,44.403616:1",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "84.897257,44.420823",
+      "destination": "84.900179,44.403616",
+      "type": "1"
+    }
+  },
+  {
+    "key": "distance:84.903367,44.422429>84.900179,44.403616:1",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "84.903367,44.422429",
+      "destination": "84.900179,44.403616",
+      "type": "1"
+    }
+  },
+  {
+    "key": "distance:86.874654,47.705128>86.874840,47.697838:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "86.874654,47.705128",
+      "destination": "86.874840,47.697838",
+      "type": "3"
+    }
+  }
+]

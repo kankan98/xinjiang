@@ -1,0 +1,510 @@
+{
+  "date": "2026-09-29T10:08:34.477127+00:00",
+  "goal": "根据调研分析的结论，开始优化修正攻略",
+  "findingsCovered": [
+    "F01",
+    "F02",
+    "F03",
+    "F04",
+    "F05",
+    "F06",
+    "F07",
+    "F08",
+    "F09",
+    "F10",
+    "R01",
+    "R02",
+    "R03",
+    "R04",
+    "R05"
+  ],
+  "sourceStaleClaimScan": {
+    "patterns": [
+      "00:35",
+      "暂沿",
+      "16:00 前从喀纳斯",
+      "乔尔玛转 G218",
+      "再沿 G218 西行",
+      "G218 出山",
+      "距 G577.*4.8",
+      "先落实车票",
+      "同在管控窗口",
+      "落在该管控时段内",
+      "均属布尔津",
+      "27,067",
+      "1,444",
+      "11:40—12:10",
+      "17:00 出发赴站",
+      "首选.{0,20}吐达洪"
+    ],
+    "errors": [],
+    "exclusions": [
+      "04-来源与复核日志中的明确历史记录",
+      "原始day-routes快照（页面由注释层校正）"
+    ]
+  },
+  "gatesMatchedBetweenRuntimeAndChapter": [
+    "G1",
+    "G2",
+    "G3",
+    "G4",
+    "G5",
+    "G6",
+    "G7"
+  ],
+  "rawMapUnchanged": true,
+  "generatedSchedulesChecked": [
+    "D3 16:00抵白哈巴",
+    "D8 10:00主选发车",
+    "D8争取20:30入住"
+  ],
+  "sourceFilesModifiedAfterLastBuild": [],
+  "validation": {
+    "build": "passed",
+    "unit": "24 passed；本轮已执行，结果见对话工具记录",
+    "e2e": "45 passed, 1 existing intentional skip",
+    "e2eLastRun": {
+      "status": "passed",
+      "failedTests": []
+    },
+    "visual": "实际浏览器320px预算与390px D8分支可读，无横向溢出"
+  },
+  "changedBackedUpFiles": [
+    "src/components/TripIntelligence.vue",
+    "src/components/home/TripBudget.vue",
+    "src/pages/chapters/days/Day6-赛里木湖-伊宁.vue",
+    "src/pages/chapters/days/Day5-奎屯-赛里木湖.vue",
+    "src/pages/chapters/days/Day3-白哈巴-喀纳斯全天.vue",
+    "src/pages/chapters/days/Day1-乌鲁木齐-布尔津.vue",
+    "src/pages/chapters/days/Day0-香港-乌鲁木齐.vue",
+    "src/pages/chapters/days/Day9-乌鲁木齐-香港.vue",
+    "src/pages/chapters/days/Day7-伊宁-那拉提-唐布拉-尼勒克.vue",
+    "src/pages/chapters/days/Day8-尼勒克-乌鲁木齐.vue",
+    "src/pages/chapters/days/Day2-布尔津-白哈巴.vue",
+    "src/pages/chapters/overview/03-全书一致性与政策时效性复核.vue",
+    "src/pages/chapters/overview/02-路线推导.vue",
+    "src/pages/chapters/overview/04-来源与复核日志.vue",
+    "src/pages/chapters/overview/01-研究底稿.vue",
+    "src/pages/chapters/topics/专题-美食指南.vue",
+    "src/pages/chapters/topics/专题-理想L8新疆自驾指南.vue",
+    "src/pages/chapters/topics/专题-无人机飞行规范.vue",
+    "src/pages/chapters/topics/专题-预算规划.vue",
+    "src/pages/chapters/topics/专题-景区百科.vue",
+    "src/pages/chapters/topics/专题-新疆旅行应急宝典.vue",
+    "src/pages/chapters/topics/专题-酒店指南.vue",
+    "src/lib/travel.js",
+    "src/data/route-annotations.js",
+    "src/data/trip-intelligence.js",
+    "src/data/travel-experience.js",
+    "src/data/reading-focus.js",
+    "src/lib/__tests__/roadbook.test.js",
+    "src/generated/day-schedules.generated.json",
+    "src/generated/search-index.generated.json",
+    "src/data/roadbook-runtime.json",
+    "src/data/daily-guides.json",
+    "tools/generate_day_routes.mjs",
+    "tests/e2e/roadbook.spec.js",
+    "README-HTML.md",
+    "src/assets/styles/20-home.css"
+  ],
+  "sourceSnapshot": [
+    {
+      "file": "src/App.vue",
+      "sha256": "1917b7834b345f1d21a4fd157103db4e7d8696623791844b95b189e79b309bbf"
+    },
+    {
+      "file": "src/assets/styles/00-tokens.css",
+      "sha256": "fd22417f43b7d29f48c78d93ea59f01e5af91f1c36bfc522069cf2de7807ad67"
+    },
+    {
+      "file": "src/assets/styles/10-shell.css",
+      "sha256": "417d6cb8bcd11bb400873c7c5ef09d13c8f4e1a995585170911805a85a935558"
+    },
+    {
+      "file": "src/assets/styles/20-home.css",
+      "sha256": "b1a80405a22ad49b67b4d3330087a86e3f2c070d6a8ed2a2918c9ae44d7a7319"
+    },
+    {
+      "file": "src/assets/styles/30-reader.css",
+      "sha256": "1c9d0f510a0c42080dbaf307bd404322aa3559e377df76b9eb5e41e73f5b31c9"
+    },
+    {
+      "file": "src/assets/styles/40-patterns.css",
+      "sha256": "1b583012f33d012bf4707b6eff3c410f73b41293d146c52e6a6c055d3df22c5d"
+    },
+    {
+      "file": "src/assets/styles/50-experience.css",
+      "sha256": "7b21bfef525d6af6d9788bd4ebc66a28f4a6d9cc0742ce9705eeed057cb59552"
+    },
+    {
+      "file": "src/assets/styles/60-reading-focus.css",
+      "sha256": "77e77ad8802ab668004c13d44a444e247d1008c2c797631bf7804739204ef453"
+    },
+    {
+      "file": "src/assets/styles/90-print.css",
+      "sha256": "d112b965bcdf863b2719fa7758ae381ef0d982a15aed4d957d52ccf61846315d"
+    },
+    {
+      "file": "src/assets/styles/roadbook.css",
+      "sha256": "db03ef60e59813766104625977f53e6ce7f473c05a8d41ed8042694b8b557d03"
+    },
+    {
+      "file": "src/components/AppFooter.vue",
+      "sha256": "6e431d20cac41cfc783a8b666bde7bfa2cd08716140626b84d15ed787e8fc1f3"
+    },
+    {
+      "file": "src/components/AppHeader.vue",
+      "sha256": "a6a2c7f02bd21891439d1e7e2cbdda93a9a6950e5e114fc0358497c6255047ff"
+    },
+    {
+      "file": "src/components/ChapterIndex.vue",
+      "sha256": "37598eb0bf3dfeb414a93621bf6611206c8dd5ec67a249ec8e03acdb240cc350"
+    },
+    {
+      "file": "src/components/ChapterReader.vue",
+      "sha256": "e3c667bb25a8cdaaf94feefbd11cc16efd6256bc630f0dbaea3c30f8b98a4023"
+    },
+    {
+      "file": "src/components/DailyFieldGuide.vue",
+      "sha256": "53b2e42e747c3e6714fab22ef52deedc305f4a9bad0ce9e07e118f1f44fc7994"
+    },
+    {
+      "file": "src/components/HomeOverview.vue",
+      "sha256": "97b27b2e26bf77c6cd6b548377f526bbeaed06e7d92f8ec8c9aae666a7814d87"
+    },
+    {
+      "file": "src/components/ImageCredits.vue",
+      "sha256": "2c55359f627a7a695bcdf791321c78eb37b7250fbe02a9ecc0618fe741419033"
+    },
+    {
+      "file": "src/components/ReaderOutline.vue",
+      "sha256": "5ac38678f6931bca82716086d06fce1a975bbf34b68f26a61a5f5429765cf627"
+    },
+    {
+      "file": "src/components/RouteLoadingState.vue",
+      "sha256": "5d194015f907f1887d55ebaa0279878e21d453f6901656ae9b6050f65e5a88db"
+    },
+    {
+      "file": "src/components/SearchPalette.vue",
+      "sha256": "31abebee032002bc01f66251575d886df15db134b48e373952f72f1bbdd1e006"
+    },
+    {
+      "file": "src/components/SidebarNavigation.vue",
+      "sha256": "0fbf99b66147f01b2cc7fce703604c3322efa21664b0ea63fc34145bebe2cc55"
+    },
+    {
+      "file": "src/components/TripIntelligence.vue",
+      "sha256": "cb8e3a57a7b52c64fc4fefc4b3c38ccaf88a19bbb7589cd8d01fad25e332fb74"
+    },
+    {
+      "file": "src/components/home/FoodJourney.vue",
+      "sha256": "e1edb1a8a27c2b2e4b756706cb9d04c430d0b58d2aa69dc783e58818fbfa2bc2"
+    },
+    {
+      "file": "src/components/home/HeroSection.vue",
+      "sha256": "20bb31bb16e1272b3e7099261186d7f18dbd06c35aabded0421e004781d4541e"
+    },
+    {
+      "file": "src/components/home/HomeSectionNav.vue",
+      "sha256": "37778e35921cad90e50538f0b548638c8f062231642358fd10d484b861c3b8e9"
+    },
+    {
+      "file": "src/components/home/ItineraryLedger.vue",
+      "sha256": "3424cc32470d6e3ba622c78c5e8f5520abd630495f324bf459f3f50ed67abb3d"
+    },
+    {
+      "file": "src/components/home/RouteMap.vue",
+      "sha256": "b39d70c726aefb303644325762d6094634e4d0dd4bdb729ec80721a3bc814955"
+    },
+    {
+      "file": "src/components/home/RouteOverview.vue",
+      "sha256": "a6828b7a4fa450ba32a030a7d43da17dc7bc9086a5bcaf5e3b5e1bc23781bd9f"
+    },
+    {
+      "file": "src/components/home/TravelEssentials.vue",
+      "sha256": "634d2015c7c5d051ce280da042297fe0599113b0623393cc03ac17fe5891a850"
+    },
+    {
+      "file": "src/components/home/TripBudget.vue",
+      "sha256": "adf8cfa7633ab8abb6d08b94f57a3e62fb26693465f5a8c9c79f9f66ec69eb8d"
+    },
+    {
+      "file": "src/components/reader/DayRouteMap.vue",
+      "sha256": "7c2541b2463037cda51f15d219bfae8469987b0e2c59240eb5e7748bd563aee1"
+    },
+    {
+      "file": "src/components/reader/ReaderDayBrief.vue",
+      "sha256": "1b31c1c14ffe8124363e38603c6ca5c3cdf45f88f9f2bf611b82194b214b910f"
+    },
+    {
+      "file": "src/components/reader/ReaderFocus.vue",
+      "sha256": "a10c51b5243d2801992ab3f378ad26900df44d92ad5db1b7e6da1db110ef4b6d"
+    },
+    {
+      "file": "src/components/ui/ChapterCard.vue",
+      "sha256": "44ca484f435cbe55ec63e2c4119cfcc4c8a3c425c10b73b2361bee540793fc7e"
+    },
+    {
+      "file": "src/components/ui/ChapterStrip.vue",
+      "sha256": "c217a5058b6d4062b774d66fd5532d778726c9978888a1a5ad1025174084790c"
+    },
+    {
+      "file": "src/components/ui/EvidenceTags.vue",
+      "sha256": "c690d9f2a1dbe22cebb51d1578b854640774ca42f70f2375375094029fbe2b7b"
+    },
+    {
+      "file": "src/components/ui/ImageStrip.vue",
+      "sha256": "1ca1c2f75911233743514184611c88a9124bcf579f0abc386a87a92ef5dc4e2d"
+    },
+    {
+      "file": "src/components/ui/IntelligenceCard.vue",
+      "sha256": "a23e30627763747245be21ec41b188ba38735631759ed379db026cc399215cb1"
+    },
+    {
+      "file": "src/components/ui/ItineraryCell.vue",
+      "sha256": "82cb49d47824b3273af545f0e64510873845e30c03b3529454d2f45481e7ab85"
+    },
+    {
+      "file": "src/components/ui/KeyFacts.vue",
+      "sha256": "2a4d8345404ca6edddedd99423fb2062c474058d26fed149b83850c8d74f969b"
+    },
+    {
+      "file": "src/components/ui/MediaFigure.vue",
+      "sha256": "fd07b6016da1672f89092d3038777e427a2ede8fb0c271a5337220d4d8ce7a47"
+    },
+    {
+      "file": "src/components/ui/MetricBars.vue",
+      "sha256": "5599ee68cc91e7bb9f216a7c9448dbaeb2494f6cdb19632002cc9c8b0880cce1"
+    },
+    {
+      "file": "src/components/ui/MobileCommandBar.vue",
+      "sha256": "55872f1bb9ea2800e8605d06242ca6434694a119bdd2a8f55796b5cdb5f113f8"
+    },
+    {
+      "file": "src/components/ui/SectionHeading.vue",
+      "sha256": "66168762e4eda488db0eb0bac7823f99fe57a42485280c16a78a276db4bae0f2"
+    },
+    {
+      "file": "src/components/ui/SourceChip.vue",
+      "sha256": "faa6e9f9fc9044cfeb3ed03d7eeb6732a2966b265ce9dce0902095853402b356"
+    },
+    {
+      "file": "src/components/ui/TimelineCard.vue",
+      "sha256": "211c1adafc2287aa1c8df405c21a4360b6eedd6d5266ae10380f2811a8ce6442"
+    },
+    {
+      "file": "src/components/ui/TrustStamp.vue",
+      "sha256": "59369a808e9d894179f9ba6300ebe3d081b8202833c49ccb965802336f3b7947"
+    },
+    {
+      "file": "src/data/accommodation.js",
+      "sha256": "72bdd7dff1107e3b64659fe30f51c075a4d45588c13cabbf9d615728854a86c0"
+    },
+    {
+      "file": "src/data/daily-guides.json",
+      "sha256": "c62f0d9acb0d4712a754104634605b4d00db59886413afafe4d06de25da093a0"
+    },
+    {
+      "file": "src/data/day-routes.json",
+      "sha256": "2e89be567d44664983d6a6519e75bb2d2ef3acf3ce83386d149f2723f4e4cf22"
+    },
+    {
+      "file": "src/data/images.manifest.json",
+      "sha256": "47d3e765e5256385fc86422d0fb71c18c9998b017d8df2a4f0828a8ca117fdc0"
+    },
+    {
+      "file": "src/data/reading-focus.js",
+      "sha256": "79f41b5f884a408e28ddee44d6a5161209e48c4331c7c2648a84bc1804a7e681"
+    },
+    {
+      "file": "src/data/roadbook-runtime.json",
+      "sha256": "13b59ec5a4784d83c57cfce34a140573514b54085a3ffdf7139678013efe89df"
+    },
+    {
+      "file": "src/data/roadbook.js",
+      "sha256": "de441558943c28e0032e895d68c254fafae3eb4a0ad1af3108e86e88ae62c3c8"
+    },
+    {
+      "file": "src/data/roadbook.manifest.json",
+      "sha256": "039f2650b9bf47dea503f8b49936a1900d780f2bd07716fdf2e2931366e4e3a3"
+    },
+    {
+      "file": "src/data/route-annotations.js",
+      "sha256": "ac5e754782cbe3c48c83a75582e4ba0b7df9529873e5ec907c5e1dd94dd8bcb5"
+    },
+    {
+      "file": "src/data/travel-experience.js",
+      "sha256": "dbd2dfdb1fa18f5ec830042111015255b6eb8ed034157f05aba57badae3c109d"
+    },
+    {
+      "file": "src/data/trip-intelligence.js",
+      "sha256": "8a585f7496d0300d405e9c3d45c93edbbf2d166c74549af0cb8fd6aa4289f737"
+    },
+    {
+      "file": "src/generated/day-schedules.generated.json",
+      "sha256": "a5d38652309f3955edac703938e0373d2dedd7a4d274293cb38b5f4010991194"
+    },
+    {
+      "file": "src/generated/search-index.generated.json",
+      "sha256": "0c86e9632ee9d6006c03743c294d0549caf9adc572e827f80923a9dd367946b9"
+    },
+    {
+      "file": "src/layouts/RoadbookLayout.vue",
+      "sha256": "f32057eaa0d69d7dbef2c4086044c18e9b5aebcfa38c81075ac870bf052ad012"
+    },
+    {
+      "file": "src/lib/__tests__/reader-priorities.test.js",
+      "sha256": "f897972247aa16a33839a87ac29c249eabc2c679388b697aa23fec2103c6ff33"
+    },
+    {
+      "file": "src/lib/__tests__/roadbook.test.js",
+      "sha256": "5440c3ec503bb6ba0d25ff59023c42eecafbd334258b0582f92d3159f5ee09e4"
+    },
+    {
+      "file": "src/lib/chapter.js",
+      "sha256": "0e84d7bdf127fe15c69f351d59e82c725b445ad3f60d33ebc74f495127b9c2d5"
+    },
+    {
+      "file": "src/lib/headings.js",
+      "sha256": "2c20fa0ceae7591130e26f6f11e9cbe0c9226297cee5c7911f62380be3429ecf"
+    },
+    {
+      "file": "src/lib/reader-priorities.js",
+      "sha256": "ec69c1a9da707ec2d9037b9061a20c5645b8c84780a2d4de2c4567abe259ad0f"
+    },
+    {
+      "file": "src/lib/router.js",
+      "sha256": "95bff94303200143a0a17334ef5c8677b0568f6761eb06309b24258c4e427327"
+    },
+    {
+      "file": "src/lib/search.js",
+      "sha256": "b3ff5e6248a1377153a1f63d528c1427e623dc592e162b05fefe0456d267026f"
+    },
+    {
+      "file": "src/lib/storage.js",
+      "sha256": "6b9d4f54741dab5c8a7ac90de16ca42d7cb7e9e4ec4a44b4d4bed62c45e892b3"
+    },
+    {
+      "file": "src/lib/travel.js",
+      "sha256": "f23c9fa812605eaf00e5abd535857c445aa7e7a791e9efc773083bc4c0912fc3"
+    },
+    {
+      "file": "src/main.js",
+      "sha256": "391aa74e75fb6908152b0cc7cac38e6862044c3fb36d9e3717576b72d1e974d6"
+    },
+    {
+      "file": "src/pages/ChapterPage.vue",
+      "sha256": "2a752da90c1c4968a67f7df5ea54c612010ab66c42effa145dc42e58337f9b5f"
+    },
+    {
+      "file": "src/pages/HomePage.vue",
+      "sha256": "e4bc94d7aa4442e0c8213e4eb226048647485d249276ba3d3e37edb6a46aa44d"
+    },
+    {
+      "file": "src/pages/chapters/days/Day0-香港-乌鲁木齐.vue",
+      "sha256": "424757ee6d8b5dc68d76e9c33610b8702619a3b7f1df99ec0c2c7ec461748761"
+    },
+    {
+      "file": "src/pages/chapters/days/Day1-乌鲁木齐-布尔津.vue",
+      "sha256": "16845343eafd353f50b71fefb6924b544f42e8b2234a53a727eb57912edfb48f"
+    },
+    {
+      "file": "src/pages/chapters/days/Day2-布尔津-白哈巴.vue",
+      "sha256": "0e3a34eabd39fa6e739a70a6de94b74e41117b16f2e368a4c5a605f559b607ab"
+    },
+    {
+      "file": "src/pages/chapters/days/Day3-白哈巴-喀纳斯全天.vue",
+      "sha256": "3d3b2666612c020896e58fb2f33b7ffa463b944e2fc8d49555a9d4540be34c01"
+    },
+    {
+      "file": "src/pages/chapters/days/Day4-白哈巴-克拉玛依-奎屯.vue",
+      "sha256": "b7add605ec93bfd9174d0f062fa51743f182f46a06a35d45ef29b6f2f250d4eb"
+    },
+    {
+      "file": "src/pages/chapters/days/Day5-奎屯-赛里木湖.vue",
+      "sha256": "db829bd13efc50391be5aea76a088ea9f57e682a37ac446f12476d9fc5bf06bf"
+    },
+    {
+      "file": "src/pages/chapters/days/Day6-赛里木湖-伊宁.vue",
+      "sha256": "450a83db1438516295145fb7be6ce77649613a38ca32b366d30b00b9d466b27b"
+    },
+    {
+      "file": "src/pages/chapters/days/Day7-伊宁-那拉提-唐布拉-尼勒克.vue",
+      "sha256": "c4b6686c846b17124dc8a4a196ec735fce6b8b2f4ed56b1a91546a3882c7bcd3"
+    },
+    {
+      "file": "src/pages/chapters/days/Day8-尼勒克-乌鲁木齐.vue",
+      "sha256": "0e98e552889d974256a5c8e35bd44f2dbb5e1e59017bc4f91d77e0efb3a5dbf3"
+    },
+    {
+      "file": "src/pages/chapters/days/Day9-乌鲁木齐-香港.vue",
+      "sha256": "e9ebc966df0eaa0ec38829dac4753fe057fc118ec1913a54da33dd5e79b04d77"
+    },
+    {
+      "file": "src/pages/chapters/overview/00-总目录.vue",
+      "sha256": "9ca8c80dd8e92590195c7c40a1ac0787fb8b8159c39e5b09337147115d9b6456"
+    },
+    {
+      "file": "src/pages/chapters/overview/01-研究底稿.vue",
+      "sha256": "d73597b7d79ac5daac98272682f74ad0bf79099b645ac2e3f309b61a94c3398b"
+    },
+    {
+      "file": "src/pages/chapters/overview/02-路线推导.vue",
+      "sha256": "617a1aa6573184779646b7b2bb3dd408427bc48ffffdc928241c85f98de4eb7f"
+    },
+    {
+      "file": "src/pages/chapters/overview/03-全书一致性与政策时效性复核.vue",
+      "sha256": "571d78fae2646a439755d034a753ecad8b4e02d01fc7d93a3f90fb1e634e3a9a"
+    },
+    {
+      "file": "src/pages/chapters/overview/04-来源与复核日志.vue",
+      "sha256": "09d483b03ffe632eba337fe55984318c7330dbe7a4859725d191e3c49e16f981"
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-新疆摄影地图.vue",
+      "sha256": "7c2af043304d013b44b67a0402009b8473fb1f36c8f48626efbfe24396ce529a"
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-新疆旅行应急宝典.vue",
+      "sha256": "018f91f84490ec5cbe36db126fc993516775cdfa135b3dd1b54c433f062d720b"
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-无人机飞行规范.vue",
+      "sha256": "4cb9abe59d786975dc297ec3a669c2f4aeb84249a5d9538951bc44858dfa57a6"
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-景区百科.vue",
+      "sha256": "2c1880e0cc877abd7b19d80b87f7a3036f97f88f1b91eb542b2917f32d533f07"
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-理想L8新疆自驾指南.vue",
+      "sha256": "db4becebda9aa4d94d0d8d0604d7be1cd1a137545828a7d58e3cc8e7bef1d9b4"
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-美食指南.vue",
+      "sha256": "073f5352bfa7f5710a01edd4e4bb26644400997e95baeb998c6f55607845e99a"
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-酒店指南.vue",
+      "sha256": "079f6c297b736997e4291b0e4a1a6cc3263a5b3f222ae3c12017ff3e5baebcfe"
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-预算规划.vue",
+      "sha256": "8e2e7adabb3e3f28471d2f574caa19acaee8a28529a0e2660517729186456256"
+    },
+    {
+      "file": "src/router/index.js",
+      "sha256": "52ee347e2d336624efdafba5b43b786d071619af2004a0070f668b44cb232591"
+    }
+  ],
+  "unresolvedExternalConditions": [
+    "G577正式运营/当期路况",
+    "白哈巴证件/准入/景交及续住",
+    "赛湖双日进出与出口",
+    "租车实际交车/宽限/超时",
+    "备用订单退改",
+    "钟点房晚到接待/计时",
+    "HX457当日手续截止"
+  ],
+  "browserCleanup": "已恢复Codex内置浏览器默认视口，确认临时标签页为空；未修改用户Chrome视口"
+}

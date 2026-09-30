@@ -1,0 +1,44 @@
+[
+  {
+    "key": "detail:B0LUDZ51OY",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LUDZ51OY"
+    }
+  },
+  {
+    "key": "detail:B0H1KU1H14",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0H1KU1H14"
+    }
+  },
+  {
+    "key": "detail:B0LU9S5HOK",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LU9S5HOK"
+    }
+  },
+  {
+    "key": "detail:B0IRZD2Q7B",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0IRZD2Q7B"
+    }
+  },
+  {
+    "key": "detail:B0GRLMJVA1",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0GRLMJVA1"
+    }
+  },
+  {
+    "key": "detail:B0MDMRYWPB",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MDMRYWPB"
+    }
+  }
+]

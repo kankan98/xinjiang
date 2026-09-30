@@ -1,0 +1,52 @@
+{
+  "queriedAt": "2026-09-30",
+  "pois": {
+    "return": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0MB9DU6A1\",\"name\":\"奎屯(独山子)服务点\",\"location\":\"84.898292,44.405604\",\"address\":\"铁二路与团结南街交叉口西200米\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"生活服务;生活服务场所;生活服务场所\",\"alias\":\"\",\"photo\":null,\"cost\":\"\",\"opentime2\":\"\",\"rating\":\"4.1\",\"open_time\":\"\"}"
+        }
+      ],
+      "isError": false
+    },
+    "station_entry": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0H645IFJS\",\"name\":\"奎屯站(进站口)\",\"location\":\"84.900443,44.403589\",\"address\":\"\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"交通设施服务;火车站;进站口/检票口\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/e5e3e7fd422323980000004701814851?type=pic\",\"cost\":\"\",\"opentime2\":\"\",\"rating\":\"\",\"open_time\":\"\"}"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "queries": {
+    "qiao_return": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"84.382897,43.653744\",\"destination\":\"84.898292,44.405604\",\"paths\":[{\"path\":\"\",\"distance\":\"141347\",\"duration\":\"10062\",\"steps\":[{\"instruction\":\"沿独库公路向东北行驶22.1千米直行进入隧道\",\"road\":\"独库公路\",\"distance\":\"22076\",\"orientation\":\"东北\",\"duration\":\"1555\"},{\"instruction\":\"沿哈希勒根隧道途径独库公路向西北行驶1.6千米靠左\",\"road\":\"哈希勒根隧道\",\"distance\":\"1640\",\"orientation\":\"西北\",\"duration\":\"156\"},{\"instruction\":\"沿独库公路向西北行驶102米靠右\",\"road\":\"独库公路\",\"distance\":\"102\",\"orientation\":\"西北\",\"duration\":\"27\"},{\"instruction\":\"沿独库公路向东北行驶12.0千米左转\",\"road\":\"独库公路\",\"distance\":\"12033\",\"orientation\":\"东北\",\"duration\":\"1048\"},{\"instruction\":\"沿独库公路途径老虎口大桥、清水河大桥向东北行驶40.5千米靠右\",\"road\":\"独库公路\",\"distance\":\"40486\",\"orientation\":\"东北\",\"duration\":\"2653\"},{\"instruction\":\"沿独库公路向东北行驶10.3千米靠右\",\"road\":\"独库公路\",\"distance\":\"10294\",\"orientation\":\"东北\",\"duration\":\"684\"},{\"instruction\":\"沿独库公路向东行驶16.9千米靠右\",\"road\":\"独库公路\",\"distance\":\"16856\",\"orientation\":\"东\",\"duration\":\"1233\"},{\"instruction\":\"沿独库公路向东行驶981米靠左\",\"road\":\"独库公路\",\"distance\":\"981\",\"orientation\":\"东\",\"duration\":\"104\"},{\"instruction\":\"沿独库公路途径北京路向北行驶23.0千米右转\",\"road\":\"独库公路\",\"distance\":\"23012\",\"orientation\":\"北\",\"duration\":\"1263\"},{\"instruction\":\"沿规划二路途径规划一路向东行驶1.3千米左转\",\"road\":\"规划二路\",\"distance\":\"1317\",\"orientation\":\"东\",\"duration\":\"102\"},{\"instruction\":\"沿南京路向北行驶2.8千米进入环岛\",\"road\":\"南京路\",\"distance\":\"2842\",\"orientation\":\"北\",\"duration\":\"332\"},{\"instruction\":\"向西北行驶75米离开环岛\",\"road\":\"\",\"distance\":\"75\",\"orientation\":\"西北\",\"duration\":\"8\"},{\"instruction\":\"沿石化大道途径玛纳斯街向东北行驶5.9千米直行进入左侧道路\",\"road\":\"石化大道\",\"distance\":\"5886\",\"orientation\":\"东北\",\"duration\":\"366\"},{\"instruction\":\"沿玛纳斯街途径迎宾大道向北行驶1.0千米右转\",\"road\":\"玛纳斯街\",\"distance\":\"1050\",\"orientation\":\"北\",\"duration\":\"89\"},{\"instruction\":\"向东北行驶159米左转\",\"road\":\"\",\"distance\":\"159\",\"orientation\":\"东北\",\"duration\":\"63\"},{\"instruction\":\"向西行驶67米右转\",\"road\":\"\",\"distance\":\"67\",\"orientation\":\"西\",\"duration\":\"21\"},{\"instruction\":\"沿迎宾大道向北行驶774米左转\",\"road\":\"迎宾大道\",\"distance\":\"774\",\"orientation\":\"北\",\"duration\":\"97\"},{\"instruction\":\"沿南环东路向西行驶1.2千米左转\",\"road\":\"南环东路\",\"distance\":\"1190\",\"orientation\":\"西\",\"duration\":\"174\"},{\"instruction\":\"沿团结南街向南行驶280米右转\",\"road\":\"团结南街\",\"distance\":\"280\",\"orientation\":\"南\",\"duration\":\"47\"},{\"instruction\":\"沿铁二路向西行驶198米右转\",\"road\":\"铁二路\",\"distance\":\"198\",\"orientation\":\"西\",\"duration\":\"29\"},{\"instruction\":\"向东北行驶29米到达目的地\",\"road\":\"\",\"distance\":\"29\",\"orientation\":\"东北\",\"duration\":\"11\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "subutai_return": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.059819,43.907797\",\"destination\":\"84.898292,44.405604\",\"paths\":[{\"path\":\"\",\"distance\":\"300963\",\"duration\":\"12461\",\"steps\":[{\"instruction\":\"沿苏布台北互通向北行驶1米减速行驶到达收费站\",\"road\":\"苏布台北互通\",\"distance\":\"1\",\"orientation\":\"北\",\"duration\":\"2\"},{\"instruction\":\"沿苏布台北互通向北行驶352米靠左\",\"road\":\"苏布台北互通\",\"distance\":\"352\",\"orientation\":\"北\",\"duration\":\"20\"},{\"instruction\":\"沿苏布台北互通途径G577精伊高速向北行驶6.4千米直行进入隧道\",\"road\":\"苏布台北互通\",\"distance\":\"6437\",\"orientation\":\"北\",\"duration\":\"259\"},{\"instruction\":\"沿苏布台4号隧道途径G577精伊高速向北行驶7.3千米直行进入隧道\",\"road\":\"苏布台4号隧道\",\"distance\":\"7313\",\"orientation\":\"北\",\"duration\":\"291\"},{\"instruction\":\"沿苏布台三号隧道途径G577精伊高速向西北行驶3.6千米直行进入隧道\",\"road\":\"苏布台三号隧道\",\"distance\":\"3574\",\"orientation\":\"西北\",\"duration\":\"172\"},{\"instruction\":\"沿苏布台二号隧道途径G577精伊高速向北行驶2.0千米直行进入隧道\",\"road\":\"苏布台二号隧道\",\"distance\":\"1958\",\"orientation\":\"北\",\"duration\":\"89\"},{\"instruction\":\"沿苏布台一号隧道途径博尔博松特大桥、G577精伊高速、精斯格布拉克特大桥、科克乔克2号特大桥、科克乔克1号特大桥向东北行驶9.1千米直行进入隧道\",\"road\":\"苏布台一号隧道\",\"distance\":\"9109\",\"orientation\":\"东北\",\"duration\":\"368\"},{\"instruction\":\"沿北天山隧道途径G577精伊高速、铁列克萨依特大桥、尼勒克会岸1号特大桥、新龙口特大桥、G30连霍高速入口向东北行驶59.4千米向右前方行驶\",\"road\":\"北天山隧道\",\"distance\":\"59403\",\"orientation\":\"东北\",\"duration\":\"2354\"},{\"instruction\":\"沿G30连霍高速入口途径G30连霍高速、精河大桥、托托1号中桥、古尔图大桥、四棵树大桥、奎屯河大桥向东行驶204.0千米向右前方行驶进入匝道\",\"road\":\"G30连霍高速入口\",\"distance\":\"203957\",\"orientation\":\"东\",\"duration\":\"8059\"},{\"instruction\":\"沿奎屯西互通向东行驶363米靠左\",\"road\":\"奎屯西互通\",\"distance\":\"363\",\"orientation\":\"东\",\"duration\":\"15\"},{\"instruction\":\"沿奎屯西互通向东行驶676米靠右\",\"road\":\"奎屯西互通\",\"distance\":\"676\",\"orientation\":\"东\",\"duration\":\"42\"},{\"instruction\":\"沿奎屯西互通向北行驶688米靠左\",\"road\":\"奎屯西互通\",\"distance\":\"688\",\"orientation\":\"北\",\"duration\":\"49\"},{\"instruction\":\"沿奎屯西互通向东北行驶441米减速行驶到达收费站\",\"road\":\"奎屯西互通\",\"distance\":\"441\",\"orientation\":\"东北\",\"duration\":\"69\"},{\"instruction\":\"沿奎屯西互通向东北行驶202米靠右\",\"road\":\"奎屯西互通\",\"distance\":\"202\",\"orientation\":\"东北\",\"duration\":\"35\"},{\"instruction\":\"沿奎屯西立交桥向东北行驶499米左转\",\"road\":\"奎屯西立交桥\",\"distance\":\"499\",\"orientation\":\"东北\",\"duration\":\"42\"},{\"instruction\":\"向东北行驶374米右转\",\"road\":\"\",\"distance\":\"374\",\"orientation\":\"东北\",\"duration\":\"74\"},{\"instruction\":\"沿库区路向东行驶2.0千米向左前方行驶\",\"road\":\"库区路\",\"distance\":\"1972\",\"orientation\":\"东\",\"duration\":\"138\"},{\"instruction\":\"沿库区路向东行驶133米左转\",\"road\":\"库区路\",\"distance\":\"133\",\"orientation\":\"东\",\"duration\":\"42\"},{\"instruction\":\"沿储运路向东北行驶653米右转\",\"road\":\"储运路\",\"distance\":\"653\",\"orientation\":\"东北\",\"duration\":\"52\"},{\"instruction\":\"沿南环西路向东行驶1.5千米右转\",\"road\":\"南环西路\",\"distance\":\"1511\",\"orientation\":\"东\",\"duration\":\"124\"},{\"instruction\":\"向南行驶332米左转\",\"road\":\"\",\"distance\":\"332\",\"orientation\":\"南\",\"duration\":\"48\"},{\"instruction\":\"沿铁二路向东行驶986米左转\",\"road\":\"铁二路\",\"distance\":\"986\",\"orientation\":\"东\",\"duration\":\"106\"},{\"instruction\":\"向东北行驶29米到达目的地\",\"road\":\"\",\"distance\":\"29\",\"orientation\":\"东北\",\"duration\":\"11\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "return_entry": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"route\":{\"origin\":\"84.898292,44.405604\",\"destination\":\"84.900443,44.403589\",\"paths\":[{\"distance\":348,\"duration\":278,\"steps\":[{\"instruction\":\"向南步行29米左转\",\"road\":\"\",\"distance\":29,\"orientation\":\"南\",\"duration\":23},{\"instruction\":\"向东步行18米右转\",\"road\":\"\",\"distance\":18,\"orientation\":\"东\",\"duration\":14},{\"instruction\":\"向南步行97米左转\",\"road\":\"\",\"distance\":97,\"orientation\":\"南\",\"duration\":78},{\"instruction\":\"向东步行144米右转\",\"road\":\"\",\"distance\":144,\"orientation\":\"东\",\"duration\":115},{\"instruction\":\"向南步行26米左转\",\"road\":\"\",\"distance\":26,\"orientation\":\"南\",\"duration\":21},{\"instruction\":\"向东步行34米到达目的地\",\"road\":\"\",\"distance\":34,\"orientation\":\"东\",\"duration\":27}]}]}}"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

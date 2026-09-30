@@ -1,0 +1,38 @@
+[
+  {
+    "key": "search:蜜香阁 尼勒克",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "蜜香阁",
+      "city": "尼勒克县",
+      "citylimit": true
+    }
+  },
+  {
+    "key": "around:云舒周边餐饮",
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "餐厅",
+      "location": "83.429987,43.742241",
+      "radius": "1500"
+    }
+  },
+  {
+    "key": "distance:云舒>蜜蜂小镇:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "83.429987,43.742241",
+      "destination": "83.430646,43.740267",
+      "type": "3"
+    }
+  },
+  {
+    "key": "distance:云舒>海蒂车:3",
+    "tool": "maps_distance",
+    "args": {
+      "origins": "83.429987,43.742241",
+      "destination": "83.426692,43.741388",
+      "type": "3"
+    }
+  }
+]

@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 1,
+  "homeHero": "kanas-autumn-river",
+  "homepageCopy": {
+    "policy-baseline": "9 月 30 日复核 · D7 按施工安排中沟往返，进镇导行待核；全程里程尚未核齐",
+    "plan-status": "v3.9 · 奎屯火车站服务点取还 · 4 人 / 1 车 / 8 晚",
+    "vehicle-summary": "理想L8 2024款Pro（增程四驱 · 六座 · 空悬）· 神州奎屯火车站服务点取还",
+    "day1-tab": "火车到奎屯，奎屯取车赴布尔津",
+    "hero-summary": "从白哈巴的村落走到喀纳斯河湾，再把赛里木湖的蓝、伊宁街巷的烟火和库尔德宁的云杉，慢慢收进十天的记忆。赶路有安排，停留有重点，翻开就能找到下一程。",
+    "route-logic": "八晚住宿串起北疆与伊犁，返程另留两间三小时钟点房。前半程看村落与河湾，后半程走湖岸、街巷与山林；最后一天以唐布拉为主选，那拉提为条件备选，独库不通则走精伊连霍。",
+    "gate-title": "七项准备，出发前逐一确认",
+    "gate-summary": "把确认过的事项勾下来。记录保存在当前浏览器，出发时带上相应订单、公告和答复。",
+    "version": "v3.9 · 2026.09.30 东沟施工与中沟往返更新"
+  },
+  "documents": [
+    {
+      "file": "00-总目录.md",
+      "group": "overview",
+      "groupLabel": "总览与研究",
+      "title": "总目录",
+      "kicker": "MASTER INDEX",
+      "summary": "从行前准备到每天的时间轴，再到吃住、拍摄和应急，按你现在需要的信息翻阅。",
+      "tags": [
+        "入口",
+        "全书"
+      ],
+      "cardImage": "route-wolong-bay",
+      "heroImage": "route-wolong-bay"
+    },
+    {
+      "file": "01-研究底稿.md",
+      "group": "overview",
+      "groupLabel": "总览与研究",
+      "title": "研究底稿",
+      "kicker": "RESEARCH BASE",
+      "summary": "主线距离、接驳与住点的资料底稿。看清静态地图能支持什么，哪些仍需出发前确认。",
+      "tags": [
+        "官方来源",
+        "政策"
+      ],
+      "cardImage": "wucaitan",
+      "heroImage": "wucaitan"
+    },
+    {
+      "file": "02-路线推导.md",
+      "group": "overview",
+      "groupLabel": "总览与研究",
+      "title": "路线推导：为什么是这一条单线",
+      "kicker": "ROUTE DESIGN",
+      "summary": "这条环线为什么这样走，哪些风景值得慢下来，以及现有分支各自的时间与体力代价。",
+      "tags": [
+        "路线",
+        "体验提升",
+        "取舍"
+      ],
+      "cardImage": "route-wolong-bay",
+      "heroImage": "route-wolong-bay"
+    },
+    {
+      "file": "03-全书一致性与政策时效性复核.md",
+      "group": "overview",
+      "groupLabel": "总览与研究",
+      "title": "一致性与政策复核",
+      "kicker": "FINAL AUDIT",
+      "summary": "把车票、取还车、景区与住宿连成一条时间链。七项准备逐一确认，现场变化按分支处理。",
+      "tags": [
+        "闸门",
+        "终审"
+      ],
+      "cardImage": "sayram-panorama",
+      "heroImage": "sayram-panorama"
+    },
+    {
+      "file": "04-来源与复核日志.md",
+      "group": "overview",
+      "groupLabel": "总览与研究",
+      "title": "来源与复核日志",
+      "kicker": "RESEARCH LOG",
+      "summary": "保留订单回填、资料日期和每次修订依据。最新审查在前，历史快照按当时的证据状态阅读。",
+      "tags": [
+        "来源",
+        "高德路线",
+        "官方公告",
+        "复核"
+      ]
+    },
+    {
+      "file": "Day0-香港-乌鲁木齐.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 0 · 香港 → 乌鲁木齐（凌晨落地）",
+      "kicker": "10.02 / DAY 0",
+      "summary": "从深圳湾出发，经香港飞往乌鲁木齐。凌晨直达车站旁的酒店，睡好这一觉，明天再开启自驾。",
+      "tags": [
+        "HB862 按客票确认",
+        "凌晨入住"
+      ],
+      "cardImage": "hong-kong-airport-t2",
+      "heroImage": "hong-kong-airport-t2"
+    },
+    {
+      "file": "Day1-乌鲁木齐-布尔津.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 1 · 乌鲁木齐 → 布尔津（长途转场）",
+      "kicker": "10.03 / DAY 1",
+      "summary": "在火车上补眠，在奎屯吃第一顿新疆饭，再一路北上布尔津。午餐留给滋味，驾驶留足休息。",
+      "tags": [
+        "Day1",
+        "火车",
+        "奎屯站",
+        "取车",
+        "夜行"
+      ],
+      "cardImage": "burqin",
+      "heroImage": "burqin"
+    },
+    {
+      "file": "Day2-布尔津-白哈巴.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 2 · 布尔津 → 白哈巴 → 观鱼台",
+      "kicker": "10.04 / DAY 2",
+      "summary": "从布尔津驶入山间，中午在白哈巴落脚，下午换乘去观鱼台看湖，末班车返村。晚起方案则把这一天留给白哈巴，按已列条件衔接后两天。",
+      "tags": [
+        "Day2",
+        "白哈巴",
+        "观鱼台",
+        "2号线",
+        "主备方案"
+      ],
+      "cardImage": "altay-river-aerial",
+      "heroImage": "baihaba-autumn"
+    },
+    {
+      "file": "Day3-白哈巴-喀纳斯全天.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 3 · 喀纳斯三湾 → 白哈巴 → 布尔津",
+      "kicker": "10.05 / DAY 3",
+      "summary": "从神仙湾乘车到月亮湾，再沿栈道走向卧龙湾。主选争取 15:45 返白哈巴、最迟 16:30 前驾车出村；铁贾公路与续住各有条件，见当天说明。",
+      "tags": [
+        "Day3",
+        "三湾",
+        "观鱼台",
+        "白哈巴",
+        "布尔津",
+        "主备方案"
+      ],
+      "cardImage": "kanas-autumn-river",
+      "heroImage": "kanas-autumn-river"
+    },
+    {
+      "file": "Day4-白哈巴-克拉玛依-奎屯.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 4 · 布尔津 → 克拉玛依 → 奎屯",
+      "kicker": "10.06 / DAY 4",
+      "summary": "10:00 从布尔津出发，经乌尔禾午餐与途中休息，计划 17:00—17:45 到奎屯。今晚洗去赶路的疲惫，为明天的湖光养足精神；白哈巴续住分支另算。",
+      "tags": [
+        "Day4",
+        "布尔津",
+        "克拉玛依",
+        "奎屯"
+      ],
+      "cardImage": "karamay-pumpjacks",
+      "heroImage": "karamay-pumpjacks"
+    },
+    {
+      "file": "Day5-奎屯-赛里木湖.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 5 · 奎屯 → 赛里木湖",
+      "kicker": "10.07 / DAY 5",
+      "summary": "抵达赛里木湖后，松树头全景与东岸慢行二选一。给远山、湖色和一场日落留出从容的时间。",
+      "tags": [
+        "Day5",
+        "奎屯",
+        "赛里木湖"
+      ],
+      "cardImage": "sayram-lakeshore",
+      "heroImage": "sayram-lakeshore"
+    },
+    {
+      "file": "Day6-赛里木湖-伊宁.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 6 · 赛里木湖环湖 → 伊宁",
+      "kicker": "10.08 / DAY 6",
+      "summary": "上午走赛湖北岸与西岸，出湖后车观果子沟，下午进入伊宁。六星街写真、列巴与热茶，各按同行人的偏好安排。",
+      "tags": [
+        "Day6",
+        "赛里木湖",
+        "果子沟",
+        "伊宁",
+        "六星街"
+      ],
+      "cardImage": "ili-river-sunset",
+      "heroImage": "ili-river-sunset"
+    },
+    {
+      "file": "Day7-伊宁-那拉提-唐布拉-尼勒克.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 7 · 伊宁 → 库尔德宁 → 新源",
+      "kicker": "10.09 / DAY 7",
+      "summary": "把下午留给齐梦德的云杉与雪峰。08:00 从伊宁出发，按施工安排中沟进、中沟出，19:00—19:30 到新源汉庭；进镇导行仍待核。",
+      "tags": [
+        "中沟往返",
+        "东沟施工",
+        "齐梦德",
+        "骑马",
+        "新源汉庭"
+      ]
+    },
+    {
+      "file": "Day8-尼勒克-乌鲁木齐.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 8 · 新源 → 独库北段 / 高速 → 奎屯 → 乌鲁木齐",
+      "kicker": "10.10 / DAY 8",
+      "summary": "09:00 起床，经唐布拉看最后一段天山，17:00 争取抵达还车服务点。那拉提须重新核足休息与火车衔接；独库封路则走精伊连霍。",
+      "tags": [
+        "唐布拉",
+        "那拉提",
+        "独库北段",
+        "精伊高速",
+        "还车"
+      ],
+      "cardImage": "urumqi-skyline",
+      "heroImage": "urumqi-skyline"
+    },
+    {
+      "file": "Day9-乌鲁木齐-香港.md",
+      "group": "days",
+      "groupLabel": "每日 RoadBook",
+      "title": "Day 9 · HX457 乌鲁木齐 → 香港 → 深圳",
+      "kicker": "10.11 / DAY 9",
+      "summary": "机上补眠，抵港后吃热早餐，再从机场衔接返深交通。带着秋色回家，照片和账单等休息好再整理。",
+      "tags": [
+        "HX457",
+        "上午返深"
+      ],
+      "cardImage": "urumqi-skyline",
+      "heroImage": "urumqi-skyline"
+    },
+    {
+      "file": "专题-景区百科.md",
+      "group": "topics",
+      "groupLabel": "专题手册",
+      "title": "景区百科",
+      "kicker": "DESTINATION ATLAS",
+      "summary": "白哈巴看村落，喀纳斯看河湾，赛湖看光线，唐布拉看山谷。到现场看什么、怎样停留，这里说清。",
+      "tags": [
+        "景区",
+        "导游讲解"
+      ],
+      "cardImage": "kanas-lake",
+      "heroImage": "kanas-lake"
+    },
+    {
+      "file": "专题-理想L8新疆自驾指南.md",
+      "group": "topics",
+      "groupLabel": "专题手册",
+      "title": "理想L8 · 2024款 Pro 新疆自驾指南",
+      "kicker": "VEHICLE PLAYBOOK",
+      "summary": "取车验车、油电补给与山区驾驶，围绕实车和当日道路作判断。固定阈值与宣传续航不代替车机提示。",
+      "tags": [
+        "理想L8",
+        "增程四驱",
+        "六座",
+        "新手驾驶",
+        "北疆自驾"
+      ],
+      "cardImage": "sayram-road",
+      "heroImage": "sayram-road"
+    },
+    {
+      "file": "专题-新疆摄影地图.md",
+      "group": "topics",
+      "groupLabel": "专题手册",
+      "title": "新疆摄影地图",
+      "kicker": "PHOTO MAP",
+      "summary": "从河湾的层次到湖面的光线，按日期找机位、按体力安排拍摄。留一张同行人的合影，也给收起相机后的风景留一点时间。",
+      "tags": [
+        "机位",
+        "星空"
+      ],
+      "cardImage": "kanas-moon-bay",
+      "heroImage": "wucaitan"
+    },
+    {
+      "file": "专题-无人机飞行规范.md",
+      "group": "topics",
+      "groupLabel": "专题手册",
+      "title": "无人机飞行规范",
+      "kicker": "FLIGHT RULES",
+      "summary": "边境、机场与高速公路沿线属管制空域，国庆期间沿途县市还会全域禁飞。登记、报备与申请分开办，先看能不能飞。",
+      "tags": [
+        "实名登记",
+        "管制空域",
+        "禁飞"
+      ],
+      "cardImage": "g217-north",
+      "heroImage": "g217-north"
+    },
+    {
+      "file": "专题-酒店指南.md",
+      "group": "topics",
+      "groupLabel": "专题手册",
+      "title": "酒店指南",
+      "kicker": "STAY / LOGISTICS",
+      "summary": "八晚主选与返程钟点房，把每一天安稳接起来。停车、供暖、晚到保房和接驳逐站查阅，住宿备选与历史订单分别说明。",
+      "tags": [
+        "停车",
+        "供暖"
+      ],
+      "cardImage": "burqin",
+      "heroImage": "sayram-lakeshore"
+    },
+    {
+      "file": "专题-美食指南.md",
+      "group": "topics",
+      "groupLabel": "专题手册",
+      "title": "美食指南",
+      "kicker": "LOCAL TABLE",
+      "summary": "大盘鸡的酱香、冷水鱼的鲜、抓饭的油润与馕的麦香，沿途慢慢尝。先看四人怎么点，再查哪家顺路、何时营业。",
+      "tags": [
+        "冷水鱼",
+        "羊肉"
+      ],
+      "cardImage": "burqin",
+      "heroImage": "burqin"
+    },
+    {
+      "file": "专题-预算规划.md",
+      "group": "topics",
+      "groupLabel": "专题手册",
+      "title": "预算规划",
+      "kicker": "COST CONTROL",
+      "summary": "机票与含钟点房住宿已有金额 ¥16,075.92；其余费用按真实订单补齐，备选与退款各算各的。",
+      "tags": [
+        "预算",
+        "订单",
+        "回填"
+      ],
+      "cardImage": "sayram-panorama",
+      "heroImage": "sayram-panorama"
+    },
+    {
+      "file": "专题-新疆旅行应急宝典.md",
+      "group": "topics",
+      "groupLabel": "专题手册",
+      "title": "新疆旅行应急宝典",
+      "kicker": "CONTINGENCY MANUAL",
+      "summary": "先找应急电话，再按路段处理天气、车辆、失联与交通异常。把能离线使用的信息带在身边。",
+      "tags": [
+        "应急",
+        "电话"
+      ],
+      "cardImage": "sayram-arrival",
+      "heroImage": "sayram-arrival"
+    }
+  ],
+  "sectionImages": {
+    "专题-景区百科.md": {
+      "1. 五彩滩（v3.8 起取消，仅作沿途了解）": {
+        "asset": "wucaitan"
+      },
+      "2. 白哈巴：在云端一晚与双日接驳": {
+        "asset": "baihaba-autumn"
+      },
+      "3. 喀纳斯：D3 区间车一日": {
+        "asset": "kanas-autumn-river"
+      },
+      "4. D4 布尔津至奎屯转场": {
+        "asset": "karamay-pumpjacks"
+      },
+      "5. 赛里木湖：一晚一晨与环湖": {
+        "asset": "sayram-panorama"
+      },
+      "6. 唐布拉百里画廊：D7 独库环线穿越": {
+        "asset": "tangbula-grassland"
+      }
+    }
+  }
+}

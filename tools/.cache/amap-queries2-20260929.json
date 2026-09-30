@@ -1,0 +1,206 @@
+[
+  {
+    "key": "detail:B03E700G4W",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03E700G4W"
+    }
+  },
+  {
+    "key": "detail:B0KRLX6MXK",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KRLX6MXK"
+    }
+  },
+  {
+    "key": "detail:B0MA5RPPYR",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MA5RPPYR"
+    }
+  },
+  {
+    "key": "detail:B0JU3MRFHC",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0JU3MRFHC"
+    }
+  },
+  {
+    "key": "detail:B0MUTDL86I",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MUTDL86I"
+    }
+  },
+  {
+    "key": "detail:B0FFIS2SZU",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFIS2SZU"
+    }
+  },
+  {
+    "key": "detail:B0JGBU5HTK",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0JGBU5HTK"
+    }
+  },
+  {
+    "key": "detail:B0FFF4UW5R",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFF4UW5R"
+    }
+  },
+  {
+    "key": "detail:B0FFFDXFBK",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFFDXFBK"
+    }
+  },
+  {
+    "key": "detail:B0FFL2UMIZ",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFL2UMIZ"
+    }
+  },
+  {
+    "key": "detail:B038A0LOVH",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B038A0LOVH"
+    }
+  },
+  {
+    "key": "detail:B0KDYAY50F",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KDYAY50F"
+    }
+  },
+  {
+    "key": "detail:B0K1OHU3Z3",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0K1OHU3Z3"
+    }
+  },
+  {
+    "key": "detail:B0FFLJU371",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFLJU371"
+    }
+  },
+  {
+    "key": "search:晚夏摄影 伊宁",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "晚夏摄影",
+      "city": "伊宁市",
+      "citylimit": true
+    }
+  },
+  {
+    "key": "search:江苏路180号 伊宁",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "江苏路180号",
+      "city": "伊宁市",
+      "citylimit": true
+    }
+  },
+  {
+    "key": "search:布尔津 河堤夜市",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "河堤夜市",
+      "city": "布尔津县",
+      "citylimit": true
+    }
+  },
+  {
+    "key": "search:布尔津 冷水鱼",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "冷水鱼",
+      "city": "布尔津县",
+      "citylimit": true
+    }
+  },
+  {
+    "key": "search:奎屯 早餐",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "烤包子",
+      "city": "奎屯市",
+      "citylimit": true
+    }
+  },
+  {
+    "key": "around:白哈巴餐厅",
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "餐厅",
+      "location": "86.781171,48.683209",
+      "radius": "3000"
+    }
+  },
+  {
+    "key": "around:白哈巴农家乐",
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "农家乐",
+      "location": "86.781171,48.683209",
+      "radius": "3000"
+    }
+  },
+  {
+    "key": "around:唐布拉民宿",
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "民宿",
+      "location": "83.919793,43.718426",
+      "radius": "5000"
+    }
+  },
+  {
+    "key": "around:柒朵周边餐饮",
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "餐厅",
+      "location": "86.877406,47.702818",
+      "radius": "800"
+    }
+  },
+  {
+    "key": "around:禧苑汀云周边早餐",
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "早餐",
+      "location": "82.483017,43.794047",
+      "radius": "2000"
+    }
+  },
+  {
+    "key": "geo:唐布拉百里画廊",
+    "tool": "maps_geo",
+    "args": {
+      "address": "唐布拉百里画廊",
+      "city": "尼勒克县"
+    }
+  },
+  {
+    "key": "geo:尼勒克蜜蜂小镇",
+    "tool": "maps_geo",
+    "args": {
+      "address": "尼勒克县蜜蜂小镇",
+      "city": "尼勒克县"
+    }
+  }
+]

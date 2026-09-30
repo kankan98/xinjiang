@@ -1,0 +1,702 @@
+[
+  {
+    "key": "detail:B02F37UK27",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B02F37UK27"
+    },
+    "meta": {
+      "name": "深圳湾口岸",
+      "day": "D0",
+      "kind": "hub"
+    }
+  },
+  {
+    "key": "detail:B073C02XX4",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B073C02XX4"
+    },
+    "meta": {
+      "name": "香港国际机场 T1",
+      "day": "D0",
+      "kind": "hub"
+    }
+  },
+  {
+    "key": "detail:B03DF0668Z",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03DF0668Z"
+    },
+    "meta": {
+      "name": "乌鲁木齐天山国际机场·北航站区",
+      "day": "D0",
+      "kind": "hub"
+    }
+  },
+  {
+    "key": "detail:B0LUB5JASH",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LUB5JASH"
+    },
+    "meta": {
+      "name": "维斯顿国际酒店（乌鲁木齐站北广场店）",
+      "day": "D0",
+      "kind": "stay"
+    }
+  },
+  {
+    "key": "detail:B0FFFQ2NHY",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFFQ2NHY"
+    },
+    "meta": {
+      "name": "乌鲁木齐站",
+      "day": "D1",
+      "kind": "hub"
+    }
+  },
+  {
+    "key": "detail:B0H6PMMFFA",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0H6PMMFFA"
+    },
+    "meta": {
+      "name": "奎城味到和田烧烤（团结南街）",
+      "day": "D1",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0L03LELGJ",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0L03LELGJ"
+    },
+    "meta": {
+      "name": "巴扎屋大盘鸡·新疆菜（奎屯乌苏街店）",
+      "day": "D1",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0KRFURYHQ",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KRFURYHQ"
+    },
+    "meta": {
+      "name": "马有鱼·馕坑烤全鱼（布尔津店）",
+      "day": "D1",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0JD9C4JJV",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0JD9C4JJV"
+    },
+    "meta": {
+      "name": "马依莱牛肉面",
+      "day": "D2",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0FFLHQFH3",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFLHQFH3"
+    },
+    "meta": {
+      "name": "白哈巴村停车场",
+      "day": "D2",
+      "kind": "parking"
+    }
+  },
+  {
+    "key": "detail:B0KRDHMBXU",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KRDHMBXU"
+    },
+    "meta": {
+      "name": "在云端民宿",
+      "day": "D2",
+      "kind": "stay"
+    }
+  },
+  {
+    "key": "detail:B0HRSZQ7M1",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0HRSZQ7M1"
+    },
+    "meta": {
+      "name": "白哈巴游客中心",
+      "day": "D2",
+      "kind": "hub"
+    }
+  },
+  {
+    "key": "detail:B0FFHCT6UN",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFHCT6UN"
+    },
+    "meta": {
+      "name": "喀纳斯换乘中心",
+      "day": "D2",
+      "kind": "hub"
+    }
+  },
+  {
+    "key": "detail:B0HGT476CU",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0HGT476CU"
+    },
+    "meta": {
+      "name": "神仙湾观景台",
+      "day": "D2",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B0FFLO6XOF",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFLO6XOF"
+    },
+    "meta": {
+      "name": "月亮湾观景台",
+      "day": "D2",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B0FFLIE2RP",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFLIE2RP"
+    },
+    "meta": {
+      "name": "卧龙湾观景台",
+      "day": "D2",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B0H2LC4Z23",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0H2LC4Z23"
+    },
+    "meta": {
+      "name": "鸿宇福瑞酒店（喀纳斯塔桥店）",
+      "day": "D3",
+      "kind": "stay"
+    }
+  },
+  {
+    "key": "detail:B0K60YYLB5",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0K60YYLB5"
+    },
+    "meta": {
+      "name": "侯三鱼庄（夜光城店）",
+      "day": "D3",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0K6P5Z7V6",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0K6P5Z7V6"
+    },
+    "meta": {
+      "name": "边城佳宴冷水鱼庄",
+      "day": "D3",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0IUM7B5F5",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0IUM7B5F5"
+    },
+    "meta": {
+      "name": "布尔津县一壶奶茶馆",
+      "day": "D3",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0FFKTCH8P",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFKTCH8P"
+    },
+    "meta": {
+      "name": "单一绝大盘鸡（乌尔禾玉龙广场店）",
+      "day": "D4",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B03DE0004L",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03DE0004L"
+    },
+    "meta": {
+      "name": "世界魔鬼城（5A）",
+      "day": "D4",
+      "kind": "optional"
+    }
+  },
+  {
+    "key": "detail:B0FFG2BGUQ",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFG2BGUQ"
+    },
+    "meta": {
+      "name": "独山子大峡谷",
+      "day": "D4",
+      "kind": "optional"
+    }
+  },
+  {
+    "key": "detail:B0LRAHZ4LS",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LRAHZ4LS"
+    },
+    "meta": {
+      "name": "奎屯希尔顿欢朋酒店",
+      "day": "D4",
+      "kind": "stay"
+    }
+  },
+  {
+    "key": "detail:B0FFHO53DT",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFHO53DT"
+    },
+    "meta": {
+      "name": "托托服务区",
+      "day": "D5",
+      "kind": "service"
+    }
+  },
+  {
+    "key": "detail:B038D0LN3J",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B038D0LN3J"
+    },
+    "meta": {
+      "name": "精河服务区",
+      "day": "D5",
+      "kind": "service"
+    }
+  },
+  {
+    "key": "detail:B0M6U7RNQ6",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0M6U7RNQ6"
+    },
+    "meta": {
+      "name": "季枫国际酒店（赛里木湖景区店）",
+      "day": "D5",
+      "kind": "stay"
+    }
+  },
+  {
+    "key": "detail:B0MUCZ0M0C",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MUCZ0M0C"
+    },
+    "meta": {
+      "name": "松树头观景台（西南角）",
+      "day": "D5",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B0MAHHL4SG",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MAHHL4SG"
+    },
+    "meta": {
+      "name": "牛润烈新疆菜（赛里木湖店）",
+      "day": "D5",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0FFLJU371",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFLJU371"
+    },
+    "meta": {
+      "name": "北门游客中心（西北角）",
+      "day": "D6",
+      "kind": "hub"
+    }
+  },
+  {
+    "key": "detail:B0FFG6HONC",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFG6HONC"
+    },
+    "meta": {
+      "name": "西海草原",
+      "day": "D6",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B0FFM98MIV",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFM98MIV"
+    },
+    "meta": {
+      "name": "南门售票处/停车场",
+      "day": "D6",
+      "kind": "hub"
+    }
+  },
+  {
+    "key": "detail:B0KGM7T2JT",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KGM7T2JT"
+    },
+    "meta": {
+      "name": "伊宁解放西路亚朵酒店",
+      "day": "D6",
+      "kind": "stay"
+    }
+  },
+  {
+    "key": "detail:B03E70M6LB",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03E70M6LB"
+    },
+    "meta": {
+      "name": "那拉提镇（午餐补油）",
+      "day": "D7",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B03E700CXV",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03E700CXV"
+    },
+    "meta": {
+      "name": "玉希莫勒盖达坂",
+      "day": "D7",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B03E70M4Z5",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03E70M4Z5"
+    },
+    "meta": {
+      "name": "乔尔玛烈士陵园",
+      "day": "D7",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B0FFLANKAJ",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFLANKAJ"
+    },
+    "meta": {
+      "name": "唐布拉百里画廊",
+      "day": "D7",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B03E7009NM",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03E7009NM"
+    },
+    "meta": {
+      "name": "阿克塔斯",
+      "day": "D7",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B03E7009NL",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03E7009NL"
+    },
+    "meta": {
+      "name": "唐布拉国家森林公园",
+      "day": "D7",
+      "kind": "scene"
+    }
+  },
+  {
+    "key": "detail:B0HROCN5ME",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0HROCN5ME"
+    },
+    "meta": {
+      "name": "吐达洪馕坑肉烤包子店",
+      "day": "D7",
+      "kind": "food"
+    }
+  },
+  {
+    "key": "detail:B0G0U5P2S7",
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0G0U5P2S7"
+    },
+    "meta": {
+      "name": "桔子酒店（乌鲁木齐高铁站店）",
+      "day": "D8",
+      "kind": "stay"
+    }
+  },
+  {
+    "key": "search:奎屯站",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "奎屯站",
+      "city": "奎屯市",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "奎屯站",
+      "city": "奎屯市"
+    }
+  },
+  {
+    "key": "search:柒朵轻居酒店 布尔津",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "柒朵轻居酒店 布尔津",
+      "city": "布尔津县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "柒朵轻居酒店 布尔津",
+      "city": "布尔津县"
+    }
+  },
+  {
+    "key": "search:禧苑汀云民宿 尼勒克",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "禧苑汀云民宿 尼勒克",
+      "city": "尼勒克县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "禧苑汀云民宿 尼勒克",
+      "city": "尼勒克县"
+    }
+  },
+  {
+    "key": "search:贾登峪",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "贾登峪",
+      "city": "布尔津县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "贾登峪",
+      "city": "布尔津县"
+    }
+  },
+  {
+    "key": "search:铁热克提乡",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "铁热克提乡",
+      "city": "哈巴河县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "铁热克提乡",
+      "city": "哈巴河县"
+    }
+  },
+  {
+    "key": "search:果子沟大桥",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "果子沟大桥",
+      "city": "霍城县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "果子沟大桥",
+      "city": "霍城县"
+    }
+  },
+  {
+    "key": "search:六星街",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "六星街",
+      "city": "伊宁市",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "六星街",
+      "city": "伊宁市"
+    }
+  },
+  {
+    "key": "search:海蒂车饭店 种蜂场",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "海蒂车饭店 种蜂场",
+      "city": "尼勒克县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "海蒂车饭店 种蜂场",
+      "city": "尼勒克县"
+    }
+  },
+  {
+    "key": "search:云舒小院休闲美宿 尼勒克",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "云舒小院休闲美宿 尼勒克",
+      "city": "尼勒克县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "云舒小院休闲美宿 尼勒克",
+      "city": "尼勒克县"
+    }
+  },
+  {
+    "key": "search:苏氏牛肉面 奎屯",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "苏氏牛肉面 奎屯",
+      "city": "奎屯市",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "苏氏牛肉面 奎屯",
+      "city": "奎屯市"
+    }
+  },
+  {
+    "key": "search:51号烤包子一把抓 奎屯",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "51号烤包子一把抓 奎屯",
+      "city": "奎屯市",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "51号烤包子一把抓 奎屯",
+      "city": "奎屯市"
+    }
+  },
+  {
+    "key": "search:昌吉二六工丸子汤 尼勒克",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "昌吉二六工丸子汤 尼勒克",
+      "city": "尼勒克县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "昌吉二六工丸子汤 尼勒克",
+      "city": "尼勒克县"
+    }
+  },
+  {
+    "key": "search:唐布拉 民宿",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "唐布拉 民宿",
+      "city": "尼勒克县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "唐布拉 民宿",
+      "city": "尼勒克县"
+    }
+  },
+  {
+    "key": "search:布尔津 马依莱牛肉面",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "布尔津 马依莱牛肉面",
+      "city": "布尔津县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "布尔津 马依莱牛肉面",
+      "city": "布尔津县"
+    }
+  },
+  {
+    "key": "search:乌鲁木齐 桔子酒店 高铁站",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "乌鲁木齐 桔子酒店 高铁站",
+      "city": "乌鲁木齐市",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "乌鲁木齐 桔子酒店 高铁站",
+      "city": "乌鲁木齐市"
+    }
+  },
+  {
+    "key": "search:白哈巴 在云端民宿",
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "白哈巴 在云端民宿",
+      "city": "哈巴河县",
+      "citylimit": true
+    },
+    "meta": {
+      "keywords": "白哈巴 在云端民宿",
+      "city": "哈巴河县"
+    }
+  }
+]

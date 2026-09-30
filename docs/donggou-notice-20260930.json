@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "audit_date": "2026-09-30",
+  "title": "关于库尔德宁景区东沟道路施工交通管制的公告",
+  "source_url": "https://mp.weixin.qq.com/s?__biz=MzkyOTcyMTk4NA==&mid=2247589180&idx=1&sn=13573abc92620933142b62fa753c5686&chksm=c31cfc1e695cb9f4d6e4927bec2978d042354cd50d796560c942176561481e9fe0ef625dcaea&scene=27",
+  "retrieval": {
+    "acquired_completed_at_utc": "2026-09-30T05:04:09.294+00:00",
+    "acquired_completed_at_asia_shanghai": "2026-09-30T13:04:09.294+08:00",
+    "evidence_method": "此前公开 HTTP 获取正文并提取元数据；本文件仅从既有本地工具记录恢复，没有再次请求微信 URL。",
+    "tool_output_chunk_id": "92f046",
+    "local_session_record": "/Users/kankan/.codex/sessions/2026/09/30/rollout-2026-09-30T13-02-14-01a0f0b1-1e81-7fd0-a32d-505c65e6c33c.jsonl",
+    "source_record_timestamp": "2026-09-30T05:04:09.294Z",
+    "raw_html_saved": false,
+    "retained_material": "既有工具输出含标题、nickname、ct、公告正文及账号尾注；此次保存结构化结论和少量原文。",
+    "original_extracted_stdout_sha256": "81ed1166ab127fee061342e73e0c74b07fa6c7a5899c35dae5a87ebf468e41ac"
+  },
+  "publisher": {
+    "account_name": "伊犁文旅",
+    "account_name_verification": "既有 HTML 元数据 nickname 为伊犁文旅。",
+    "official_identity_verification": "正文尾注自明为伊犁州文化广播电视和旅游局官方公众号；为文章自述身份，未另行读取微信账号认证资料。",
+    "reprinted_from": "库尔德宁景区官方公众号",
+    "source_attribution_verification": "正文尾注的来源字段为库尔德宁景区官方公众号。",
+    "article_published_at_asia_shanghai": "2026-08-24T17:40:36+08:00",
+    "article_publish_timestamp_unix_seconds": 1787564436,
+    "article_publish_date_verification": "既有 HTML 的 ct=1787564436，转换为 Asia/Shanghai 时间；与公告落款年份一致。"
+  },
+  "notice": {
+    "issuer": "库尔德宁景区",
+    "signed_date": "2026-08-22",
+    "signed_date_verification": "已取得正文末尾落款。",
+    "construction_scope": "库尔德宁景区东沟道路全线",
+    "closure_start": "2026-08-26",
+    "planned_reopen_date": "2026-10-26",
+    "stated_duration_days": 60,
+    "date_semantics": "公告正文月日由落款及文章发布时间确定为 2026 年；10 月 26 日是计划通车日期，不能写为保证恢复日期。",
+    "traffic_control": "东沟道路全线封闭；游客及社会车辆禁行，施工与应急救援等特种车辆获例外。",
+    "visitor_route": "中沟进中沟出",
+    "visitor_route_statement": "公告表示变更通行线路后游览通行不受影响。",
+    "consultation_phones": [
+      "0999-7758580",
+      "0999-7758590"
+    ]
+  },
+  "short_verbatim_excerpts": [
+    "库尔德宁景区东沟道路全线",
+    "计划10月26日通车",
+    "景区实行中沟进中沟出的通行线路。"
+  ],
+  "confirmed": [
+    "施工公告真实存在，发文账号为伊犁文旅，转载来源标注景区官方公众号。",
+    "适用于 2026 年；10 月 9 日落在公告施工期间。",
+    "东沟全线封闭，游客路线改为中沟进中沟出。"
+  ],
+  "not_confirmed": [
+    "公告没有单列阿尤赛观景台开放状态或到达路线。",
+    "公告没有承诺 10 月 26 日一定恢复通车。",
+    "未从该公告得出齐梦德马队具体营业时间、价格或能否仅骑马上山。",
+    "公开搜索未发现后续变更，不能据此证明不存在后续通知。"
+  ],
+  "related_official_road_notice": {
+    "title": "道路施工公告",
+    "url": "https://www.xjgl.gov.cn/xjgl/c114161/202608/6d895a8ee07f4218a2d185898e548547.shtml",
+    "website_publish_date": "2026-08-17",
+    "issuer": "巩留县交通运输局",
+    "signed_date": "2026-08-14",
+    "affected_road": "X737 线团结渠桥（鲟鱼养殖基地北侧团结渠桥）",
+    "closure_start": "2026-09-01",
+    "closure_planned_end": "2026-11-30",
+    "control": "全封闭施工；恶劣天气或不可抗力可顺延。",
+    "official_outbound_detour": "S329 至 K8+200 处左转经恰甫其海前往库尔德宁镇/吉尔格郎乡。",
+    "official_return_detour": "由恰甫其海经 X060、S329 前往巩留。",
+    "planning_effect": "须复查伊宁至库尔德宁镇午餐店的高德路径是否穿越封桥。"
+  }
+}

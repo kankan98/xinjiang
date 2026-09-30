@@ -1,0 +1,127 @@
+{
+  "search:蜜香阁 尼勒克": {
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "蜜香阁",
+      "city": "尼勒克县",
+      "citylimit": true
+    },
+    "at": "2026-09-28T17:55:06.100Z",
+    "result": {
+      "suggestion": {
+        "keywords": "",
+        "ciytes": {
+          "suggestion": []
+        }
+      },
+      "pois": []
+    }
+  },
+  "around:云舒周边餐饮": {
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "餐厅",
+      "location": "83.429987,43.742241",
+      "radius": "1500"
+    },
+    "at": "2026-09-28T17:55:06.452Z",
+    "result": {
+      "pois": [
+        {
+          "id": "B0LUDZ51OY",
+          "name": "发特茉农家餐厅",
+          "address": "315省道与商业路交叉口西北140米",
+          "typecode": "050000",
+          "photo": null
+        },
+        {
+          "id": "B0H1KU1H14",
+          "name": "尼勒克县种蜂场甜蜜餐厅",
+          "address": "315省道与商业路交叉口西北180米",
+          "typecode": "050000",
+          "photo": null
+        },
+        {
+          "id": "B0LU9S5HOK",
+          "name": "老马伟餐厅",
+          "address": "尼勒克县种蜂场卫生院西南门西120米",
+          "typecode": "050121",
+          "photo": "http://store.is.autonavi.com/showpic/5b33b2612255d4efa0c042744110420e"
+        },
+        {
+          "id": "B0IRZD2Q7B",
+          "name": "小金特色餐厅",
+          "address": "315省道与商业路交叉口西220米",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0IRZD2Q7B/headerImg/6ee819e96b9afb3f9b6d79609fa674b5_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0GRLMJVA1",
+          "name": "马老二餐厅",
+          "address": "种蜂场东林宾馆对面",
+          "typecode": "050000",
+          "photo": "https://aos-comment.amap.com/B0GRLMJVA1/comment/72a899e9f40a07fee118ae12c3fbfe04_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0KR3ZPX64",
+          "name": "伊力亚斯快餐厅",
+          "address": "小两口小吃店西侧",
+          "typecode": "050300",
+          "photo": "https://store.is.autonavi.com/showpic/8013a83323b853cd0000002765082752?type=pic"
+        },
+        {
+          "id": "B0FFI9ZNSX",
+          "name": "绿山快餐厅",
+          "address": "315省道与商业路交叉口西220米",
+          "typecode": "050121",
+          "photo": "https://store.is.autonavi.com/showpic/4369deba811cb7867c08703a1939eed8"
+        },
+        {
+          "id": "B0MDMRYWPB",
+          "name": "蜂之恋花语风味餐厅",
+          "address": "种蜂繁殖场农业三队迎宾路92号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/8653de50407cd57691146b3899d2adad"
+        }
+      ]
+    }
+  },
+  "distance:云舒>蜜蜂小镇:3": {
+    "tool": "maps_distance",
+    "args": {
+      "origins": "83.429987,43.742241",
+      "destination": "83.430646,43.740267",
+      "type": "3"
+    },
+    "at": "2026-09-28T17:55:06.823Z",
+    "result": {
+      "results": [
+        {
+          "origin_id": "1",
+          "dest_id": "1",
+          "distance": "272",
+          "duration": "245"
+        }
+      ]
+    }
+  },
+  "distance:云舒>海蒂车:3": {
+    "tool": "maps_distance",
+    "args": {
+      "origins": "83.429987,43.742241",
+      "destination": "83.426692,43.741388",
+      "type": "3"
+    },
+    "at": "2026-09-28T17:55:07.133Z",
+    "result": {
+      "results": [
+        {
+          "origin_id": "1",
+          "dest_id": "1",
+          "distance": "388",
+          "duration": "373"
+        }
+      ]
+    }
+  }
+}

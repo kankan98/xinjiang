@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
+<style>
+text{font-family:'Noto Sans SC','Microsoft YaHei',sans-serif}.kicker{font-size:24px;letter-spacing:4px;fill:#8ea0aa}.title{font-size:54px;font-weight:800;fill:#f4efe2}.sub{font-size:25px;fill:#a9b5bc}.node{font-size:25px;font-weight:700;fill:#f4efe2;paint-order:stroke;stroke:#0b1115;stroke-width:8}.date{font-size:31px;font-weight:700;fill:#f4efe2}.day{font-size:20px;font-weight:700;fill:#8ea0aa}.route{font-size:27px;font-weight:700;fill:#f4efe2}.meta{font-size:22px;fill:#a9b5bc}.legend{font-size:21px;fill:#c4cdd2}.axis{font-size:18px;fill:#6f7d85}
+</style>
+<rect width="2560" height="1440" fill="#0b1115"/>
+<path d="M0 250H820V1440H0Z" fill="#10181d"/>
+<g opacity=".22" stroke="#53636d"><path d="M80 180H760M80 360H760M80 540H760M80 720H760M80 900H760M80 1080H760M80 1260H760"/><path d="M160 150V1320M320 150V1320M480 150V1320M640 150V1320"/></g>
+<text x="78" y="88" class="kicker">ROADBOOK / VERIFIED ROUTE</text>
+<text x="78" y="154" class="title">北疆十日单线 · v3.6</text>
+<text x="78" y="204" class="sub">10.03—10.10 自驾 2,771 km · 白喀区间车另计</text>
+<g transform="translate(60 260)"><polyline points="292,1050 270,860 230,700 250,510 294,205" fill="none" stroke="#3987e5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" /><polyline points="294,205 430,125 365,105 380,55" fill="none" stroke="#d95926" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" /><polyline points="380,55 430,95 470,120" fill="none" stroke="#9085e9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16 14"/><polyline points="380,55 365,105 248,510 250,635 124,784 132,935 300,920 220,900 292,1050" fill="none" stroke="#199e70" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="292" cy="1050" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="310" y="1057" class="node">乌鲁木齐</text>
+
+  <circle cx="294" cy="205" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="312" y="212" class="node">布尔津</text>
+
+  <circle cx="430" cy="125" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="448" y="132" class="node">贾登峪</text>
+
+  <circle cx="365" cy="105" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="383" y="112" class="node">铁热克提</text>
+
+  <circle cx="380" cy="55" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="398" y="62" class="node">白哈巴</text>
+
+  <circle cx="248" cy="510" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="266" y="517" class="node">克拉玛依</text>
+
+  <circle cx="250" cy="635" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="268" y="642" class="node">奎屯</text>
+
+  <circle cx="124" cy="784" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="142" y="791" class="node">赛里木湖</text>
+
+  <circle cx="132" cy="935" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="150" y="942" class="node">伊宁</text>
+
+  <circle cx="300" cy="920" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="318" y="927" class="node">仙女湖</text>
+
+  <circle cx="220" cy="900" r="10" fill="#11191f" stroke="#f4efe2" stroke-width="4"/>
+  <text x="238" y="907" class="node">尼勒克</text>
+</g>
+<g transform="translate(84 1310)"><line x1="0" y1="0" x2="70" y2="0" stroke="#3987e5" stroke-width="8"/><text x="88" y="8" class="legend">进疆北线</text><line x1="250" y1="0" x2="320" y2="0" stroke="#199e70" stroke-width="8"/><text x="338" y="8" class="legend">伊犁收线</text><line x1="485" y1="0" x2="555" y2="0" stroke="#9085e9" stroke-width="8" stroke-dasharray="16 14"/><text x="573" y="8" class="legend">区间车</text></g>
+<text x="900" y="88" class="kicker">DAILY LEDGER / CURRENT ITINERARY</text>
+<text x="900" y="154" class="title">日期—地点—里程统一台账</text>
+<g transform="translate(900 210)">
+    <rect width="610" height="205" rx="18" fill="#151e24" stroke="#3e4d56" stroke-width="2"/>
+    <rect width="8" height="205" rx="4" fill="#3987e5"/>
+    <text x="32" y="49" class="date">10.03</text><text x="150" y="49" class="day">D1</text>
+    <text x="32" y="101" class="route">乌鲁木齐 → 布尔津</text>
+    <text x="32" y="156" class="meta">502.5 km · 5 h 39 min</text>
+  </g><g transform="translate(1550 210)">
+    <rect width="610" height="205" rx="18" fill="#151e24" stroke="#3e4d56" stroke-width="2"/>
+    <rect width="8" height="205" rx="4" fill="#3987e5"/>
+    <text x="32" y="49" class="date">10.04</text><text x="150" y="49" class="day">D2</text>
+    <text x="32" y="101" class="route">布尔津 → 铁贾公路 → 白哈巴 → 喀纳斯三湾</text>
+    <text x="32" y="156" class="meta">222.0 km · 4 h 06 min</text>
+  </g><g transform="translate(900 455)">
+    <rect width="610" height="205" rx="18" fill="#151e24" stroke="#3e4d56" stroke-width="2"/>
+    <rect width="8" height="205" rx="4" fill="#d95926"/>
+    <text x="32" y="49" class="date">10.05</text><text x="150" y="49" class="day">D3</text>
+    <text x="32" y="101" class="route">白哈巴 → 喀纳斯 → 白哈巴 → 布尔津</text>
+    <text x="32" y="156" class="meta">自驾 140.4 km · 2 h 26 min</text>
+  </g><g transform="translate(1550 455)">
+    <rect width="610" height="205" rx="18" fill="#151e24" stroke="#3e4d56" stroke-width="2"/>
+    <rect width="8" height="205" rx="4" fill="#d95926"/>
+    <text x="32" y="49" class="date">10.06</text><text x="150" y="49" class="day">D4</text>
+    <text x="32" y="101" class="route">布尔津 → 克拉玛依 → 奎屯</text>
+    <text x="32" y="156" class="meta">456.2 km · 5 h 00 min</text>
+  </g><g transform="translate(900 700)">
+    <rect width="610" height="205" rx="18" fill="#151e24" stroke="#3e4d56" stroke-width="2"/>
+    <rect width="8" height="205" rx="4" fill="#9085e9"/>
+    <text x="32" y="49" class="date">10.07</text><text x="150" y="49" class="day">D5</text>
+    <text x="32" y="101" class="route">奎屯 → 赛里木湖</text>
+    <text x="32" y="156" class="meta">311.0 km · 3 h 30 min</text>
+  </g><g transform="translate(1550 700)">
+    <rect width="610" height="205" rx="18" fill="#151e24" stroke="#3e4d56" stroke-width="2"/>
+    <rect width="8" height="205" rx="4" fill="#9085e9"/>
+    <text x="32" y="49" class="date">10.08</text><text x="150" y="49" class="day">D6</text>
+    <text x="32" y="101" class="route">赛里木湖 → 伊宁</text>
+    <text x="32" y="156" class="meta">150.5 km · 2 h 12 min</text>
+  </g><g transform="translate(900 945)">
+    <rect width="610" height="205" rx="18" fill="#151e24" stroke="#3e4d56" stroke-width="2"/>
+    <rect width="8" height="205" rx="4" fill="#199e70"/>
+    <text x="32" y="49" class="date">10.09</text><text x="150" y="49" class="day">D7</text>
+    <text x="32" y="101" class="route">伊宁 → 仙女湖入口/徒步 → 尼勒克</text>
+    <text x="32" y="156" class="meta">422.5 km · 6 h 27 min</text>
+  </g><g transform="translate(1550 945)">
+    <rect width="610" height="205" rx="18" fill="#151e24" stroke="#3e4d56" stroke-width="2"/>
+    <rect width="8" height="205" rx="4" fill="#199e70"/>
+    <text x="32" y="49" class="date">10.10</text><text x="150" y="49" class="day">D8</text>
+    <text x="32" y="101" class="route">尼勒克 → 乌鲁木齐天山国际机场</text>
+    <text x="32" y="156" class="meta">566.3 km · 5 h 51 min</text>
+  </g>
+<text x="900" y="1315" class="sub">地图按节点相对方位示意，不替代当日导航；所有通行、开放与班次以临行官方信息为准。</text>
+<text x="2460" y="1375" text-anchor="end" class="axis">生成基线 2026-08-16</text>
+</svg>

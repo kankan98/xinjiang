@@ -1,0 +1,137 @@
+{
+  "queriedOn": "2026-09-30",
+  "provider": "高德地图 MCP maps_direction_driving",
+  "purpose": "用户复核D7已测段与全天里程口径差异",
+  "conclusion": "午餐店之后120.955km复核一致；伊宁进镇156.622km返回路线仍含X737，未取得S329/X060施工导行的明确道路几何，不能据此确认全天通行里程。",
+  "subtotal": {
+    "distanceMeters": 120955,
+    "durationSeconds": 9972
+  },
+  "limitations": [
+    "纯驾时长为本轮查询快照，不代表10月9日出发时路况。",
+    "接口只接受起终点，没有出发日期、途经点及避让施工段参数；path为空。",
+    "不能仅凭路线包含X737断言经过封闭桥，也不能证明已按官方导行避桥。"
+  ],
+  "officialNotice": "https://www.xjgl.gov.cn/xjgl/c114161/202608/6d895a8ee07f4218a2d185898e548547.shtml",
+  "records": [
+    {
+      "id": "atour_ma",
+      "args": {
+        "origin": "81.296696,43.939808",
+        "destination": "82.682835,43.277106"
+      },
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"origin\":\"81.296696,43.939808\",\"destination\":\"82.682835,43.277106\",\"paths\":[{\"path\":\"\",\"distance\":\"156622\",\"duration\":\"8619\",\"steps\":[{\"instruction\":\"向西北行驶73米右转\",\"road\":\"\",\"distance\":\"73\",\"orientation\":\"西北\",\"duration\":\"35\"},{\"instruction\":\"沿明珠路向东北行驶275米进入环岛绕环岛直行\",\"road\":\"明珠路\",\"distance\":\"275\",\"orientation\":\"东北\",\"duration\":\"49\"},{\"instruction\":\"向东北行驶39米离开环岛\",\"road\":\"\",\"distance\":\"39\",\"orientation\":\"东北\",\"duration\":\"8\"},{\"instruction\":\"沿明珠路向东北行驶366米右转\",\"road\":\"明珠路\",\"distance\":\"366\",\"orientation\":\"东北\",\"duration\":\"53\"},{\"instruction\":\"沿宁远路向东行驶3.5千米左转\",\"road\":\"宁远路\",\"distance\":\"3534\",\"orientation\":\"东\",\"duration\":\"537\"},{\"instruction\":\"沿胜利北路辅路途径胜利北路向东北行驶3.3千米向右前方行驶进入右转专用道\",\"road\":\"胜利北路辅路\",\"distance\":\"3347\",\"orientation\":\"东北\",\"duration\":\"347\"},{\"instruction\":\"沿S12伊墩高速入口向东行驶130米右转\",\"road\":\"S12伊墩高速入口\",\"distance\":\"130\",\"orientation\":\"东\",\"duration\":\"20\"},{\"instruction\":\"沿S12伊墩高速入口向东行驶283米减速行驶到达收费站\",\"road\":\"S12伊墩高速入口\",\"distance\":\"283\",\"orientation\":\"东\",\"duration\":\"52\"},{\"instruction\":\"沿S12伊墩高速入口向东北行驶132米靠右\",\"road\":\"S12伊墩高速入口\",\"distance\":\"132\",\"orientation\":\"东北\",\"duration\":\"28\"},{\"instruction\":\"沿S12伊墩高速入口途径S12伊墩高速、吉尔格朗河桥向东行驶40.7千米靠左沿主路行驶\",\"road\":\"S12伊墩高速入口\",\"distance\":\"40693\",\"orientation\":\"东\",\"duration\":\"1485\"},{\"instruction\":\"沿S12伊墩高速途径喀什河大桥、S12高伊高速、克其克布拉克大桥、巴斯勒根萨依大桥、黑山头1号大桥、木萨能萨依大桥、黑山头2号大桥、塔勒德萨依大桥向东南行驶42.0千米向右前方行驶进入匝道\",\"road\":\"S12伊墩高速\",\"distance\":\"42002\",\"orientation\":\"东南\",\"duration\":\"1530\"},{\"instruction\":\"沿尼勒克互通向东行驶1.2千米减速行驶到达收费站\",\"road\":\"尼勒克互通\",\"distance\":\"1175\",\"orientation\":\"东\",\"duration\":\"132\"},{\"instruction\":\"沿尼勒克互通向东北行驶346米向右前方行驶进入右转专用道\",\"road\":\"尼勒克互通\",\"distance\":\"346\",\"orientation\":\"东北\",\"duration\":\"44\"},{\"instruction\":\"沿242省道向东北行驶52米右转\",\"road\":\"242省道\",\"distance\":\"52\",\"orientation\":\"东北\",\"duration\":\"13\"},{\"instruction\":\"沿242省道途径巩乃斯河大桥、蝶湖大道向南行驶17.0千米左转\",\"road\":\"242省道\",\"distance\":\"16998\",\"orientation\":\"南\",\"duration\":\"931\"},{\"instruction\":\"向东行驶6.2千米左转\",\"road\":\"\",\"distance\":\"6214\",\"orientation\":\"东\",\"duration\":\"422\"},{\"instruction\":\"沿578国道向东行驶9.8千米右转\",\"road\":\"578国道\",\"distance\":\"9768\",\"orientation\":\"东\",\"duration\":\"518\"},{\"instruction\":\"向南行驶211米向右前方行驶\",\"road\":\"\",\"distance\":\"211\",\"orientation\":\"南\",\"duration\":\"24\"},{\"instruction\":\"向西南行驶236米左转\",\"road\":\"\",\"distance\":\"236\",\"orientation\":\"西南\",\"duration\":\"35\"},{\"instruction\":\"向东南行驶153米右转\",\"road\":\"\",\"distance\":\"153\",\"orientation\":\"东南\",\"duration\":\"27\"},{\"instruction\":\"向西南行驶355米向左后方行驶\",\"road\":\"\",\"distance\":\"355\",\"orientation\":\"西南\",\"duration\":\"44\"},{\"instruction\":\"向东行驶2.1千米右转\",\"road\":\"\",\"distance\":\"2098\",\"orientation\":\"东\",\"duration\":\"324\"},{\"instruction\":\"沿737县道途径235乡道向东南行驶11.5千米向右前方行驶\",\"road\":\"737县道\",\"distance\":\"11461\",\"orientation\":\"东南\",\"duration\":\"793\"},{\"instruction\":\"向南行驶1.5千米左转\",\"road\":\"\",\"distance\":\"1504\",\"orientation\":\"南\",\"duration\":\"156\"},{\"instruction\":\"沿737县道向东行驶15.1千米左转调头\",\"road\":\"737县道\",\"distance\":\"15094\",\"orientation\":\"东\",\"duration\":\"1001\"},{\"instruction\":\"沿737县道向西行驶83米到达目的地\",\"road\":\"737县道\",\"distance\":\"83\",\"orientation\":\"西\",\"duration\":\"11\"}]}]}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": "ma_center",
+      "args": {
+        "origin": "82.682835,43.277106",
+        "destination": "82.692833,43.274436"
+      },
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"origin\":\"82.682835,43.277106\",\"destination\":\"82.692833,43.274436\",\"paths\":[{\"path\":\"\",\"distance\":\"993\",\"duration\":\"180\",\"steps\":[{\"instruction\":\"沿737县道向西行驶37米左转调头\",\"road\":\"737县道\",\"distance\":\"37\",\"orientation\":\"西\",\"duration\":\"36\"},{\"instruction\":\"沿737县道向东行驶680米向右前方行驶\",\"road\":\"737县道\",\"distance\":\"680\",\"orientation\":\"东\",\"duration\":\"68\"},{\"instruction\":\"向东南行驶214米左转\",\"road\":\"\",\"distance\":\"214\",\"orientation\":\"东南\",\"duration\":\"42\"},{\"instruction\":\"向东北行驶54米左转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"东北\",\"duration\":\"30\"},{\"instruction\":\"向西北行驶8米到达目的地\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"西北\",\"duration\":\"4\"}]}]}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": "center_gate",
+      "args": {
+        "origin": "82.692833,43.274436",
+        "destination": "82.791983,43.221208"
+      },
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"origin\":\"82.692833,43.274436\",\"destination\":\"82.791983,43.221208\",\"paths\":[{\"path\":\"\",\"distance\":\"10436\",\"duration\":\"1146\",\"steps\":[{\"instruction\":\"向东南行驶8米右转\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"东南\",\"duration\":\"21\"},{\"instruction\":\"向西南行驶54米左转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"西南\",\"duration\":\"42\"},{\"instruction\":\"向东南行驶2.3千米靠左\",\"road\":\"\",\"distance\":\"2350\",\"orientation\":\"东南\",\"duration\":\"191\"},{\"instruction\":\"向东南行驶8.0千米到达目的地\",\"road\":\"\",\"distance\":\"8024\",\"orientation\":\"东南\",\"duration\":\"892\"}]}]}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": "gate_camp",
+      "args": {
+        "origin": "82.791983,43.221208",
+        "destination": "82.836240,43.139357"
+      },
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"origin\":\"82.791983,43.221208\",\"destination\":\"82.836240,43.139357\",\"paths\":[{\"path\":\"\",\"distance\":\"9593\",\"duration\":\"963\",\"steps\":[{\"instruction\":\"向东南行驶9.5千米靠左\",\"road\":\"\",\"distance\":\"9459\",\"orientation\":\"东南\",\"duration\":\"935\"},{\"instruction\":\"向南行驶134米到达目的地\",\"road\":\"\",\"distance\":\"134\",\"orientation\":\"南\",\"duration\":\"28\"}]}]}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": "camp_gate",
+      "args": {
+        "origin": "82.836240,43.139357",
+        "destination": "82.791983,43.221208"
+      },
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"origin\":\"82.836240,43.139357\",\"destination\":\"82.791983,43.221208\",\"paths\":[{\"path\":\"\",\"distance\":\"9801\",\"duration\":\"1023\",\"steps\":[{\"instruction\":\"向南行驶78米右转\",\"road\":\"\",\"distance\":\"78\",\"orientation\":\"南\",\"duration\":\"24\"},{\"instruction\":\"向西行驶17米右转\",\"road\":\"\",\"distance\":\"17\",\"orientation\":\"西\",\"duration\":\"16\"},{\"instruction\":\"向北行驶88米左转\",\"road\":\"\",\"distance\":\"88\",\"orientation\":\"北\",\"duration\":\"51\"},{\"instruction\":\"向西行驶43米右转\",\"road\":\"\",\"distance\":\"43\",\"orientation\":\"西\",\"duration\":\"23\"},{\"instruction\":\"向东北行驶116米向左前方行驶\",\"road\":\"\",\"distance\":\"116\",\"orientation\":\"东北\",\"duration\":\"19\"},{\"instruction\":\"向西北行驶9.5千米到达目的地\",\"road\":\"\",\"distance\":\"9459\",\"orientation\":\"西北\",\"duration\":\"890\"}]}]}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": "gate_center",
+      "args": {
+        "origin": "82.791983,43.221208",
+        "destination": "82.692833,43.274436"
+      },
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"origin\":\"82.791983,43.221208\",\"destination\":\"82.692833,43.274436\",\"paths\":[{\"path\":\"\",\"distance\":\"10436\",\"duration\":\"892\",\"steps\":[{\"instruction\":\"向西北行驶10.4千米右转\",\"road\":\"\",\"distance\":\"10374\",\"orientation\":\"西北\",\"duration\":\"853\"},{\"instruction\":\"向东北行驶54米左转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"东北\",\"duration\":\"35\"},{\"instruction\":\"向西北行驶8米到达目的地\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"西北\",\"duration\":\"4\"}]}]}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": "center_hanting",
+      "args": {
+        "origin": "82.692833,43.274436",
+        "destination": "83.237363,43.443268"
+      },
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "{\"origin\":\"82.692833,43.274436\",\"destination\":\"83.237363,43.443268\",\"paths\":[{\"path\":\"\",\"distance\":\"79696\",\"duration\":\"5768\",\"steps\":[{\"instruction\":\"向东南行驶8米右转\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"东南\",\"duration\":\"17\"},{\"instruction\":\"向西南行驶54米右转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"西南\",\"duration\":\"27\"},{\"instruction\":\"向西北行驶24米右转\",\"road\":\"\",\"distance\":\"24\",\"orientation\":\"西北\",\"duration\":\"12\"},{\"instruction\":\"向东北行驶103米右转\",\"road\":\"\",\"distance\":\"103\",\"orientation\":\"东北\",\"duration\":\"23\"},{\"instruction\":\"沿737县道途径Z784向东行驶6.0千米左转\",\"road\":\"737县道\",\"distance\":\"6012\",\"orientation\":\"东\",\"duration\":\"431\"},{\"instruction\":\"沿Z784向东北行驶1.2千米向右前方行驶\",\"road\":\"Z784\",\"distance\":\"1226\",\"orientation\":\"东北\",\"duration\":\"88\"},{\"instruction\":\"沿Z784向东行驶7.2千米右转\",\"road\":\"Z784\",\"distance\":\"7156\",\"orientation\":\"东\",\"duration\":\"506\"},{\"instruction\":\"沿Z784向东行驶342米向左后方行驶\",\"road\":\"Z784\",\"distance\":\"342\",\"orientation\":\"东\",\"duration\":\"42\"},{\"instruction\":\"沿宝柯段向西行驶6.1千米右转\",\"road\":\"宝柯段\",\"distance\":\"6051\",\"orientation\":\"西\",\"duration\":\"479\"},{\"instruction\":\"向东北行驶723米向右前方行驶\",\"road\":\"\",\"distance\":\"723\",\"orientation\":\"东北\",\"duration\":\"61\"},{\"instruction\":\"向东北行驶27.2千米向右前方行驶进入右转专用道\",\"road\":\"\",\"distance\":\"27225\",\"orientation\":\"东北\",\"duration\":\"1861\"},{\"instruction\":\"沿578国道向东北行驶36米右转\",\"road\":\"578国道\",\"distance\":\"36\",\"orientation\":\"东北\",\"duration\":\"17\"},{\"instruction\":\"沿578国道途径塔勒德街向东行驶24.5千米左转\",\"road\":\"578国道\",\"distance\":\"24545\",\"orientation\":\"东\",\"duration\":\"1635\"},{\"instruction\":\"沿那拉提路向北行驶2.9千米右转\",\"road\":\"那拉提路\",\"distance\":\"2861\",\"orientation\":\"北\",\"duration\":\"167\"},{\"instruction\":\"沿青年西街向东行驶1.5千米左转\",\"road\":\"青年西街\",\"distance\":\"1522\",\"orientation\":\"东\",\"duration\":\"159\"},{\"instruction\":\"沿库尔干路向北行驶1.0千米右转\",\"road\":\"库尔干路\",\"distance\":\"1020\",\"orientation\":\"北\",\"duration\":\"92\"},{\"instruction\":\"沿江额尔森西街向东行驶689米左转调头\",\"road\":\"江额尔森西街\",\"distance\":\"689\",\"orientation\":\"东\",\"duration\":\"114\"},{\"instruction\":\"沿江额尔森西街向西行驶56米右转\",\"road\":\"江额尔森西街\",\"distance\":\"56\",\"orientation\":\"西\",\"duration\":\"14\"},{\"instruction\":\"向西北行驶43米到达目的地\",\"road\":\"\",\"distance\":\"43\",\"orientation\":\"西北\",\"duration\":\"23\"}]}]}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  ],
+  "selectedPlan": {
+    "route": "G578→S329 K8+200→X060→恰甫其海→X737→库尔德宁镇；中沟往返；宝柯/G578→新源汉庭",
+    "plannedDistanceKm": 300,
+    "plannedDrivingHours": 6,
+    "basis": "156.622+120.955+20.32=297.897km向上取整；整段绕行额外预留、未扣被替代旧段，含重复余量，仅作预算，不是精确路长或上限。6h为含绕行机动的驾驶预算，餐休游览另计。",
+    "source": "官方附图S329 8.82km+X060 11.5km已读取；MCP未取得明确绕行路口，不声称完成全线实测。"
+  }
+}

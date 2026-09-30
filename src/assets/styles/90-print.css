@@ -1,0 +1,129 @@
+/* ============================================================
+   RoadBook · 打印
+   正文与应急信息完整保留，地图强制展开
+   页面级打印布局与分页控制
+   ============================================================ */
+
+@page { size: A4 portrait; margin: 14mm 15mm 16mm; }
+
+@media print {
+  /* 打印刻意脱离夜色主题：令牌整体覆写回浅色纸面（允许直接色值） */
+  :root, html[data-theme] {
+    color-scheme: light;
+    --color-paper: #fff;
+    --color-surface: #fff;
+    --color-surface-alt: #f2f3f5;
+    --color-deep: #ececee;
+    --color-ink: #111;
+    --color-ink-soft: #1d1d1f;
+    --color-muted: #444;
+    --color-muted-2: #5a5a5e;
+    --color-line: #bbb;
+    --color-line-soft: #d9d9dc;
+    --color-route: #8a5a14;
+    --color-route-deep: #6d4507;
+    --color-route-wash: rgb(0 0 0 / 4%);
+    --color-sand: #86671c;
+    --color-sand-deep: #6b500e;
+    --color-sand-wash: rgb(0 0 0 / 3%);
+    --color-info: #2f5876;
+    --color-info-deep: #20415a;
+    --color-info-wash: rgb(0 0 0 / 3%);
+    --color-alert: #9c2f24;
+    --color-alert-deep: #7d2018;
+    --color-alert-wash: rgb(0 0 0 / 4%);
+    --color-success: #226340;
+    --color-success-wash: rgb(0 0 0 / 3%);
+    --reading-key: #64400F;
+    --reading-key-wash: #F6F2E8;
+    --reading-key-line: #B8A78B;
+    --reading-risk: #7E3026;
+    --reading-risk-wash: #F8F0EB;
+    --reading-risk-line: #C0A19A;
+    --reading-info: #29545A;
+    --reading-info-wash: #EEF4F3;
+    --reading-info-line: #9EB6B3;
+    --color-scrim: transparent;
+    --photo-brightness: 1;
+    --map-sheet-brightness: 1;
+    --glow-amber: none;
+    --glow-green: none;
+    --glow-rose: none;
+    --glow-info: none;
+    --shadow-float: none;
+    --shadow-soft: none;
+  }
+  .led-dot { box-shadow: none; animation: none; }
+
+  .site-head,
+  .reading-progress,
+  .sidebar,
+  .mobile-command-bar,
+  .search-palette-scrim,
+  .site-footer,
+  .back-top,
+  .home-section-nav,
+  .chapter-index-toolbar,
+  .reader-toolbar,
+  .reader-aside,
+  .chapter-strip,
+  .chapter-pagination,
+  .check-reset,
+  .reader-tools-toggle { display: none !important; }
+
+  html, body, .main-shell, .page-content, .content-section {
+    width: auto; max-width: none; margin: 0; padding: 0;
+    color: #111 !important; background: #fff !important;
+    overflow: visible;
+  }
+
+  .reader-layout { display: block; }
+  .reader, .reader[data-reader-size] { --reader-font-size: 10.5pt; --reader-detail-size: 10pt; --reader-note-size: 9pt; }
+  .reader-main, .markdown-body { max-width: none; }
+
+  .reader-header h1 { color: #111 !important; font-size: 26pt; }
+  .reader-focus { break-inside: avoid; margin-bottom: 5mm; }
+  .reader-focus__grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .reader-focus__item { padding: 10px; box-shadow: none; }
+  .reader-focus__title { font-size: 13pt; }
+  .reader-header .reader-focus__detail { font-size: 9pt; }
+  .reader-focus__arrow, .reader-focus__legend, .reader-focus__head > span { display: none; }
+  .reader-edition { font-size: 8pt; }
+  .day-opening__notes { grid-template-columns: 1fr 1fr; }
+  .order-grid { grid-template-columns: 1fr 1fr; gap: 3mm; }
+  .order-note { padding: 4mm; break-inside: avoid; }
+  .emergency-contacts { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .emergency-contacts a { break-inside: avoid; }
+  .markdown-body { color: #111; font-size: 10.5pt; line-height: 1.55; }
+  .markdown-body h2::before { background: none; color: #555; }
+  .markdown-body h2 { border-top-color: #999; }
+
+  .reader-hero img { height: 46mm; aspect-ratio: auto; }
+
+  .table-scroll { overflow: visible; border-color: #bbb; }
+  .table-scroll table, .markdown-body .table-scroll table {
+    width: 100%; min-width: 0; table-layout: fixed; font-size: 8pt;
+  }
+  .markdown-body th, .markdown-body td {
+    min-width: 0 !important; width: auto !important; max-width: none !important;
+    position: static !important; border: .5pt solid #bbb; background: #fff !important;
+  }
+
+  .alert-banner, .callout, .stat-cell, .point-card, .step-list > li,
+  .decision-matrix > article, .experience-card, .day-timeline__item,
+  .timeline-card, .intelligence-card, .section-media, .blockquote {
+    break-inside: avoid; box-shadow: none;
+  }
+  .markdown-body h1, .markdown-body h2, .markdown-body h3 { break-after: avoid; }
+  .markdown-body p, .markdown-body li { orphans: 3; widows: 3; }
+
+  /* 每日线路图：打印时强制展开、单列铺排、整卡不跨页 */
+  .day-route-map { break-inside: avoid; border-color: #bbb; }
+  .day-route-map-body { display: grid !important; grid-template-columns: 1fr; }
+  .day-route-map-scroll { overflow: visible; }
+  .day-route-map-scroll svg { min-width: 0; max-height: 120mm; width: 100%; height: auto; }
+  .day-route-map-chevron { display: none; }
+  .day-route-map-link { display: none; }
+  .day-route-map-side { max-height: none; overflow: visible; }
+}
+

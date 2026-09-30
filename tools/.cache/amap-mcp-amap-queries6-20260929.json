@@ -1,0 +1,140 @@
+{
+  "detail:B0LUDZ51OY": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LUDZ51OY"
+    },
+    "at": "2026-09-28T17:55:13.031Z",
+    "result": {
+      "id": "B0LUDZ51OY",
+      "name": "发特茉农家餐厅",
+      "location": "83.427957,43.741804",
+      "address": "315省道与商业路交叉口西北140米",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "alias": "",
+      "photo": null,
+      "cost": "52.00",
+      "opentime2": "",
+      "rating": "4.2",
+      "open_time": "",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0H1KU1H14": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0H1KU1H14"
+    },
+    "at": "2026-09-28T17:55:13.381Z",
+    "result": {
+      "id": "B0H1KU1H14",
+      "name": "尼勒克县种蜂场甜蜜餐厅",
+      "location": "83.427622,43.742042",
+      "address": "315省道与商业路交叉口西北180米",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "alias": "",
+      "photo": null,
+      "cost": "36.00",
+      "opentime2": "周一至周日 09:00-22:00",
+      "rating": "3.7",
+      "open_time": "09:00-22:00",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0LU9S5HOK": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0LU9S5HOK"
+    },
+    "at": "2026-09-28T17:55:13.689Z",
+    "result": {
+      "id": "B0LU9S5HOK",
+      "name": "老马伟餐厅",
+      "location": "83.427623,43.741482",
+      "address": "尼勒克县种蜂场卫生院西南门西120米",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;中餐厅;清真菜馆",
+      "alias": "",
+      "photo": "http://store.is.autonavi.com/showpic/5b33b2612255d4efa0c042744110420e",
+      "cost": "",
+      "opentime2": "周一至周日 07:00-23:30",
+      "rating": "3.2",
+      "open_time": "07:00-23:30",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0IRZD2Q7B": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0IRZD2Q7B"
+    },
+    "at": "2026-09-28T17:55:13.983Z",
+    "result": {
+      "id": "B0IRZD2Q7B",
+      "name": "小金特色餐厅",
+      "location": "83.426873,43.741868",
+      "address": "315省道与商业路交叉口西220米",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "alias": "",
+      "photo": "https://aos-comment.amap.com/B0IRZD2Q7B/headerImg/6ee819e96b9afb3f9b6d79609fa674b5_2048_2048_80.jpg",
+      "cost": "58.00",
+      "opentime2": "周一至周日 09:00-00:15",
+      "rating": "4.2",
+      "open_time": "09:00-00:15",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0GRLMJVA1": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0GRLMJVA1"
+    },
+    "at": "2026-09-28T17:55:14.356Z",
+    "result": {
+      "id": "B0GRLMJVA1",
+      "name": "马老二餐厅",
+      "location": "83.426823,43.741701",
+      "address": "种蜂场东林宾馆对面",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "alias": "",
+      "photo": "https://aos-comment.amap.com/B0GRLMJVA1/comment/72a899e9f40a07fee118ae12c3fbfe04_2048_2048_80.jpg",
+      "cost": "85.00",
+      "opentime2": "周一至周日 08:00-24:00",
+      "rating": "4.4",
+      "open_time": "08:00-24:00",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0MDMRYWPB": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MDMRYWPB"
+    },
+    "at": "2026-09-28T17:55:14.697Z",
+    "result": {
+      "id": "B0MDMRYWPB",
+      "name": "蜂之恋花语风味餐厅",
+      "location": "83.419021,43.745225",
+      "address": "种蜂繁殖场农业三队迎宾路92号",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/8653de50407cd57691146b3899d2adad",
+      "cost": "60.00",
+      "opentime2": "周一至周日 10:00-24:00",
+      "rating": "4.2",
+      "open_time": "10:00-24:00",
+      "meal_ordering": "0"
+    }
+  }
+}

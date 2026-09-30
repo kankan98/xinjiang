@@ -1,0 +1,618 @@
+{
+  "auditDate": "2026-09-29",
+  "scope": "当前23章正文、十天主备日程、结构化摘要与地图注释、住宿预算、关键外部政策/航空来源；仅研究分析",
+  "sourceSnapshot": [
+    {
+      "path": "src/components/home/TripBudget.vue",
+      "lines": 74,
+      "sha256": "6577e5ad88230e49738e515816207189b938da0b6d3ea47e4c57e98aedff2aee"
+    },
+    {
+      "path": "src/data/accommodation.js",
+      "lines": 57,
+      "sha256": "72bdd7dff1107e3b64659fe30f51c075a4d45588c13cabbf9d615728854a86c0"
+    },
+    {
+      "path": "src/data/daily-guides.json",
+      "lines": 963,
+      "sha256": "491cb579debaefd41514f1f22494b5cfad1e4c531158db67cad7b9c0c45dfaf7"
+    },
+    {
+      "path": "src/data/day-routes.json",
+      "lines": 9616,
+      "sha256": "2e89be567d44664983d6a6519e75bb2d2ef3acf3ce83386d149f2723f4e4cf22"
+    },
+    {
+      "path": "src/data/images.manifest.json",
+      "lines": 501,
+      "sha256": "47d3e765e5256385fc86422d0fb71c18c9998b017d8df2a4f0828a8ca117fdc0"
+    },
+    {
+      "path": "src/data/reading-focus.js",
+      "lines": 144,
+      "sha256": "64f768e5c92b16b0b090267e648793938df3483855918cabcdd0a958800c4013"
+    },
+    {
+      "path": "src/data/roadbook-runtime.json",
+      "lines": 275,
+      "sha256": "63a4f0b69b221a8abaf742733ffb27b4fcfc5e43cd40f2b4e6634f064968f07f"
+    },
+    {
+      "path": "src/data/roadbook.js",
+      "lines": 71,
+      "sha256": "de441558943c28e0032e895d68c254fafae3eb4a0ad1af3108e86e88ae62c3c8"
+    },
+    {
+      "path": "src/data/roadbook.manifest.json",
+      "lines": 391,
+      "sha256": "039f2650b9bf47dea503f8b49936a1900d780f2bd07716fdf2e2931366e4e3a3"
+    },
+    {
+      "path": "src/data/route-annotations.js",
+      "lines": 107,
+      "sha256": "8aede10f44e8534e3ba6ef373bf541eeab5c5bcbafdcc7f01141f192342643d8"
+    },
+    {
+      "path": "src/data/travel-experience.js",
+      "lines": 51,
+      "sha256": "02943c9bca77a39e93ddaf616f537e2fc4a31975ee77244aea882977e426ffd7"
+    },
+    {
+      "path": "src/data/trip-intelligence.js",
+      "lines": 34,
+      "sha256": "4ea66024a409f514406dc1b58b08e0f070070b5ec2b6f273a8d5a34a26921f12"
+    },
+    {
+      "path": "src/generated/day-schedules.generated.json",
+      "lines": 694,
+      "sha256": "2130e564f9d432091ee2356a2c44dca70cb58f9d3ad16a225560fbc975234a05"
+    },
+    {
+      "path": "src/generated/search-index.generated.json",
+      "lines": 25,
+      "sha256": "6e0c1bb705e1157fcef64ee2390b967068522ee6fc76c247ec955330da549fbc"
+    },
+    {
+      "path": "src/lib/travel.js",
+      "lines": 73,
+      "sha256": "4e2cd3510f9031457839b0862016b65e8a0d654925b17f51e7f949e3e2120d0c"
+    },
+    {
+      "path": "src/pages/chapters/days/Day0-香港-乌鲁木齐.vue",
+      "lines": 85,
+      "sha256": "c3ca5d1cc0a4132539ae4bfb0e232ab9cebb569e0cec98e2c348b3949bfbdb99"
+    },
+    {
+      "path": "src/pages/chapters/days/Day1-乌鲁木齐-布尔津.vue",
+      "lines": 97,
+      "sha256": "3241754afba723ae7e67c2f64925254b8a1c31bffad9e28a419bf0762af47897"
+    },
+    {
+      "path": "src/pages/chapters/days/Day2-布尔津-白哈巴.vue",
+      "lines": 113,
+      "sha256": "274b69676e2a69c428b7f9b1f5b7661bd8fe359c69813a817f712b3f2784459c"
+    },
+    {
+      "path": "src/pages/chapters/days/Day3-白哈巴-喀纳斯全天.vue",
+      "lines": 96,
+      "sha256": "bf0889383aef03a0886cc7722bad60b916426447e6daf68f4c1af3aaed07e0df"
+    },
+    {
+      "path": "src/pages/chapters/days/Day4-白哈巴-克拉玛依-奎屯.vue",
+      "lines": 104,
+      "sha256": "b7add605ec93bfd9174d0f062fa51743f182f46a06a35d45ef29b6f2f250d4eb"
+    },
+    {
+      "path": "src/pages/chapters/days/Day5-奎屯-赛里木湖.vue",
+      "lines": 97,
+      "sha256": "691fbf1f178a466e6c8cc0512ac53ca841e5944c286b5bdaf30d8c83d79780d1"
+    },
+    {
+      "path": "src/pages/chapters/days/Day6-赛里木湖-伊宁.vue",
+      "lines": 112,
+      "sha256": "62fd8f7056cda5bc4e97ae0aa8a55a0b9a95d548acf0c29fa8b46dd86a8bcce0"
+    },
+    {
+      "path": "src/pages/chapters/days/Day7-伊宁-那拉提-唐布拉-尼勒克.vue",
+      "lines": 70,
+      "sha256": "bb690bf0d2efe60e8454427511b109e88daa24f6c9bf3d2f35e26472df6df0da"
+    },
+    {
+      "path": "src/pages/chapters/days/Day8-尼勒克-乌鲁木齐.vue",
+      "lines": 104,
+      "sha256": "1c812042ad1a8d2f54a8c4b30632f6907a10f3b4d10c31bd138095a16cd22eac"
+    },
+    {
+      "path": "src/pages/chapters/days/Day9-乌鲁木齐-香港.vue",
+      "lines": 69,
+      "sha256": "d52a5dd142c811cf8e36787a785c85c548ba5fe82fc0fa0b0404987f357ce2ef"
+    },
+    {
+      "path": "src/pages/chapters/overview/00-总目录.vue",
+      "lines": 37,
+      "sha256": "9ca8c80dd8e92590195c7c40a1ac0787fb8b8159c39e5b09337147115d9b6456"
+    },
+    {
+      "path": "src/pages/chapters/overview/01-研究底稿.vue",
+      "lines": 52,
+      "sha256": "e05ad6bc57ff1200f858cb0091ef6a6e6e7b5de697b7628bd94bb8099ff53c5b"
+    },
+    {
+      "path": "src/pages/chapters/overview/02-路线推导.vue",
+      "lines": 80,
+      "sha256": "d9fc2abcb9726ead0b07a5c29af83a2047881d0aee1dc7783b7c12e8bccef6be"
+    },
+    {
+      "path": "src/pages/chapters/overview/03-全书一致性与政策时效性复核.vue",
+      "lines": 9,
+      "sha256": "e3944851ce1336ac9edd8def713f1532f827bdd92e89e7549102cfdf84411dfd"
+    },
+    {
+      "path": "src/pages/chapters/overview/04-来源与复核日志.vue",
+      "lines": 317,
+      "sha256": "2f464a424412ec06db2ad8c86c7e4e8c9c6808bd6642e9eb11aa6db8f18b52c9"
+    },
+    {
+      "path": "src/pages/chapters/topics/专题-新疆摄影地图.vue",
+      "lines": 79,
+      "sha256": "7c2af043304d013b44b67a0402009b8473fb1f36c8f48626efbfe24396ce529a"
+    },
+    {
+      "path": "src/pages/chapters/topics/专题-新疆旅行应急宝典.vue",
+      "lines": 82,
+      "sha256": "526f8c092db82fe92effbee80de0aef93d25e5d1ddd42aec95a13e457d97e61f"
+    },
+    {
+      "path": "src/pages/chapters/topics/专题-无人机飞行规范.vue",
+      "lines": 71,
+      "sha256": "3c830a1c22b8f4e6cecce7bd0823b74f86eb8863c275831f6573d6b469ecdcd5"
+    },
+    {
+      "path": "src/pages/chapters/topics/专题-景区百科.vue",
+      "lines": 46,
+      "sha256": "46388bc3e5caa13004eb530106b26099d082114a5f736d584a61818070469261"
+    },
+    {
+      "path": "src/pages/chapters/topics/专题-理想L8新疆自驾指南.vue",
+      "lines": 333,
+      "sha256": "60d3da4e1089de1e3db2b7fc885c6c785cab68aa902341d19fc0805085cb631f"
+    },
+    {
+      "path": "src/pages/chapters/topics/专题-美食指南.vue",
+      "lines": 119,
+      "sha256": "a40fdab44493aa423f8c01b0337d920f3be0f49c5a55c74f015b276c46940698"
+    },
+    {
+      "path": "src/pages/chapters/topics/专题-酒店指南.vue",
+      "lines": 64,
+      "sha256": "68aff9d72967c8fd62d7c4c6a507ba4ac5d3b7ca0aa630d10544b41a58de58c5"
+    },
+    {
+      "path": "src/pages/chapters/topics/专题-预算规划.vue",
+      "lines": 90,
+      "sha256": "d657ae8241629db5e0832a6372d2dfe1d439d7b844df8d9405966da2fc07ec15"
+    },
+    {
+      "path": "tools/sun_times.py",
+      "lines": 70,
+      "sha256": "7d7e5061ca261664183f53ffae06e3321aa5cfea2bf4af6a2e90b7978c0a8c01"
+    },
+    {
+      "path": "tools/validate_roadbook.mjs",
+      "lines": 202,
+      "sha256": "62bad9ebfd390a5bbe7734b846a957f8406b862aa873903279bdaa4b9383dc3c"
+    }
+  ],
+  "directSources": [
+    {
+      "id": "gbaT2",
+      "url": "https://www.greaterbay-airlines.com/hk/zh_HK/manage/before-your-flight/travel-alert-and-advisories/relocation-of-check-in-counters-at-hong-kong-international-airport-terminal-2.html",
+      "title": "大灣區航空位於香港國際機場的值機櫃檯將遷往二號客運大樓 | 大灣區航空香港直飛東京、大阪、曼谷、台北 | 即時網上訂票",
+      "sourceDate": "2026-05-22；2026-06-03生效",
+      "retrievedAt": "2026-09-29T08:59:04.096762+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "a94c5c09cd08e0d769f7f9fb3afb8b9ac0d94f5f85711136195eeed57ce8196d",
+      "excerpts": [
+        "由2026年6 月3日 起，大灣區航空位於香港國際機場的值機櫃檯將從一號客運大樓遷往二號客運大樓Q行段。\n上一頁\n緊貼我們\nwechat\nfacebook"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "gbaairport",
+      "url": "https://www.greaterbay-airlines.com/hk/zh_HK/manage/before-your-flight/airport-information.html",
+      "title": "機場資訊 | 大灣區航空香港直飛東京、大阪、曼谷、台北 | 即時網上訂票",
+      "sourceDate": "未见独立发布日期；2026-09-29核读",
+      "retrievedAt": "2026-09-29T09:02:44.999354+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "88c18ad1cd0a136d3c52f9fdbeb2f6cc26a3bf6e4491fcec81bf85337ef18996",
+      "excerpts": [
+        "香港國際機場二號客運大樓\n辦理登機櫃檯\n位置\n位於 7 樓 Q 行段\n開始服務時間起飛前 3 小時"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "gbabattery",
+      "url": "https://www.greaterbay-airlines.com/hk/zh_HK/manage/before-your-flight/travel-alert-and-advisories/notice-to-passengers-lithium-battery-power-bank.html",
+      "title": "乘客通告 - 鋰電池外置充電器 | 大灣區航空香港直飛東京、大阪、曼谷、台北 | 即時網上訂票",
+      "sourceDate": "2026-03-28",
+      "retrievedAt": "2026-09-29T09:02:44.999605+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "8d4dbe301142dce51ba699daa66124148bae5bce1fe2a193907d53737bb943d0",
+      "excerpts": [
+        "為進一步加強飛行安全，由即日起，乘客只可攜帶最多兩個鋰電池外置充電器（「外置充電器」）登機，亦不得於飛機航行期間為外置充電器充電。此規定乃根據國際民航組織的相關公布。\n其他關於外置充電器應注意事項，請參閱本公司官網（https://www.greaterbay-airlines.com/hk/zh_HK/manage/our-services/baggage.html#accordion-0728d5f488-item-2ff7972c96）。\n敬請留意及遵從相關規定，多謝各位乘客合作。\n下一頁\n緊貼我們"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "gbabaggage",
+      "url": "https://www.greaterbay-airlines.com/hk/zh_HK/manage/our-services/baggage.html",
+      "title": "行李 | 大灣區航空香港直飛東京、大阪、曼谷、台北 | 即時網上訂票",
+      "sourceDate": "2026-03-28规则；2026-09-29核读",
+      "retrievedAt": "2026-09-29T09:04:46.809164+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "903c6f7dc761c42e262545275ab2ea2be2382622b5bc24ce0942918ab19e9aa3",
+      "excerpts": [
+        "2026年3月28日起，每位乘客只可攜帶最多兩個鋰電池外置充電器登機。乘客不得在航班上使用外置充電器為其他便攜式電子裝置充電或為外置充電器充電；亦不得把外置充電器放置於頂部行李架上。乘客可把外置充電器放置於椅背儲物格或適合放於前方座椅底下的手提包內。"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "sayramfee",
+      "url": "https://www.news.cn/local/20260803/4c0b11cad281454cb65de812d8fae976/c.html",
+      "title": "新疆赛里木湖景区自驾服务费调整-新华网",
+      "sourceDate": "2026-08-03；2026-08-20生效",
+      "retrievedAt": "2026-09-29T09:06:08.303495+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "031c8cc2b3c6aef518f16ebe6f1c9bd00f607dc1aeaa8d1787e7aee27fe6fa7f",
+      "excerpts": [
+        "新华社乌鲁木齐8月3日电（记者曹志恒、张瑜）新疆维吾尔自治区、博尔塔拉蒙古自治州联合工作组8月3日发布通报，备受关注的新疆赛里木湖景区75元/人自驾服务费正式调整为按车收费，新标准自8月20日0时起执行。",
+        "此前，赛里木湖景区执行75元/人自驾服务费收取标准。通报显示，为积极回应社会关切，按照充分体现国有景区公益属性、更好让利于民的原则，景区优化调整自驾收费模式和标准，经向价格主管部门报备后，将按“人”收费调整为按“车”收费，不同车型（以机动车行驶证核定载人数为准）收费标准分别为：5座及以下120元/车、6至7座180元/车、8至19座300元/车、20座及以上600元/车。因票务系统需调整升级，此方案自8月20日0时起执行，自8月4日0时起至新方案开始执行期间，暂按30元/人收取自驾服务费。同时，自治区将督促指导全区涉自驾收费服务的旅游景区，抓紧制定优化调整方案，尽快向社会公布实施。"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "border",
+      "url": "https://s.nia.gov.cn/mps/bszy/dzbjtxz/blzy/202604/t20260414_1001.html",
+      "title": "国家移民管理局政务服务平台",
+      "sourceDate": "2026-04-15启用；服务指南正文未单列发布日期",
+      "retrievedAt": "2026-09-29T08:55:49.439994+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "fc55ddf2cb36dd347eb1088fd7f4180ce3c99f657867c2f465244d0ef2f2f274",
+      "excerpts": [
+        "（一）网上申请。年满16周岁的中国内地居民可以通过国家移民管理局政务服务平台（“移民局12367”APP和微信、支付宝小程序）申请有效期三个月以内的电子边境通行证。网上申请有困难的中国内地居民可以前往县级以上公安机关出入境管理机构或者指定的派出所现场申请。",
+        "（二）现场申请。港澳台居民、华侨、外国人，偕行不满16周岁子女或者申请有效期一年的电子边境通行证的中国内地居民，须前往县级以上公安机关出入境管理机构或者指定的派出所现场申请电子边境通行证。",
+        "九、审批时限\n（一）网上受理的申请，签发机关在3个工作日内作出是否批准的决定。\n（二）现场受理的申请，签发机关经审核，申请材料齐全且符合法定形式的，当场签发。对需要进一步审核调查的，向申请人出具《受理电子边境管理区通行证申请回执单》，自受理之日起，10个工作日内作出是否批准的决定。\n十、收费依据及标准\n不收费。",
+        "六、电子边境通行证该如何使用？\n答：电子边境通行证在有效期内可多次往返使用，并与您的居民身份证等有效身份证件同时使用。在接受查验时，您可以使用手机等移动通信终端出示电子边境通行证，也可以出示电子边境通行证打印件。\n七、电子边境通行证可以申请延期吗？\n答：电子边境通行证不可以申请延期。有效期满后，您可以重新申请电子边境通行证。\n八、申请电子边境通行证需要缴纳费用么？"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "dukushanxi",
+      "url": "https://jtyst.shanxi.gov.cn/jtzx/qgyw1/202606/t20260619_10156547.shtml",
+      "title": "G217线独库公路北段采取预约制通行管理 预约指南请查收 - 山西省交通运输厅",
+      "sourceDate": "2026-06-19；2026-06-25实施",
+      "retrievedAt": "2026-09-29T08:55:49.439933+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "69b60b6f63d621fa10c8fa42da1c6c42bb08740a3ffee93080de91d72c650aa2",
+      "excerpts": [
+        "为此，新疆维吾尔自治区公安厅、交通运输厅、文化和旅游厅、应急管理厅发布通告，对G217线独库公路北段，即K587+100(乌苏驿)至K773(G217线与G218线交汇处-那拉提入口)路段，总长约185公里，采取预约制通行管理。",
+        "独库公路北段预约制通行管理自2026年6月25日起施行，预约通行启动后的前15天为试行期，取消预约制通行措施的时间将根据工程进度另行通告。\n预约指南\n预约车型限制\n独库公路北段(乌苏驿-乔尔玛-那拉提)仅限7座以下(包含7座)小型客车，核定载质量5吨(含)以下货车预约通行；\n当地居民或工作人员完成长期通行备案的车辆及公路养护车辆、执行任务的军警车、应急救援车、工程救援车、救护车无需预约即可通行；",
+        "每日允许通行时间：8时-19时。每日可预约时段分为8:00-10:00、10:00-12:00、12:00-14:00、14:00-16:00、16:00-19:00五个时段，请按预约入口、时段进入独库公路北段。"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "kanas2025",
+      "url": "https://www.kns.gov.cn/005/005002/20250505/1811ea4d-6459-4205-b8bd-27e2aa5dfb52.html",
+      "title": "喀纳斯景区夏季游览公告_喀纳斯景区管理委员会",
+      "sourceDate": "2025-04-30上网；2025-04-29落款",
+      "retrievedAt": "2026-09-29T08:55:49.440041+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "dcba6ac200980504780b2c0069a03567704d2b170a2f82d75758de3497bae369",
+      "excerpts": [
+        "喀纳斯景区夏季游览公告_喀纳斯景区管理委员会\n您当前所在位置：首页>旅游>旅游阿勒泰\n喀纳斯景区夏季游览公告\n【信息来源：】 【作者：】\n【信息时间：2025-04-30 14:25 阅读次数：】",
+        "1.出游前请通过景区官方渠道了解景区游览舒适度情况，科学规划行程，可通过喀纳斯景区微信公众号、原行网微信公众号、各大OTA平台提前购票，也可在各游客中心人工窗口、自助售票系统购票入园；"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "dronekns",
+      "url": "https://www.kns.gov.cn/001/001004/20251001/50c3f3f0-16fa-45ee-a067-3aa30273d697.html",
+      "title": "喀纳斯景区2025年国庆、中秋“双节”出游温馨提示_喀纳斯景区管理委员会",
+      "sourceDate": "2025-09-29；并非路书标示的9月11日无人机通告",
+      "retrievedAt": "2026-09-29T08:59:04.097239+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "70379e7ae307931eea872d8ab319006fcf5072b782a24fa4657b4abeeb3585ee",
+      "excerpts": [
+        "喀纳斯景区2025年国庆、中秋“双节”出游温馨提示_喀纳斯景区管理委员会\n您当前所在位置：首页>要闻>通知公告\n喀纳斯景区2025年国庆、中秋“双节”出游温馨提示\n【信息来源：】 【作者：】\n【信息时间：2025-09-29 10:58 阅读次数：】",
+        "景区道路弯道多，请广大驾驶员朋友遵守交通安全法规、谨慎驾驶、严禁强超强会，遇有雨雪天气须配合交通安全管理；景区内栈道及水域周边湿滑，游览时请注意防滑，切勿靠近水边、翻越护栏，尤其注意看管好老人与儿童；景区户外徒步路线已暂停开放，请勿擅自徒步穿越未开放区域，不得户外露营，确保游客人身和财产安全；根据相关规定，景区内全域禁飞无人机，实行无人机等“低慢小”航空器和空飘物安全管控，携带相关设备的游客可办理免费寄存，共同维护景区公共安全。"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "dronebrj",
+      "url": "https://brj.gov.cn/zwgk/003001/003001005/20250915/6358f05c-accd-4cd2-b7c5-2539e20f7b0f.html",
+      "title": "布尔津县关于对“低慢小”航空器和空漂物管控的通告",
+      "sourceDate": "2025-09-15上网；2025-09-13落款",
+      "retrievedAt": "2026-09-29T08:59:04.097284+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "159f2a8b959723f9637259c727f037fa0436cf20466afce9b12080ede7d96f18",
+      "excerpts": [
+        "为进一步加强对低空慢速小目标航空器（以下简称“低慢小”航空器）和空飘物的管理，确保新疆维吾尔自治区成立70周年庆祝活动低空空域安全，根据《中华人民共和国飞行基本规则》《通用航空飞行管制条例》《无人驾驶航空器飞行管理暂行条例》《中华人民共和国治安管理处罚法》等有关法律法规，自2025年9月19日0时至10月5日24时，全面加强相关区域内无人机等“低慢小”航空器和空飘物的安全管控工作，现将有关事宜通告如下："
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "droneSayram",
+      "url": "https://m.wlmq.bendibao.com/tour/66034.shtm",
+      "title": "赛里木湖景区关于对“低慢小”航空器和空飘物管控的通告- 本地宝",
+      "sourceDate": "2025-09-16转载",
+      "retrievedAt": "2026-09-29T09:02:44.999862+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "1598e182cf7bd52b6aa6606805f0cf27a8c7455847b113ca01209533566c8c2b",
+      "excerpts": [
+        "导语 为进一步加强对低空慢速小目标航空器（以下简称“低慢小”航空器）和空飘物的管理，确保新疆维吾尔自治区成立70周年庆祝活动低空空域安全，自2025年9月19日至10月5日，全面加强相关区域内无人机等“低慢小”航空器和空飘物的安全管控工作。",
+        "2025年9月19日至2025年10月5日，赛里木湖景区全域禁飞。\n03、管控措施\n（一）禁飞时段及区域内，禁止任何单位、组织或个人从事“低慢小”航空器及空飘物开展体育、娱乐、广告性飞行活动；\n（二）特殊任务豁免：因应急救援、警务执勤等确需飞行的，需提前24小时向空管部门申请，经批准报备后方可实施；\n（三）对未经批准报备擅自飞行的，一经发现，一律予以击落。"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "droneyn",
+      "url": "https://www.xjyl.gov.cn/xjylz/c112504/202608/a4bb5d715bbb4150b777fd46cd11ee91.shtml",
+      "title": "关于对伊宁市“低慢小”航空器和空飘物在特定时间段进行管控的通告_文件_伊犁哈萨克自治州人民政府",
+      "sourceDate": "2026-08-17；8月20至22日临时管控",
+      "retrievedAt": "2026-09-29T08:59:04.097321+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "7e71734b667b99d23c38292f68c70b31f330277a02d0e4ea02359187a286fa5e",
+      "excerpts": [
+        "2026年8月20日0时至2026年8月22日10时。\n三、禁飞区域\n以上“低慢小”航空器和空飘物在伊宁市行政辖区全域禁止飞行。\n四、管控措施\n（一）禁飞时段、禁飞区域内，禁止任何单位、组织和个人从事“低慢小”航空器和空飘物体育、娱乐、广告性飞行等活动。"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "baihabagov",
+      "url": "https://www.hbh.gov.cn/xwdt/002012/20240718/a8ee0a6b-c42f-4a6d-a605-9d49a0f21042.html",
+      "title": "哈巴河：“宿”梦白哈巴 体验不一样的“诗与远方”_哈巴河县人民政府",
+      "sourceDate": "2024-07-17",
+      "retrievedAt": "2026-09-29T09:06:08.303729+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "faac3b1053bd3bd772bb6c00e5a60909d3719cf73b5a1b770dfe71382e5d7433",
+      "excerpts": [
+        "走进哈巴河县的白哈巴村，仿佛踏入了一个梦幻的世界。在这里，游客们可以住进图瓦人的特色小木屋，让身心沉浸在这一方独特的天地间。微风轻拂，草木摇曳，静静聆听着图瓦人古老乐器所奏响的天籁之音，那悠扬的旋律如同从岁月深处传来，讲述着这片土地上古老而神秘的故事，让人心生向往，陶醉其中。"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "g577",
+      "url": "https://jtyst.xinjiang.gov.cn/xjjtysj/mtkjt/202605/e16d5b531fc34f79850028ba7eb77968.shtml",
+      "title": "我的重点项目报告丨G577线精伊公路建设进入收官冲刺阶段 预计6月30日建成",
+      "sourceDate": "2026-05-18；为预计建成报道",
+      "retrievedAt": "2026-09-29T08:55:49.440083+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "1b89b1b5a6053f9015a906638f8c64df2c371a77d77e53e5b391e080ba5439e1",
+      "excerpts": [
+        "5月13日，G577线精河至伊宁县公路（简称精伊公路）施工现场，各项收尾工作有序推进。在控制性工程博尔博松特大桥上，施工人员正细致开展标识标线施划作业；北天山特长隧道内，机电设备联网调试进入最后攻坚阶段。随着各项工序稳步收尾，项目正全力冲刺6月30日建成目标。",
+        "精伊公路起点位于精河县沙山子西南侧，衔接G30连霍高速，终点位于尼勒克县苏布台乡，与G578线墩麻扎至尼勒克县公路相接，全长约92.545公里，采用双向四车道一级公路标准建设，设计时速100公里。",
+        "目前，精伊公路建设已进入最后冲刺阶段，路基、桥梁、隧道、房建工程已全部完工，机电设备联调联试、交通安全设施施工等收尾工作同步推进。\n精伊公路控制性工程博尔博松特大桥上，施工人员正细致开展标识标线施划作业。记者史传芝摄\n“精伊公路建成通车，将有效破解天山北脉长期以来的地理阻隔，显著优化北疆区域交通格局。”中铁城市发展投资集团有限公司G577精伊公路项目指挥部指挥长石文科说，精伊公路是进出伊犁河谷的第二条公路主通道，有效衔接连霍高速，串联起伊犁河谷与博州、南疆及国内其他省市。建成通车后，精河至尼勒克通行时间将由5小时缩短至2小时，乌鲁木齐至伊宁行车里程缩短约90公里，耗时从8小时缩减至6个多小时。同时，公路将绕开果子沟自然灾害高发区段，实现全年安全畅通，彻底破解过往通行隐患。这将打通区域物流瓶颈、降低运输成本，为促进沿线地区经济社会发展、增进民生福祉注入强劲交通动力。\n（来源：乌鲁木齐晚报）\n扫一扫在手机打开当前页"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "hkmainlandcoach",
+      "url": "https://www.hongkongairport.com/sc/transport/mainland-connection/mainland-coaches/",
+      "title": "往内地的客车, 来往中国内地交通 - 香港国际机场",
+      "sourceDate": "未见独立发布日期；2026-09-29核读",
+      "retrievedAt": "2026-09-29T09:04:46.809091+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "b9210b93e3905910a0a87a2d844c5b7001c7933361670c3713f52cbfe4519aa6",
+      "excerpts": [
+        "深圳湾口岸（06:00 至 22:30）\n#请向有关营运商查询详情。\n登车处\n二号客运大楼第三层（L3）内地／澳门交通及旅游服务中心20至26号登车处\n票务处",
+        "二号客运大楼第三层（L3）内地／澳门交通及旅游服务中心20至26号登车处\n票务处\n二号客运大楼第三层（L3）内地／澳门交通及旅游服务中心01至16柜台\n跨境口岸快线\n往中国内地／澳门目的地客车"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "cadAPDT",
+      "url": "https://www.cad.gov.hk/english/departure_tax.html",
+      "title": "Civil Aviation Department - Air Passenger Departure Tax",
+      "sourceDate": "最后复核日2025-10-01；2026-09-29核读",
+      "retrievedAt": "2026-09-29T09:04:46.808851+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "d63b1c92b8029b3d0cfe10cd4d4e09616f1d4ace38038032048a2ec2c3c92919",
+      "excerpts": [
+        "The current rate of the Air Passenger Departure Tax is HK$200 per passenger departing by air from Hong Kong through Hong Kong International Airport, or by helicopter from Hong Kong at the Heliport at the Hong Kong-Macao Ferry Terminal. Pursuant to the Air Passenger Departure Tax Ordinance (Cap. 140), certain categories of passengers are exempted from paying the Air Passenger Departure Tax.  Major exempted categories include:",
+        "passengers who arrive Hong Kong by land or sea, and depart from Hong Kong by air on the same or following calendar day (without exiting Hong Kong through immigration control by land or sea on the day or the preceding day of their departure flights)",
+        "Refund of Air Passenger Departure Tax to passengers under the exempted categories is handled by the Airport Authority Hong Kong.  Exempted passengers who have paid Air Passenger Departure Tax upon purchase of air ticket should submit application for tax refund via the Refund Application Platform within 28 calendar days from the date of the departure flight.  Otherwise, the application will not be considered. For more information on the refund procedures, please visit www.APDTRefund.hk."
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "autumn",
+      "url": "http://mail.altxw.com/tj/202608/t20260822_36036310.html",
+      "title": "今年阿勒泰秋叶最佳观赏期锁定：9月15日至10月5日",
+      "sourceDate": "2026-08-22",
+      "retrievedAt": "2026-09-29T09:06:08.303788+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "a1e21097f7711d65f74a28b1087fd1f2e208bf878055335f3cb5f2679a65b883",
+      "excerpts": [
+        "石榴云/新疆日报讯（记者 银璐报道）近日，阿勒泰地区气象台发布2026年秋叶观赏预报，最佳观赏期为9月15日至10月5日。\n阿勒泰秋景 库奋·尼合买提摄\n受今年夏季持续高温和极端干旱影响，阿勒泰地区林木生长周期加快，秋叶转黄时间较常年整体提前约一周。今年阿勒泰秋色呈现明显的海拔梯度特征，海拔1800米以上区域，如喀纳斯湖周边山顶、禾木村后山观景台、白哈巴高山草甸，最佳观赏期在9月初至9月中下旬，其中9月10日前后为拍摄雪山与金黄林海同框的最佳时段；海拔1200米—1800米区域，包括喀纳斯三湾、禾木河谷、可可托海额尔齐斯河峡谷，观赏期集中在9月中下旬至10月初，9月20日左右喀纳斯湖畔白桦林进入观赏全盛期；海拔800米—1200米区域，如五彩滩、额德克红叶林、红叶沟等，观赏期可持续至10月中旬，同时G331阿勒泰—青河公路沿线看白桦与杨树交错的景观也持续到10月上旬。\n阿勒泰秋景 库奋·尼合买提摄\n气象部门建议游客按海拔从高到低依次追寻秋叶景观，并错峰出行。此外，9月至10月阿勒泰地区昼夜温差超过15℃，山区早晚可降至0℃左右，需备羽绒服和防滑鞋；阿禾公路等山区路段易因雨雪临时管控，自驾游客应及时关注路况信息。"
+      ],
+      "method": "公开网页正文读取；仅引用相关条款，不代表现场或个人订单确认"
+    },
+    {
+      "id": "hb862RenderedSchedule",
+      "url": "https://www.greaterbay-airlines.com/hk/zh_HK/book/flying-with-us/flight-schedule.html",
+      "title": "大湾区航空航班时间表：HKG → URC",
+      "retrievedAt": "2026-09-29T09:18:57.406267+00:00",
+      "method": "浏览器渲染表格；核对行与日期列的 has-flight 标记，非只摘录航班文本",
+      "displayedDateHeaders": [
+        "SEP 27 Sun",
+        "SEP 28 Mon",
+        "SEP 29 Tue",
+        "SEP 30 Wed",
+        "OCT 1 Thu",
+        "OCT 2 Fri",
+        "OCT 3 Sat"
+      ],
+      "matchedFlight": {
+        "number": "HB862",
+        "departure": "18:45 HKG",
+        "duration": "6h 30m",
+        "arrival": "01:15 URC +1",
+        "arrivalMarkup": "<div class=\"plus-one\">01:15</div><div>URC</div>",
+        "operatingDateHeaders": [
+          "SEP 30 Wed",
+          "OCT 2 Fri"
+        ],
+        "targetDepartureDate": "2026-10-02"
+      },
+      "boundary": "官网计划时刻表参考，不等于已核验个人客票、实际起降或临时改点。"
+    },
+    {
+      "id": "hx457",
+      "url": "https://campaign.hkaholidays.com/en/urumqi/",
+      "title": "探索絲路秘境：香港航空直航烏魯木齊套票",
+      "sourceDate": "2026-07-06页面署期；班期表含2026-10-11",
+      "retrievedAt": "2026-09-29T09:19:45.115557+00:00",
+      "httpStatus": 200,
+      "sha256OfFetchedHtml": "a8f42cb2246dabcfbd03b1fb6ee3a0ecd5df65d42f56c1301e881ea2a2bf263c",
+      "excerpts": [
+        "第 6 天烏魯木齊送機 (第5天晚上)\nHX457 02:15-07:30\n費用包括:",
+        "HX456 香港 – 烏魯木齊 18:35 – 01:15+1\nHX457 烏魯木齊 – 香港 02:15 – 07:30\n香港 – 烏魯木齊烏魯木齊 – 香港",
+        "10月06日 (二)10月07日 (三)\n10月10日 (六)10月11日 (日)\n10月13日 (二)10月14日 (三)",
+        "2026 HKA Holidays Promotion Package Flight & Hotel Booking Terms and Conditions:\n1. 優惠預訂期由2026年7月16日至2026年8月31日，包括首尾兩天(「預訂期」) ; 有效旅遊日期由2026年8月29日至2026年10月21日，包括首尾兩天(「旅遊日期」)。\nBook “Air + Hotel” or “Air” on HKA Holidays website (www.hkaholidays.com) during Booking Period (“Eligible Transactions”) with transaction (excluding tax, Airport Construction Fee, Passenger Security Charge, Passenger’s Fuel Surcharges and any other applicable charges), using Hong Kong, Dollars (HKD) for payment (“Spending Requirement”) and enter a promotion code into the promotion code field in the check-out section of the site.",
+        "(inclusive)\n烏魯木齊  (URC)2026年8月29日\n至"
+      ],
+      "method": "公开官网营销页面的航班时刻及班期表；支持计划日期，不证明个人订单、值机截止或当日实际运行"
+    }
+  ],
+  "calculations": {
+    "at": "2026-09-29T09:11:49.895Z",
+    "primaryDrivingKm": 2573.9,
+    "primaryDrivingMinutes": 2105,
+    "budget": {
+      "known": 16136.7,
+      "room": 198,
+      "fixed": 16334.7,
+      "meals": 4800,
+      "fuel": 1444.014,
+      "entered": 4687,
+      "missing": [
+        "4 人两程火车票",
+        "全员景区票与景交",
+        "境内出租车等接驳",
+        "写真、收费道路与停车等"
+      ],
+      "total": 27067.714,
+      "perPerson": 6766.9285
+    },
+    "stayPlans": [
+      {
+        "total": 6136.7,
+        "savings": 0,
+        "choices": {
+          "D4": "primary",
+          "D7": "primary"
+        }
+      },
+      {
+        "total": 5978.7,
+        "savings": 158,
+        "choices": {
+          "D4": "jinghe",
+          "D7": "primary"
+        }
+      },
+      {
+        "total": 6105.7,
+        "savings": 31,
+        "choices": {
+          "D4": "primary",
+          "D7": "yunshu"
+        }
+      },
+      {
+        "total": 5947.7,
+        "savings": 189,
+        "choices": {
+          "D4": "jinghe",
+          "D7": "yunshu"
+        }
+      }
+    ],
+    "effectiveMapDrivingKm": {
+      "D0": 0,
+      "D1": 460.8,
+      "D2": 140.8,
+      "D3": 140.4,
+      "D4": 469.4,
+      "D5": 370,
+      "D6": 185,
+      "D7": 485,
+      "D8": 342,
+      "D9": 0
+    },
+    "d7EffectiveWestLeg": {
+      "from": "qem",
+      "to": "bll",
+      "mode": "drive",
+      "note": "G218 出山 40.0 km",
+      "roundTrip": false,
+      "km": 40,
+      "time": "39 min",
+      "roads": [],
+      "source": "amap-driving"
+    },
+    "usingUserEnergy1500": 27123.7,
+    "d8BufferMinutes": 12,
+    "d3OldDeparturePlusTransfers": "16:00 + 75 min + 45 min = 18:00 (car departure)",
+    "d3ArrivalIfOld": "18:00 + 146 min + 10–15 min = 20:36–20:41",
+    "g577ApproachCachedMeters": 38025,
+    "optionalSameDateHotelQuotes": 1442.5
+  },
+  "validation": {
+    "pnpm run check": "通过：23章、10日日程、7个gate、28张登记图片及链接/索引/锚点检查",
+    "pnpm test": "通过：2个测试文件，共22项；2026-09-29 16:54 Asia/Shanghai",
+    "python3 tools/sun_times.py": "通过：复算15个地点日期组合；太阳时刻与摄影表吻合，赛湖20:04/20:05属于分钟级近似",
+    "meaning": "这些检查不证明外部政策有效、道路放行、酒店承诺或订单实际出票"
+  },
+  "limitations": [
+    "高德MCP本轮工具发现失败：AMAP_KEY或既有配置不可读取，未发起新的POI/驾车查询；地图与餐饮核查使用项目中已保存的快照和缓存。",
+    "G577引用正文仅为预计建成；本轮未取得可作为正式投用证明的官方公告，不据此推断道路未开放。",
+    "天山网独库报道URL返回200但正文为空，实施依据采用成功核读的山西省交通运输厅转载。",
+    "国办假期通知检索命中，但所选国务院新闻办公室原文访问返回521，未把检索摘要列为新增核读证据。",
+    "未读取个人票务账户、租车合同原件或全部酒店订单；用户回填与路书记录不冒充本轮已验证订单。",
+    "未联系商家、办理证件、预约、改订、取消或付款。",
+    "没有将搜索AI摘要、商业攻略中的固定限额/放票时间/十月封路推断作为官方结论。"
+  ],
+  "reportVerification": {
+    "at": "2026-09-29T09:22:31.623619+00:00",
+    "localLinksChecked": 37,
+    "linkErrors": [],
+    "sourceSnapshotFilesUnchanged": 40,
+    "sourceSnapshotErrors": [],
+    "findingIds": [
+      "F01",
+      "F02",
+      "F03",
+      "F04",
+      "F05",
+      "F06",
+      "F07",
+      "F08",
+      "F09",
+      "F10",
+      "R01",
+      "R02",
+      "R03",
+      "R04",
+      "R05"
+    ],
+    "reportSha256": "0e7ae6b9c3c78e45b1e1bd01aedc016d830e34cf523da5416c6cc178cb34f0c6"
+  },
+  "followUp": {
+    "date": "2026-09-29",
+    "file": "docs/audit-corrections-20260929.md",
+    "note": "原sourceSnapshot及reportVerification是修订前证据；原报告现只追加整改状态说明，原校验值用于对应历史版本。"
+  }
+}

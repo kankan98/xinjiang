@@ -1,0 +1,94 @@
+$ pnpm run generate && pnpm run check:content && vite build
+$ pnpm run generate:route-map && pnpm run generate:search && pnpm run generate:day-schedules
+$ python -X utf8 tools/generate_route_map.py
+Route map generated: D:\学习\苹果音乐\新疆北疆RoadBook\src\assets\images\travel-line.png
+$ node tools/generate_search_index.mjs
+Search index generated: 22 Vue chapters -> D:\学习\苹果音乐\新疆北疆RoadBook\src\generated\search-index.generated.json
+$ node tools/generate_day_schedules.mjs
+Generated daily schedules from 10 chapter time tables.
+$ pnpm run check:search && pnpm run check:day-schedules && node tools/validate_roadbook.mjs
+$ node tools/generate_search_index.mjs --check
+Search index is current: 22 Vue chapters.
+$ node tools/generate_day_schedules.mjs --check
+Daily schedule check passed: 10 chapters.
+Validation passed: 22 Vue chapters, 10 days, 7 gates, 28 images, links, ids, checklists, and lazy-search data.
+vite v7.3.6 building client environment for production...
+transforming...
+node_modules/.pnpm/@vueuse+core@14.3.0_vue@3.5.40/node_modules/@vueuse/core/dist/index.js (3362:0): A comment
+
+"/* #__PURE__ */"
+
+in "node_modules/.pnpm/@vueuse+core@14.3.0_vue@3.5.40/node_modules/@vueuse/core/dist/index.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/.pnpm/@vueuse+core@14.3.0_vue@3.5.40/node_modules/@vueuse/core/dist/index.js (5780:22): A comment
+
+"/* #__PURE__ */"
+
+in "node_modules/.pnpm/@vueuse+core@14.3.0_vue@3.5.40/node_modules/@vueuse/core/dist/index.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+✓ 1748 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                      2.30 kB │ gzip:   1.09 kB
+dist/assets/BarlowCondensed-500-BgYH2mbd.woff2      21.42 kB
+dist/assets/BarlowCondensed-600-DepVgxBB.woff2      22.31 kB
+dist/assets/JetBrainsMono-var-6fWv1k7M.woff2        31.43 kB
+dist/assets/sayram-sunset-D7MI97ot.webp             31.46 kB
+dist/assets/sayram-sunset-2026-Du6tayAM.webp        48.83 kB
+dist/assets/burqin-BU5r6nFz.webp                    57.00 kB
+dist/assets/route-wolong-bay-BPwgBO0M.webp          60.44 kB
+dist/assets/urumqi-skyline-CXvyk5VM.webp            65.23 kB
+dist/assets/sayram-lakeshore-4WHVB1Q1.webp          80.54 kB
+dist/assets/sayram-panorama-C1qsW93e.webp           89.75 kB
+dist/assets/ili-river-sunset-8YplX4IJ.webp          95.77 kB
+dist/assets/g217-north-CvzWZS-u.webp               111.16 kB
+dist/assets/sayram-arrival-CpZX1_s7.webp           153.57 kB
+dist/assets/yining-station-Bdcs6UVJ.webp           189.47 kB
+dist/assets/kanas-moon-bay-CmvFSyX3.webp           198.50 kB
+dist/assets/hong-kong-airport-t2-DKULc-zu.webp     201.80 kB
+dist/assets/wucaitan-B-9OY4xK.webp                 204.29 kB
+dist/assets/guozigou-bridge-COz7OCzh.webp          204.92 kB
+dist/assets/travel-line-DV463esc.png               209.70 kB
+dist/assets/karamay-pumpjacks-B05h0Zaw.webp        230.02 kB
+dist/assets/jimunai-grassland-hUKbqfX2.webp        239.83 kB
+dist/assets/wucaitan-sunset-BoeEmT4-.webp          240.70 kB
+dist/assets/baihaba-autumn-D9gae9Lf.webp           243.76 kB
+dist/assets/tacheng-plains-G1PY6hQt.webp           270.70 kB
+dist/assets/yining-dusk-BflTt6X3.webp              293.15 kB
+dist/assets/kanas-autumn-river-CrOmpY1Y.webp       310.04 kB
+dist/assets/tangbula-grassland-dFHXVwMP.webp       347.67 kB
+dist/assets/sayram-road-o4vjDG3D.webp              361.74 kB
+dist/assets/baihaba-line-C9VuNXVq.jpg              394.42 kB
+dist/assets/baihaba-village-BX9r7CXY.webp          398.01 kB
+dist/assets/altay-river-aerial-zzkOkO9W.webp       403.36 kB
+dist/assets/kanas-lake-2DlpM5YX.webp               693.82 kB
+dist/assets/ChapterPage-DKdEciDw.css                 9.05 kB │ gzip:   1.60 kB
+dist/assets/HomePage-D-xnhfAS.css                    9.14 kB │ gzip:   1.95 kB
+dist/assets/index-DQfV3H5o.css                     196.82 kB │ gzip:  33.19 kB
+dist/assets/_plugin-vue_export-helper-DlAUqK2U.js    0.09 kB │ gzip:   0.10 kB
+dist/assets/MediaFigure-BiuzTqPu.js                  1.98 kB │ gzip:   0.93 kB
+dist/assets/00-总目录-DyKsJJrq.js                       7.28 kB │ gzip:   3.64 kB
+dist/assets/01-研究底稿-BV-XMKsu.js                     10.91 kB │ gzip:   4.50 kB
+dist/assets/Day4-白哈巴-克拉玛依-奎屯-RCOweQPo.js            11.82 kB │ gzip:   5.02 kB
+dist/assets/Day9-乌鲁木齐-香港-Bn6Derd8.js                12.27 kB │ gzip:   5.02 kB
+dist/assets/03-全书一致性与政策时效性复核-ZjhWvoCB.js            13.81 kB │ gzip:   4.77 kB
+dist/assets/Day0-香港-乌鲁木齐-BGG-MetY.js                13.89 kB │ gzip:   5.54 kB
+dist/assets/Day8-尼勒克-乌鲁木齐-bHz_B194.js               14.11 kB │ gzip:   5.18 kB
+dist/assets/专题-景区百科-Bbls6g-Y.js                     15.51 kB │ gzip:   7.05 kB
+dist/assets/02-路线推导-SAaKgndr.js                     15.96 kB │ gzip:   7.32 kB
+dist/assets/Day3-白哈巴-喀纳斯全天-DZl3ZJbd.js              16.02 kB │ gzip:   6.25 kB
+dist/assets/Day5-奎屯-赛里木湖-CkOIgLgv.js                16.29 kB │ gzip:   6.71 kB
+dist/assets/专题-酒店指南-CVdWbGcs.js                     17.52 kB │ gzip:   7.04 kB
+dist/assets/Day1-乌鲁木齐-布尔津-DPumkhK1.js               18.05 kB │ gzip:   7.33 kB
+dist/assets/Day7-伊宁-那拉提-唐布拉-尼勒克-DOZlkFN4.js         19.27 kB │ gzip:   7.79 kB
+dist/assets/专题-新疆旅行应急宝典-C2mcjA_h.js                 20.52 kB │ gzip:   9.28 kB
+dist/assets/专题-新疆摄影地图-B8GLQTn6.js                   21.27 kB │ gzip:   7.91 kB
+dist/assets/Day2-布尔津-白哈巴-BvzhC7wF.js                22.66 kB │ gzip:   9.21 kB
+dist/assets/专题-预算规划-B-s3v3kj.js                     23.36 kB │ gzip:   9.14 kB
+dist/assets/专题-美食指南-aSNKdgjp.js                     30.36 kB │ gzip:  10.86 kB
+dist/assets/Day6-赛里木湖-伊宁-BBKEbkDR.js                30.76 kB │ gzip:  11.44 kB
+dist/assets/04-来源与复核日志-VsiH97GB.js                  35.23 kB │ gzip:  14.48 kB
+dist/assets/专题-理想L7新疆自驾指南-BkVPTZON.js               37.83 kB │ gzip:  15.73 kB
+dist/assets/HomePage-CZ9mKvPf.js                   103.97 kB │ gzip:  37.94 kB
+dist/assets/ChapterPage-CcnFR5XB.js                112.77 kB │ gzip:  43.72 kB
+dist/assets/search-index.generated-aZJX-_r7.js     276.25 kB │ gzip: 107.41 kB
+dist/assets/index-vYNGAvKt.js                      348.38 kB │ gzip: 129.98 kB
+✓ built in 3.04s

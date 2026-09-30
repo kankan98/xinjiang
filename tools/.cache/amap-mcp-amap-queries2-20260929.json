@@ -1,0 +1,1419 @@
+{
+  "detail:B03E700G4W": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B03E700G4W"
+    },
+    "at": "2026-09-28T17:50:07.123Z",
+    "result": {
+      "id": "B03E700G4W",
+      "name": "奎屯站",
+      "location": "84.900179,44.403616",
+      "address": "团结南街",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "交通设施服务;火车站;火车站",
+      "alias": "",
+      "photo": "https://aos-comment.amap.com/B03E700G4W/comment/%5B2026-02-09-15-20-38%5DDFE43CDA-F543-479C-83D1-8CF1B4050F3_1770621643973_97852885.jpg",
+      "cost": "",
+      "opentime2": "",
+      "rating": "",
+      "open_time": ""
+    }
+  },
+  "detail:B0KRLX6MXK": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KRLX6MXK"
+    },
+    "at": "2026-09-28T17:50:07.493Z",
+    "result": {
+      "id": "B0KRLX6MXK",
+      "name": "柒朵轻居酒店(喀纳斯塔桥店)",
+      "location": "86.877406,47.702818",
+      "address": "美丽峰路阳光名苑小区7号商业楼2层1号",
+      "business_area": "",
+      "city": "阿勒泰地区",
+      "type": "住宿服务;宾馆酒店;宾馆酒店",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/ed339305adc4a827df82fcfbd34ea7fb",
+      "cost": "",
+      "star": "",
+      "opentime2": "",
+      "rating": "4.7",
+      "lowest_price": "",
+      "hotel_ordering": "1",
+      "open_time": ""
+    }
+  },
+  "detail:B0MA5RPPYR": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MA5RPPYR"
+    },
+    "at": "2026-09-28T17:50:07.867Z",
+    "result": {
+      "id": "B0MA5RPPYR",
+      "name": "禧苑汀云民宿",
+      "location": "82.483017,43.794047",
+      "address": "滨河路86号",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "住宿服务;住宿服务相关;住宿服务相关",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/fa6374c6d43583bf339399b62caec82d",
+      "cost": "",
+      "star": "",
+      "opentime2": "",
+      "rating": "4.5",
+      "lowest_price": "",
+      "hotel_ordering": "1",
+      "open_time": ""
+    }
+  },
+  "detail:B0JU3MRFHC": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0JU3MRFHC"
+    },
+    "at": "2026-09-28T17:50:08.236Z",
+    "result": {
+      "id": "B0JU3MRFHC",
+      "name": "海蒂车饭店",
+      "location": "83.426692,43.741388",
+      "address": "种蜂场农蜂队滨河西路5号",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "alias": "",
+      "photo": "https://aos-comment.amap.com/B0JU3MRFHC/comment/1badfc45424a3b9215a79404a0d2a82a_2048_2048_80.jpg",
+      "cost": "80.00",
+      "opentime2": "周一至周日 12:00-16:30,18:00-24:00",
+      "rating": "4.5",
+      "open_time": "12:00-16:30 18:00-24:00",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0MUTDL86I": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0MUTDL86I"
+    },
+    "at": "2026-09-28T17:50:08.592Z",
+    "result": {
+      "id": "B0MUTDL86I",
+      "name": "云舒·小院|Bloom Vale Warmth休闲美宿(尼勒克蜜蜂小镇店)",
+      "location": "83.429987,43.742241",
+      "address": "蜜蜂小镇商业路6号",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "住宿服务;旅馆招待所;旅馆招待所",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/918ba7f0bd4fb463f514f31d0fb43d2d",
+      "cost": "",
+      "star": "",
+      "opentime2": "",
+      "rating": "5.0",
+      "lowest_price": "",
+      "hotel_ordering": "1",
+      "open_time": ""
+    }
+  },
+  "detail:B0FFIS2SZU": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFIS2SZU"
+    },
+    "at": "2026-09-28T17:50:08.948Z",
+    "result": {
+      "id": "B0FFIS2SZU",
+      "name": "苏氏牛肉面(团结南街店)",
+      "location": "84.903367,44.422429",
+      "address": "团结南街74号",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/ba0cc7fd9526407cdcda274ed69a0730",
+      "cost": "25.00",
+      "opentime2": "周一至周日 10:00-20:00",
+      "rating": "4.6",
+      "open_time": "10:00-20:00",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0JGBU5HTK": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0JGBU5HTK"
+    },
+    "at": "2026-09-28T17:50:09.228Z",
+    "result": {
+      "id": "B0JGBU5HTK",
+      "name": "51号烤包子一把抓",
+      "location": "84.897257,44.420823",
+      "address": "乌苏南街51-7号",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;餐饮相关场所;餐饮相关",
+      "alias": "",
+      "photo": "https://aos-comment.amap.com/B0JGBU5HTK/comment/0C72FCBA_CD5E_477E_A56A_2FB03E5868E8_L0_001_1500_200_1768187867580_88529932.jpg",
+      "cost": "14.00",
+      "opentime2": "周一至周日 07:00-24:00",
+      "rating": "4.6",
+      "open_time": "07:00-24:00",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0FFF4UW5R": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFF4UW5R"
+    },
+    "at": "2026-09-28T17:50:09.582Z",
+    "result": {
+      "id": "B0FFF4UW5R",
+      "name": "昌吉二六工丸子汤(团结路店)",
+      "location": "82.502817,43.791517",
+      "address": "幸福路二六工丸子汤",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "餐饮服务;中餐厅;中餐厅",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/f0759090ad2882fe0000006887108890?type=pic",
+      "cost": "42.00",
+      "opentime2": "周一至周日 08:00-00:00 10-01至10-07 周一至周日 10:00-00:00",
+      "rating": "4.4",
+      "open_time": "08:00-24:00 10:00-24:00",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0FFFDXFBK": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFFDXFBK"
+    },
+    "at": "2026-09-28T17:50:09.954Z",
+    "result": {
+      "id": "B0FFFDXFBK",
+      "name": "果子沟大桥",
+      "location": "81.140191,44.475984",
+      "address": "霍城县",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "地名地址信息;交通地名;桥",
+      "alias": "",
+      "photo": "https://aos-comment.amap.com/B0FFFDXFBK/comment/f117a256a295c1b574fd25c2a1d30e18_2048_2048_80.jpg",
+      "cost": "",
+      "opentime2": "",
+      "rating": "",
+      "open_time": ""
+    }
+  },
+  "detail:B0FFL2UMIZ": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFL2UMIZ"
+    },
+    "at": "2026-09-28T17:50:10.297Z",
+    "result": {
+      "id": "B0FFL2UMIZ",
+      "name": "贾登峪门票站",
+      "location": "87.130721,48.507338",
+      "address": "铁喀段和232省道的交叉口附近",
+      "business_area": "",
+      "city": "阿勒泰地区",
+      "type": "生活服务;生活服务场所;生活服务场所",
+      "alias": "",
+      "photo": "https://aos-comment.amap.com/B0FFL2UMIZ/comment/content_media_external_file_1000098637_ss__1754786271255_06548139.jpg",
+      "cost": "",
+      "opentime2": "周一至周日 00:00-24:00",
+      "rating": "",
+      "open_time": "24小时营业"
+    }
+  },
+  "detail:B038A0LOVH": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B038A0LOVH"
+    },
+    "at": "2026-09-28T17:50:10.606Z",
+    "result": {
+      "id": "B038A0LOVH",
+      "name": "铁热克提乡人民政府",
+      "location": "86.701153,48.475301",
+      "address": "铁热克提乡",
+      "business_area": "",
+      "city": "阿勒泰地区",
+      "type": "政府机构及社会团体;政府机关;乡镇级政府及事业单位",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/51d6b9cf0e9c9c51bb898007f0893be2",
+      "cost": "",
+      "opentime2": "",
+      "rating": "",
+      "open_time": ""
+    }
+  },
+  "detail:B0KDYAY50F": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0KDYAY50F"
+    },
+    "at": "2026-09-28T17:50:10.946Z",
+    "result": {
+      "id": "B0KDYAY50F",
+      "name": "六星街景区",
+      "location": "81.308460,43.932766",
+      "address": "工人街十巷与黎光街交叉口西北方向50米",
+      "business_area": "",
+      "city": "伊犁哈萨克自治州",
+      "type": "风景名胜;风景名胜;风景名胜",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/ce16c8a4a5ae36410000007149866898?type=pic",
+      "cost": "",
+      "opentime2": "周一至周日 00:00-24:00",
+      "level": "",
+      "rating": "4.8",
+      "open_time": "24小时营业",
+      "ticket_ordering": "0"
+    }
+  },
+  "detail:B0K1OHU3Z3": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0K1OHU3Z3"
+    },
+    "at": "2026-09-28T17:50:22.306Z",
+    "result": {
+      "id": "B0K1OHU3Z3",
+      "name": "马依莱手抓肉",
+      "location": "86.874462,47.701154",
+      "address": "神湖路旅游公司兴居房地产公司综合楼1层(4、5号)",
+      "business_area": "",
+      "city": "阿勒泰地区",
+      "type": "餐饮服务;中餐厅;清真菜馆",
+      "alias": "",
+      "photo": "https://aos-comment.amap.com/B0K1OHU3Z3/comment/CB0B4F03_61D0_4162_9DA8_55D07633562A_L0_001_1996_199_1764970201460_10188264.jpg",
+      "cost": "34.00",
+      "opentime2": "周一至周日 12:00-24:00",
+      "rating": "4.4",
+      "open_time": "12:00-24:00",
+      "meal_ordering": "0"
+    }
+  },
+  "detail:B0FFLJU371": {
+    "tool": "maps_search_detail",
+    "args": {
+      "id": "B0FFLJU371"
+    },
+    "at": "2026-09-28T17:50:22.644Z",
+    "result": {
+      "id": "B0FFLJU371",
+      "name": "赛里木湖国家级风景名胜区北门游客中心",
+      "location": "81.146420,44.728084",
+      "address": "G30连霍高速赛里木湖国家级风景名胜区(西北角)",
+      "business_area": "",
+      "city": "博尔塔拉蒙古自治州",
+      "type": "生活服务;信息咨询中心;服务中心",
+      "alias": "",
+      "photo": "https://store.is.autonavi.com/showpic/5641cd8f6f0b34500000003151614393?type=pic",
+      "cost": "",
+      "opentime2": "周一至周日 00:00-24:00",
+      "rating": "",
+      "open_time": "24小时营业"
+    }
+  },
+  "search:晚夏摄影 伊宁": {
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "晚夏摄影",
+      "city": "伊宁市",
+      "citylimit": true
+    },
+    "at": "2026-09-28T17:50:22.983Z",
+    "result": {
+      "suggestion": {
+        "keywords": "",
+        "ciytes": {
+          "suggestion": []
+        }
+      },
+      "pois": [
+        {
+          "id": "B0KAOS0880",
+          "name": "晚夏摄影(六星街店)",
+          "address": "江苏路180号",
+          "typecode": "071300",
+          "photo": "https://store.is.autonavi.com/showpic/3e6d4a1a8c047b7847881259d061c033"
+        },
+        {
+          "id": "B0KDRD4R7L",
+          "name": "花开半夏摄影",
+          "address": "前进街47号",
+          "typecode": "071300",
+          "photo": "http://store.is.autonavi.com/showpic/996b52f87342e6bcab680c24f4252567"
+        },
+        {
+          "id": "B0MAJS31EO",
+          "name": "萨丽哈与夏天摄影工作室",
+          "address": "黎光街天和康城1号门面房125室",
+          "typecode": "071300",
+          "photo": "https://store.is.autonavi.com/showpic/19e20b31d0eacd91c45d419e6eaff882"
+        }
+      ]
+    }
+  },
+  "search:江苏路180号 伊宁": {
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "江苏路180号",
+      "city": "伊宁市",
+      "citylimit": true
+    },
+    "at": "2026-09-28T17:50:23.367Z",
+    "result": {
+      "suggestion": {
+        "keywords": "",
+        "ciytes": {
+          "suggestion": []
+        }
+      },
+      "pois": [
+        {
+          "id": "B0MUN52NNZ",
+          "name": "伊宁市巴依老爷炭火烤肉",
+          "address": "解放路街道江苏路180号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/c92b8b8506ab67aa0000003314490936?type=pic"
+        },
+        {
+          "id": "B0FFL0T9TR",
+          "name": "君等源火锅(江苏路店)",
+          "address": "江苏路180号",
+          "typecode": "050117",
+          "photo": "http://store.is.autonavi.com/showpic/d3693d94a927eb1cb2167bc726922bb2"
+        },
+        {
+          "id": "B0KAOS0880",
+          "name": "晚夏摄影(六星街店)",
+          "address": "江苏路180号",
+          "typecode": "071300",
+          "photo": "https://store.is.autonavi.com/showpic/3e6d4a1a8c047b7847881259d061c033"
+        },
+        {
+          "id": "BZEOI3008T",
+          "name": "江苏路",
+          "address": "伊宁市",
+          "typecode": "190301",
+          "photo": null
+        },
+        {
+          "id": "B0M6M9WZBF",
+          "name": "江苏路辅路",
+          "address": "伊宁市",
+          "typecode": "190301",
+          "photo": null
+        },
+        {
+          "id": "B0FFI0PHJL",
+          "name": "伊宁市小韩庭院农家",
+          "address": "江苏路",
+          "typecode": "080500",
+          "photo": "https://aos-comment.amap.com/B0FFI0PHJL/headerImg/21e9d76a1b94ba13e986015081562bd7_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0FFH6AFLZ",
+          "name": "茂荣特价超市",
+          "address": "解放西路七巷与江苏路交叉口东北180米",
+          "typecode": "060000",
+          "photo": "http://store.is.autonavi.com/showpic/65cb73f37b9673d9640397e3bdf93c02"
+        }
+      ]
+    }
+  },
+  "search:布尔津 河堤夜市": {
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "河堤夜市",
+      "city": "布尔津县",
+      "citylimit": true
+    },
+    "at": "2026-09-28T17:50:23.756Z",
+    "result": {
+      "suggestion": {
+        "keywords": "",
+        "ciytes": {
+          "suggestion": []
+        }
+      },
+      "pois": [
+        {
+          "id": "B0MDVCO1EA",
+          "name": "布尔津河堤夜市",
+          "address": "河滨路与圣泉路交叉口南20米",
+          "typecode": "050000",
+          "photo": "https://store.is.autonavi.com/showpic/4d663899e0a7a3900000003139714277?type=pic"
+        },
+        {
+          "id": "B0FFI0GZ62",
+          "name": "胖嫂烧烤(河堤夜市店)(暂停营业)",
+          "address": "河堤夜市11号",
+          "typecode": "050101",
+          "photo": "http://store.is.autonavi.com/showpic/82fdbe6946b1ad8d11ef9209998a6048"
+        },
+        {
+          "id": "B0FFKMR3B1",
+          "name": "津味缘烧烤(河堤夜市店)",
+          "address": "河滨路1-23号河提夜市23号",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/d88c80c1adf8070b92b4b2879d21b996"
+        },
+        {
+          "id": "B0FFHRA1O7",
+          "name": "双泉饭馆(河堤夜市店)",
+          "address": "卧龙湾中路",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/a5278d2c2a2fbe96003254cc8392f044"
+        },
+        {
+          "id": "B038A0LOZX",
+          "name": "果然香(河堤夜市店)",
+          "address": "阳光小区南门东60米",
+          "typecode": "060704",
+          "photo": "https://store.is.autonavi.com/showpic/7a9426e6764a52b93cfcc376dd6ec2bd"
+        },
+        {
+          "id": "B0KDZ5LEI6",
+          "name": "小巴郎子火上浇油烧烤",
+          "address": "河滨路南侧河堤夜市一区9号商铺",
+          "typecode": "050000",
+          "photo": "http://store.is.autonavi.com/showpic/d342f327c19706cce1e9a8f4e1f489d4"
+        },
+        {
+          "id": "B0FFJ1MGLZ",
+          "name": "一等奖烧烤·冷水鱼·新疆菜(暂停营业)",
+          "address": "河滨路河堤夜市12号13号烧烤",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/91522d63f73ff2d75d2a6d61852e8607"
+        },
+        {
+          "id": "B0JAL7D42B",
+          "name": "果然不错新疆特产总汇",
+          "address": "河堤夜市融和民俗风情园b36号",
+          "typecode": "060000",
+          "photo": "https://store.is.autonavi.com/showpic/008bfabba321a165375b12a19ca26a21"
+        },
+        {
+          "id": "B0FFI498IR",
+          "name": "喀纳斯盛典",
+          "address": "河堤夜市旁",
+          "typecode": "080603",
+          "photo": "https://aos-comment.amap.com/B0FFI498IR/comment/content_media_external_file_1000050620_ss__1761980757598_85174986.jpg"
+        },
+        {
+          "id": "B0IAV1PCMO",
+          "name": "金玉阁",
+          "address": "河堤夜市",
+          "typecode": "060000",
+          "photo": "https://store.is.autonavi.com/showpic/a2a41109fc798106b4f9ca9340a48188"
+        },
+        {
+          "id": "B0IUOS6YP2",
+          "name": "唯美假日酒店(布尔津河堤夜市店)",
+          "address": "神湖西路51一2",
+          "typecode": "100100",
+          "photo": "https://store.is.autonavi.com/showpic/f14ad5c1bcd31eb1d2b46b6b774a197e"
+        },
+        {
+          "id": "B038A002EP",
+          "name": "布尔津九华大酒店(河堤夜市店)",
+          "address": "神湖西路51-11号",
+          "typecode": "100100",
+          "photo": "https://store.is.autonavi.com/showpic/9e29d8e2ffeadf9eb751d5238f2d528b"
+        },
+        {
+          "id": "B038A002AB",
+          "name": "布尔津县蒙古人奇石馆",
+          "address": "河堤夜市河滨路商业综合楼西起第14间",
+          "typecode": "061202",
+          "photo": "https://store.is.autonavi.com/showpic/cb3c3e7f7c179f3b30e1a1df90b68e69"
+        },
+        {
+          "id": "B0GR551WO2",
+          "name": "金城假日酒店(布尔津河堤夜市店)",
+          "address": "神湖西路51号",
+          "typecode": "100100",
+          "photo": "http://store.is.autonavi.com/showpic/8cfbf15e828b0a8f20fe36c0819f385a"
+        },
+        {
+          "id": "B0LDXUGKM8",
+          "name": "实香园干果水果",
+          "address": "河堤夜市实香园干果水果",
+          "typecode": "060704",
+          "photo": "http://store.is.autonavi.com/showpic/b161a95e0e9b9f23e7b19632632c849d"
+        },
+        {
+          "id": "B0KRPSLXSH",
+          "name": "津公馆精品民宿(布尔津河堤夜市店)",
+          "address": "神湖路28-2号",
+          "typecode": "100000",
+          "photo": "https://store.is.autonavi.com/showpic/9973ebfa92a11362d5a6a5cced8516df"
+        },
+        {
+          "id": "B0K0DC8XS9",
+          "name": "布尔津轻奢度假民宿(布尔津河堤夜市店)",
+          "address": "神湖路29-3号",
+          "typecode": "100000",
+          "photo": "https://store.is.autonavi.com/showpic/dcddf326a63f16d72340e425cd01242d"
+        }
+      ]
+    }
+  },
+  "search:布尔津 冷水鱼": {
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "冷水鱼",
+      "city": "布尔津县",
+      "citylimit": true
+    },
+    "at": "2026-09-28T17:50:24.218Z",
+    "result": {
+      "suggestion": {
+        "keywords": "",
+        "ciytes": {
+          "suggestion": []
+        }
+      },
+      "pois": [
+        {
+          "id": "B0FFHG45XH",
+          "name": "阿凡提冷水鱼庄(西季美食街店)",
+          "address": "喀纳斯路与百花园路交叉口西120米四季美食街里面三十米左手边就到了",
+          "typecode": "050119",
+          "photo": "https://store.is.autonavi.com/showpic/9e438d37b93928df0000002804838779?type=pic"
+        },
+        {
+          "id": "B0FFGO1CV5",
+          "name": "印府一个吃冷水鱼的地方(布尔津总店)",
+          "address": "喀纳斯南路美食街东边百花园路9-5号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/dd08b1c232258e980000007418894377?type=pic"
+        },
+        {
+          "id": "B0FFFYC11X",
+          "name": "家常玖煲冷水鱼庄",
+          "address": "喀纳斯路7号",
+          "typecode": "050118",
+          "photo": "https://store.is.autonavi.com/showpic/f64a339edf7f28310000003404566313?type=pic"
+        },
+        {
+          "id": "B0FFL0WVP9",
+          "name": "米泉大盘鸡烧烤冷水鱼庄",
+          "address": "友谊峰路美食街中段县人民医院对面",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0FFL0WVP9/comment/content_media_external_file_1000050822_ss__1754745723612_32356094.jpg"
+        },
+        {
+          "id": "B0L6YYHU3W",
+          "name": "小黑冷水鱼鱼庄",
+          "address": "友谊峰路与卧龙湾路交叉口东北200米",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0L6YYHU3W/comment/file_media_Photo_8271_IMG_1751730598_7997_IMG_20250705_234818_jpg_ss_2.jpg"
+        },
+        {
+          "id": "B0FFGMHRXB",
+          "name": "百里香冷水鱼",
+          "address": "友谊峰路美食街2层",
+          "typecode": "050200",
+          "photo": "https://aos-comment.amap.com/B0FFGMHRXB/comment/64fde3593eb5d2b41a4d291cd9072281_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0LUUYQ5Y3",
+          "name": "一绝冷水鱼•新疆菜•手抓肉",
+          "address": "布尔友谊峰路美食街A-58号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/fff45fb6d78d6ffb0000002628108387?type=pic"
+        },
+        {
+          "id": "B0KGTHASKV",
+          "name": "聚香搁冷水鱼庄",
+          "address": "美丽峰路与卧龙湾路交叉口东北100米",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0KGTHASKV/comment/beb1117755587e0faa625401cae3fb18_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0HRRMRLB2",
+          "name": "云端漫居餐厅",
+          "address": "禾木喀纳斯蒙古族乡禾木云端漫居民宿禾木风景区",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0HRRMRLB2/comment/0F02C12F_544C_4842_8E8A_9A72EEFCDF5F_L0_001_2000_150_1767333690984_69282744.jpg"
+        },
+        {
+          "id": "B0FFKP0YRV",
+          "name": "喀纳斯全鱼宴",
+          "address": "河滨路7-1-9正",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0FFKP0YRV/comment/content_media_external_file_1000049829_ss__1761888462076_60276798.jpg"
+        },
+        {
+          "id": "B0KRVNGBPM",
+          "name": "鱼疆宴新疆菜-冷水鱼",
+          "address": "双湖路与五彩滩路交叉口南120米",
+          "typecode": "070000",
+          "photo": "https://aos-comment.amap.com/B0KRVNGBPM/comment/content_media_external_file_100109_ss__1759945646203_36838621.jpg"
+        },
+        {
+          "id": "B0G17UWYTQ",
+          "name": "买西来甫冷水鱼大盘鸡",
+          "address": "百花园路",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0G17UWYTQ/comment/%5B2026-02-01-18-27-47%5D1C60672F-9C94-4BD1-840A-628CEB1732B_1769941668025_49170564.jpg"
+        },
+        {
+          "id": "B0LRKXIZ1U",
+          "name": "百里香冷水鱼",
+          "address": "新疆阿勒泰地区布尔津县喀纳斯南路美食一条街三段地下室8号门面",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/fc29bd4c0d5a10a1d697663575883fec"
+        },
+        {
+          "id": "B0LARRF85M",
+          "name": "花儿鱼庄",
+          "address": "友谊峰南路新疆禾木房地产开发有限公司综合楼1-4-1号",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0LARRF85M/comment/content_media_external_file_26921_ss__1762696344625_56316893.jpg"
+        },
+        {
+          "id": "B0LDLYNOCE",
+          "name": "疆边小城冷水鱼",
+          "address": "布尔津镇卧龙湾路北,美丽峰路东",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/c789861ac3b7537f0000002768230047?type=pic"
+        },
+        {
+          "id": "B0FFKWW8IE",
+          "name": "渔家川湘鱼庄",
+          "address": "四季美食夜市中段二楼",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/fb76bfeaa9c2e73ea6ee6952d97bb929"
+        },
+        {
+          "id": "B0K6P5Z7V6",
+          "name": "边城佳宴冷水鱼庄",
+          "address": "美丽峰路夜光城假日酒店楼下",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0K6P5Z7V6/comment/content_media_external_images_media_1000039084_ss__1742545645575_31449538.jpg"
+        },
+        {
+          "id": "B0IA4MKZWZ",
+          "name": "蜀都鱼馆(私房菜)",
+          "address": "双湖路天福花园小区2号商住楼1层1号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/0903be45693cce14bb1f28f0b1085c87"
+        },
+        {
+          "id": "B0FFL2DL99",
+          "name": "伊味香椒麻鸡冷水鱼宴(美食街店)",
+          "address": "友谊峰大酒店旁边美食街东头第十家",
+          "typecode": "050121",
+          "photo": "https://store.is.autonavi.com/showpic/41a54d5a2c8213390000004391742839?type=pic"
+        },
+        {
+          "id": "B0FFKAV5BK",
+          "name": "香八里餐厅",
+          "address": "双湖路与五彩滩路交叉口南160米",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0FFKAV5BK/comment/a5bf9a049cb60b3b33bf5f4380af9443_2048_2048_80.jpg"
+        }
+      ]
+    }
+  },
+  "search:奎屯 早餐": {
+    "tool": "maps_text_search",
+    "args": {
+      "keywords": "烤包子",
+      "city": "奎屯市",
+      "citylimit": true
+    },
+    "at": "2026-09-28T17:50:24.714Z",
+    "result": {
+      "suggestion": {
+        "keywords": "",
+        "ciytes": {
+          "suggestion": []
+        }
+      },
+      "pois": [
+        {
+          "id": "B0H6PMMFFA",
+          "name": "奎城味到和田烧烤·烤全羊·庭院·新疆菜歌舞餐厅",
+          "address": "团结南街43幢",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0H6PMMFFA/comment/3bc98a44b3d0564da0339b266392997c_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0JGBU5HTK",
+          "name": "51号烤包子一把抓",
+          "address": "乌苏南街51-7号",
+          "typecode": "050000",
+          "photo": "https://aos-comment.amap.com/B0JGBU5HTK/comment/0C72FCBA_CD5E_477E_A56A_2FB03E5868E8_L0_001_1500_200_1768187867580_88529932.jpg"
+        },
+        {
+          "id": "B0H6RRA5OO",
+          "name": "西尔拜提烤包子店",
+          "address": "北京路街道4-D区乌苏街38-11",
+          "typecode": "050000",
+          "photo": "http://store.is.autonavi.com/showpic/e633b080dbee05851ca274a9b7af4c1d"
+        },
+        {
+          "id": "B0J1SSSLSP",
+          "name": "十里桥烤包子",
+          "address": "十里桥21号",
+          "typecode": "050000",
+          "photo": "https://store.is.autonavi.com/showpic/e65b886a887fc4c272c877c143097b41"
+        },
+        {
+          "id": "B0L39MRVBP",
+          "name": "烤包子·阿博馕店",
+          "address": "伊犁路71-3号绿波里小区",
+          "typecode": "050000",
+          "photo": "https://store.is.autonavi.com/showpic/5ef1fca96370c7cefe1dced155403d07"
+        },
+        {
+          "id": "B0L03LELGJ",
+          "name": "巴扎屋大盘鸡·新疆菜(奎屯乌苏街店)",
+          "address": "别依斯小区乌苏街73幢2层",
+          "typecode": "050118",
+          "photo": "https://store.is.autonavi.com/showpic/951be330dc414dc50000002475194985?type=pic"
+        }
+      ]
+    }
+  },
+  "around:白哈巴餐厅": {
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "餐厅",
+      "location": "86.781171,48.683209",
+      "radius": "3000"
+    },
+    "at": "2026-09-28T17:50:25.070Z",
+    "result": {
+      "pois": [
+        {
+          "id": "B0LUH95KK3",
+          "name": "野有餐廳",
+          "address": "白哈巴村双湖路56号",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/7f9f4c820eeb25115febc71e4602d7ee"
+        },
+        {
+          "id": "B0LDADGQOF",
+          "name": "观山阁风味餐厅",
+          "address": "铁热克提乡白哈巴村双湖路64号",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/9b9cfe8754a6d4aa80ea6913ba3234c4"
+        },
+        {
+          "id": "B0L1CU690X",
+          "name": "海玉餐厅农家院",
+          "address": "铁热克提乡白哈巴村民主路43号",
+          "typecode": "080500",
+          "photo": "https://store.is.autonavi.com/showpic/8530d8588c92fca91f2df5ed83cded52"
+        },
+        {
+          "id": "B0KRROUSRM",
+          "name": "布韵餐厅",
+          "address": "阿克哈巴南村村民委员会北侧210米",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0KRROUSRM/comment/B2A16A0A_34C1_4695_BAFD_4032327B21BA_L0_001_1500_200_1770376549292_36363875.jpg"
+        },
+        {
+          "id": "B0K2LZOGJP",
+          "name": "阿里木土火锅餐厅",
+          "address": "铁热克提乡白哈巴村民主路32号",
+          "typecode": "050117",
+          "photo": "https://store.is.autonavi.com/showpic/621609da66d68fa6c4fabb46f999ff06"
+        },
+        {
+          "id": "B0J0ZXE8CJ",
+          "name": "雪山餐厅",
+          "address": "白哈巴边境警务站西北侧120米",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/d24356acb4b4237da4fd30fbff670f98"
+        },
+        {
+          "id": "B0LDR5CSZ9",
+          "name": "河景季餐厅",
+          "address": "白哈巴村邮局站旁边",
+          "typecode": "050118",
+          "photo": "https://aos-comment.amap.com/B0LDR5CSZ9/comment/content_media_external_images_media_1000202488_ss__1758028037758_52557095.jpg"
+        },
+        {
+          "id": "B0LULXXU6K",
+          "name": "牧金山新疆风味餐厅",
+          "address": "铁热克提乡白哈巴村民主路59号",
+          "typecode": "050121",
+          "photo": "https://store.is.autonavi.com/showpic/6f70e2cf4cd1bf250000003054862108?type=pic"
+        },
+        {
+          "id": "B0L14H1M74",
+          "name": "松风特色餐厅",
+          "address": "铁力克提乡白哈巴村民主路39号",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0L14H1M74/comment/content_media_external_file_1000007187_ss__1754499251595_55414198.jpg"
+        },
+        {
+          "id": "B0FFK073LH",
+          "name": "夜雨餐厅",
+          "address": "阿克哈巴南村20号",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0FFK073LH/comment/4bbc81a5b8a4800063cd026889c45eb3_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0LDVH6FNE",
+          "name": "疆忆品新疆菜",
+          "address": "铁热克提乡白哈巴村民主路58号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/b29e0b6d744233570000001114178875?type=pic"
+        },
+        {
+          "id": "B0K2ZO2BMX",
+          "name": "寻自由音乐餐吧",
+          "address": "铁热克提乡白哈巴村98-1",
+          "typecode": "050500",
+          "photo": "https://store.is.autonavi.com/showpic/ef7fd12d326234766368e4d1fccbca9b"
+        },
+        {
+          "id": "B0KU71K5EI",
+          "name": "白哈巴茹妍快餐厅",
+          "address": "白哈巴村民主路66号",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0KU71K5EI/comment/content_media_external_file_125762_ss__1751978638931_49491691.jpg"
+        },
+        {
+          "id": "B0LUSZ3YAG",
+          "name": "游侠餐厅(喀纳斯景区店)",
+          "address": "铁热克提乡阿克哈巴章阿村",
+          "typecode": "050000",
+          "photo": "https://store.is.autonavi.com/showpic/35358bef28c1d5a20000003045888890?type=pic"
+        },
+        {
+          "id": "B0LD7OZFB5",
+          "name": "白哈巴九月餐厅",
+          "address": "铁力克提乡阿克哈巴村主街91号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/28722fc0aa8d9deb0000002639962106"
+        },
+        {
+          "id": "B0MUP9F56K",
+          "name": "哈巴河爱格餐厅",
+          "address": "铁热克提乡阿克哈巴障阿村82号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/bbf3242211393f630000002807078203"
+        },
+        {
+          "id": "B0MUBZ4OQU",
+          "name": "松阡餐厅",
+          "address": "白哈巴景区白哈巴村白哈巴北村",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/0cf5d0f02999ce262483d7a680715231"
+        },
+        {
+          "id": "B0M69UCDL0",
+          "name": "白哈巴云居阁餐厅",
+          "address": "白哈巴云居阁民宿西南侧",
+          "typecode": "050100",
+          "photo": null
+        },
+        {
+          "id": "B0L0SAJBWV",
+          "name": "懂你餐厅",
+          "address": "铁热克提乡白哈巴村教育路104号",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/85caa487d0f4de3b0000003429838340?type=pic"
+        },
+        {
+          "id": "B0L2R5MZH1",
+          "name": "克亚特餐厅(白哈巴店)(暂停营业)",
+          "address": "铁热克提乡喀纳斯景区白哈巴村81号",
+          "typecode": "050500",
+          "photo": "https://aos-comment.amap.com/B0L2R5MZH1/comment/EB2850A1_54BE_4AB0_93D7_6D41324ABC09_L0_001_928_204_1767784374360_38085907.jpg"
+        }
+      ]
+    }
+  },
+  "around:白哈巴农家乐": {
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "农家乐",
+      "location": "86.781171,48.683209",
+      "radius": "3000"
+    },
+    "at": "2026-09-28T17:50:25.476Z",
+    "result": {
+      "pois": [
+        {
+          "id": "B0K015ZP1J",
+          "name": "乌龙山庄",
+          "address": "铁热克提乡白哈巴村南村45号",
+          "typecode": "080500",
+          "photo": "https://store.is.autonavi.com/showpic/4d410dbd36724f5f5f64a62f9d1cdf45"
+        },
+        {
+          "id": "B0FFHQPJS4",
+          "name": "桦林部落山庄(白哈巴景区店)",
+          "address": "铁热克提乡阿克哈巴南村42号",
+          "typecode": "100000",
+          "photo": "https://store.is.autonavi.com/showpic/afb849f2162ad0ee29339e42454eb7b0"
+        },
+        {
+          "id": "B0L0PL1XO0",
+          "name": "森林山庄",
+          "address": "白哈巴森林管护所旁",
+          "typecode": "100000",
+          "photo": null
+        },
+        {
+          "id": "B0L1CU690X",
+          "name": "海玉餐厅农家院",
+          "address": "铁热克提乡白哈巴村民主路43号",
+          "typecode": "080500",
+          "photo": "https://store.is.autonavi.com/showpic/8530d8588c92fca91f2df5ed83cded52"
+        },
+        {
+          "id": "B0J171IP91",
+          "name": "白哈巴布昀山庄",
+          "address": "铁热克提乡白哈巴村16号",
+          "typecode": "100000",
+          "photo": "https://store.is.autonavi.com/showpic/75096a9edfa8f6750dc73a06df69e41e"
+        },
+        {
+          "id": "B0FFIJY5NV",
+          "name": "转转之家民宿(白哈巴风景区店)",
+          "address": "白哈巴景区便民警务站西侧100米",
+          "typecode": "100200",
+          "photo": "https://store.is.autonavi.com/showpic/96ee7f69311421133ff480d8c440f6ef"
+        },
+        {
+          "id": "B0H29B6PD6",
+          "name": "哈巴河骑士山庄(白哈巴景区店)",
+          "address": "铁热克提乡白哈巴老村117号",
+          "typecode": "100000",
+          "photo": "https://store.is.autonavi.com/showpic/8dcef4f4df1fa54d87b00880e88462dc"
+        },
+        {
+          "id": "B0G0GUJ6AH",
+          "name": "哈巴河魏先生的农家院",
+          "address": "铁热克提乡白哈巴村25号",
+          "typecode": "100000|080500",
+          "photo": "https://aos-comment.amap.com/B0G0GUJ6AH/comment/eb418e948640b18e4900d5dcda63e2af_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0FFGGYEBR",
+          "name": "哈巴河游侠客山庄",
+          "address": "白哈巴旅游景区",
+          "typecode": "080500",
+          "photo": "http://store.is.autonavi.com/showpic/0e52ae45f466cb784a745afc5b1f8710"
+        },
+        {
+          "id": "B0FFLBQ7Y7",
+          "name": "哈巴河白湖山庄(暂停营业)",
+          "address": "白哈巴雪域山庄东北200米",
+          "typecode": "100000|080500",
+          "photo": "https://aos-comment.amap.com/B0FFLBQ7Y7/comment/content_media_external_file_36769_ss__1750821500757_21710063.jpg"
+        }
+      ]
+    }
+  },
+  "around:唐布拉民宿": {
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "民宿",
+      "location": "83.919793,43.718426",
+      "radius": "5000"
+    },
+    "at": "2026-09-28T17:50:25.861Z",
+    "result": {
+      "pois": [
+        {
+          "id": "B0JUYKKHX5",
+          "name": "尼勒克县唐布拉百里画廊名宿",
+          "address": "趣汇友(唐布拉百里画廊观景点)南侧100米",
+          "typecode": "100200",
+          "photo": "https://aos-comment.amap.com/B0JUYKKHX5/comment/fc32380254298977ee0c9cb81dfd8529_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0M6TR6K7S",
+          "name": "Jayna542的榻榻米民宿(乌拉斯台镇尼勒克百里画廊店)",
+          "address": "唐布拉百里画廊名宿东北侧",
+          "typecode": "100200",
+          "photo": null
+        },
+        {
+          "id": "B0MU36N3YO",
+          "name": "迪丽湖西农家院",
+          "address": "驴充充汽车充电站(尼勒克百里画廊四美营地充电站)西南侧440米",
+          "typecode": "080500|100000",
+          "photo": null
+        },
+        {
+          "id": "B0KRZL8GVF",
+          "name": "白里画廊那一夜民宿",
+          "address": "315省道",
+          "typecode": "100200",
+          "photo": "http://store.is.autonavi.com/showpic/562a53c57243a52c001a52f185fb7092"
+        },
+        {
+          "id": "B0JR1UW61J",
+          "name": "百里画廊云水间民宿",
+          "address": "克令乡鹿场315省道瑞霞商店北50米",
+          "typecode": "100000",
+          "photo": "https://store.is.autonavi.com/showpic/252ad898b20626b16f6dc13afe44014a"
+        },
+        {
+          "id": "B0LR4ZP7W6",
+          "name": "尼勒克画廊深处观景民宿(百里画廊景区店)",
+          "address": "315省道",
+          "typecode": "100000",
+          "photo": "https://store.is.autonavi.com/showpic/05634c6a678ff067b219afcd5d960e62"
+        },
+        {
+          "id": "B0LRH99WVG",
+          "name": "头等舱营地",
+          "address": "S315老兵客栈旁20米",
+          "typecode": "100000",
+          "photo": "https://store.is.autonavi.com/showpic/6fa6eca4018b1b8128da55c90bdd9808"
+        },
+        {
+          "id": "B0J2BZS4V8",
+          "name": "老兵客栈",
+          "address": "鹿场",
+          "typecode": "100200",
+          "photo": "https://aos-comment.amap.com/B0J2BZS4V8/comment/2319FA52_B7F3_4E5E_93CB_79439DE80189_L0_001_1500_200_1751154478549_25036166.jpg"
+        },
+        {
+          "id": "B0MU39PU7W",
+          "name": "草原人的榻榻米民宿(乌拉斯台镇唐布拉百里画廊山与营地店)",
+          "address": "唐布拉百里画廊山与营地南侧",
+          "typecode": "100000",
+          "photo": null
+        },
+        {
+          "id": "B0LU9699JY",
+          "name": "青青草原民宿",
+          "address": "",
+          "typecode": "100200",
+          "photo": null
+        },
+        {
+          "id": "B0LUB79MBT",
+          "name": "伊莲悠梦民宿",
+          "address": "百里画廊",
+          "typecode": "100000",
+          "photo": "http://store.is.autonavi.com/showpic/0326f870fd3f13c145ef448aa5a2cd8e"
+        }
+      ]
+    }
+  },
+  "around:柒朵周边餐饮": {
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "餐厅",
+      "location": "86.877406,47.702818",
+      "radius": "800"
+    },
+    "at": "2026-09-28T17:50:26.217Z",
+    "result": {
+      "pois": [
+        {
+          "id": "B0I16HXWS3",
+          "name": "卡迪尔餐厅",
+          "address": "阳光名苑小区4号楼一单元一层7号商铺",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0I16HXWS3/comment/41b5cd0fa73ae4b6eaf8a04abdef447c_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0FFLNFG2F",
+          "name": "鱼见幸福餐厅无刺鱼(汇鑫国际美食巴扎店)",
+          "address": "双湖路汇鑫国际",
+          "typecode": "050117",
+          "photo": "http://aos-cdn-image.amap.com/sns/ugccomment/66995628-634b-4ae5-bb19-3dfed83fabdd.jpg"
+        },
+        {
+          "id": "B0FFK9BL99",
+          "name": "红石榴餐厅(汇鑫国际美食巴扎)",
+          "address": "汇鑫国际步行街",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0FFK9BL99/comment/content_media_external_images_media_94708_ss__1765368079172_57362993.jpg"
+        },
+        {
+          "id": "B0FFMAZ117",
+          "name": "塔木岚餐厅(汇鑫国际商贸城店)",
+          "address": "美丽峰路汇鑫国际商贸城",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0FFMAZ117/comment/154a9467a18f23f08386571068c8aa23_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0FFKAV5BK",
+          "name": "香八里餐厅",
+          "address": "双湖路与五彩滩路交叉口南160米",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B0FFKAV5BK/comment/a5bf9a049cb60b3b33bf5f4380af9443_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0M6YYR1EW",
+          "name": "汇鑫国际大盘鹅餐厅",
+          "address": "双湖路与五彩滩路交叉口东南140米",
+          "typecode": "050100",
+          "photo": null
+        },
+        {
+          "id": "B0FFI1NDQ1",
+          "name": "洛克力亚餐厅(汇鑫国际商贸城店)",
+          "address": "双湖路汇鑫国际B座1-30",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/4eddd7e94eea453961504f3ce514c755"
+        },
+        {
+          "id": "B0MU9UZGFU",
+          "name": "小沙羊杂新疆菜冷水鱼餐厅",
+          "address": "汇鑫国际美食巴扎",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/36390af97703e7509a72081b2ab541fd"
+        },
+        {
+          "id": "B0FFMDYBCL",
+          "name": "真功夫餐馆(汇鑫国际商贸城店)",
+          "address": "汇鑫国际真功夫羊杂馆",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/72cba035c84896e8307d3574408760c9?operate=original"
+        },
+        {
+          "id": "B0KD9O7BQC",
+          "name": "津味轩风味餐厅(汇鑫国际商贸城店)",
+          "address": "汇鑫国际西北门北50米",
+          "typecode": "050100",
+          "photo": null
+        },
+        {
+          "id": "B0KUR1UH1N",
+          "name": "客莱雅风味餐厅",
+          "address": "神湖路与美丽峰路交叉口东60米",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/454213e5b525e659d88488859d031380"
+        },
+        {
+          "id": "B0K0R1GFGV",
+          "name": "吾克巴拉快餐厅",
+          "address": "神湖路7号",
+          "typecode": "050000",
+          "photo": "https://store.is.autonavi.com/showpic/a5229f699a6c0d643ab0320c68a92e58"
+        },
+        {
+          "id": "B0KABHZNN3",
+          "name": "爱包尔萨克IBaursak(布尔津店)",
+          "address": "神湖路旅游公司兴居地产公司综合楼2-6层(二层5号)",
+          "typecode": "060000",
+          "photo": "https://store.is.autonavi.com/showpic/b967db706718a6eb0000006630020547?type=pic"
+        },
+        {
+          "id": "B0KUKD52CA",
+          "name": "边雁大漠云上美食餐厅",
+          "address": "美丽峰路西铂金湾小区1号商业楼一层1号商铺",
+          "typecode": "050118",
+          "photo": "https://store.is.autonavi.com/showpic/82230151df3b1afb0000002881624414?type=pic"
+        },
+        {
+          "id": "B0LBXUDDS9",
+          "name": "鸿宇福瑞酒店餐厅",
+          "address": "美丽峰路与神湖路交叉口西南200米",
+          "typecode": "050100",
+          "photo": null
+        },
+        {
+          "id": "B0K0VCFJ6A",
+          "name": "布尔津卡尔万风味餐厅",
+          "address": "美丽峰路赵金清",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/aad2af6ef66b9f8e0000003754054238?type=pic"
+        },
+        {
+          "id": "B0LU5ULYAG",
+          "name": "蓝院子快餐厅",
+          "address": "五彩滩路25号",
+          "typecode": "050000",
+          "photo": "https://store.is.autonavi.com/showpic/f54f702cd3b177720000003160590059?type=pic"
+        },
+        {
+          "id": "B038A0LPRR",
+          "name": "斯外达餐厅",
+          "address": "喀纳斯路东五彩滩路南双汇小区47栋1号门面",
+          "typecode": "050100",
+          "photo": "https://aos-comment.amap.com/B038A0LPRR/comment/B7A6543A_DA43_4F56_8286_BC98AACCEBEA_L0_001_1284_154_1749613089019_26074352.jpg"
+        },
+        {
+          "id": "B0J16HX2ES",
+          "name": "七号音乐烧烤餐厅",
+          "address": "夜光城二号楼10号门面",
+          "typecode": "050000",
+          "photo": "https://aos-comment.amap.com/B0J16HX2ES/headerImg/d22a6b717fd49c54b74843ce2b381496_2048_2048_80.jpg"
+        },
+        {
+          "id": "B0ID7X78XW",
+          "name": "艾特莱斯餐厅·手抓肉·特色菜·本地冷水鱼",
+          "address": "美丽峰路与卧龙湾路交叉口东北30米",
+          "typecode": "050121",
+          "photo": "https://store.is.autonavi.com/showpic/00ab32b84b97cefea17c7b2b207657c1"
+        }
+      ]
+    }
+  },
+  "around:禧苑汀云周边早餐": {
+    "tool": "maps_around_search",
+    "args": {
+      "keywords": "早餐",
+      "location": "82.483017,43.794047",
+      "radius": "2000"
+    },
+    "at": "2026-09-28T17:50:26.621Z",
+    "result": {
+      "pois": [
+        {
+          "id": "B0MD5DWBEV",
+          "name": "营养早餐",
+          "address": "乌赞镇兰干买里村1街道24街坊迎宾路文庭雅苑商业3栋1层103,104室",
+          "typecode": "050100",
+          "photo": null
+        },
+        {
+          "id": "B0JG17AGIV",
+          "name": "热孜万早餐店",
+          "address": "迎宾路与和平路七巷交叉口北80米",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/45aa0f4d9ec0d2284b63937727034554"
+        },
+        {
+          "id": "B0FFF4UW5R",
+          "name": "昌吉二六工丸子汤(团结路店)",
+          "address": "幸福路二六工丸子汤",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/f0759090ad2882fe0000006887108890?type=pic"
+        },
+        {
+          "id": "B0HRO7KWA9",
+          "name": "疆味早餐店",
+          "address": "团结路中断李玉海综合楼负一楼",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/d2703decb166b08b29ca6de9a57fb0c6"
+        },
+        {
+          "id": "B0FFHRC3YK",
+          "name": "汉新杭州小笼包",
+          "address": "尼勒克镇团结路70号",
+          "typecode": "050300",
+          "photo": "https://store.is.autonavi.com/showpic/11ccd461a8934eaa0000003093108343?type=pic"
+        },
+        {
+          "id": "B0LKAH90V0",
+          "name": "阿乐早餐店",
+          "address": "唐布拉路与团结路交叉口南220米",
+          "typecode": "050100",
+          "photo": null
+        },
+        {
+          "id": "B0J2JA6XHW",
+          "name": "幸福人家早餐店",
+          "address": "和平路与唐布拉路交叉口西100米",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/b75a7fc90cb5ebf2f0309724b104d7f3"
+        },
+        {
+          "id": "B0HRO7LCR8",
+          "name": "好心情早餐店",
+          "address": "和平路1-10号",
+          "typecode": "050100",
+          "photo": "http://store.is.autonavi.com/showpic/e70c04ebc3ca57ee3997fb316841d67e"
+        },
+        {
+          "id": "B0HROCKTMW",
+          "name": "清之源早餐(暂停营业)",
+          "address": "团结路西段李玉海综合楼一层酱脾气米粉楼下",
+          "typecode": "050100",
+          "photo": "https://store.is.autonavi.com/showpic/d0677d8b63308063d78bd2126abee9c0"
+        }
+      ]
+    }
+  },
+  "geo:唐布拉百里画廊": {
+    "tool": "maps_geo",
+    "args": {
+      "address": "唐布拉百里画廊",
+      "city": "尼勒克县"
+    },
+    "at": "2026-09-28T17:50:26.975Z",
+    "result": {
+      "results": [
+        {
+          "country": "中国",
+          "province": "西藏自治区",
+          "city": "那曲市",
+          "citycode": null,
+          "district": "色尼区",
+          "street": [],
+          "number": [],
+          "adcode": "540602",
+          "location": "91.644052,30.814529",
+          "level": "村庄"
+        },
+        {
+          "country": "中国",
+          "province": "新疆维吾尔自治区",
+          "city": "伊犁哈萨克自治州",
+          "citycode": "0999",
+          "district": "尼勒克县",
+          "street": [],
+          "number": [],
+          "adcode": "654028",
+          "location": "83.919793,43.718426",
+          "level": "兴趣点"
+        },
+        {
+          "country": "中国",
+          "province": "贵州省",
+          "city": "黔西南布依族苗族自治州",
+          "citycode": "0859",
+          "district": "兴义市",
+          "street": [],
+          "number": [],
+          "adcode": "522301",
+          "location": "104.955066,25.136064",
+          "level": "兴趣点"
+        }
+      ]
+    }
+  },
+  "geo:尼勒克蜜蜂小镇": {
+    "tool": "maps_geo",
+    "args": {
+      "address": "尼勒克县蜜蜂小镇",
+      "city": "尼勒克县"
+    },
+    "at": "2026-09-28T17:50:27.287Z",
+    "result": {
+      "results": [
+        {
+          "country": "中国",
+          "province": "新疆维吾尔自治区",
+          "city": "伊犁哈萨克自治州",
+          "citycode": "0999",
+          "district": "尼勒克县",
+          "street": [],
+          "number": [],
+          "adcode": "654028",
+          "location": "83.426423,43.742291",
+          "level": "乡镇"
+        }
+      ]
+    }
+  }
+}

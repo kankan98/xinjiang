@@ -1,0 +1,61 @@
+$ playwright test
+[WebServer] (node:8772) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+[WebServer] (node:42204) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[WebServer] (Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 42 tests using 2 workers
+
+(node:38124) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:15576) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ok  2 [chromium] › tests\e2e\design-experience.spec.js:39:1 › section navigation tracks clicks and manual scrolling without changing the route (942ms)
+  ok  1 [chromium] › tests\e2e\design-experience.spec.js:12:1 › day controls respect boundaries and restore a visible tab without scrolling the page (999ms)
+  ok  4 [chromium] › tests\e2e\design-experience.spec.js:90:1 › mobile daily shortcut opens the guide for the chapter being read (696ms)
+  ok  3 [chromium] › tests\e2e\design-experience.spec.js:64:1 › reading size persists and chapter rails leave the reader at the top (825ms)
+  ok  5 [chromium] › tests\e2e\design-experience.spec.js:100:1 › search suggestions work by keyboard and text navigation keeps native editing behavior (795ms)
+  ok  6 [chromium] › tests\e2e\design-experience.spec.js:126:1 › system dark mode covers search and printing while an explicit theme choice takes precedence (1.4s)
+  ok  8 [chromium] › tests\e2e\roadbook.spec.js:81:1 › chapter focus links support keyboard navigation and keep risk and fallback content readable (834ms)
+  ok  7 [chromium] › tests\e2e\roadbook.spec.js:57:1 › all 22 chapters load with intact images, headings and mobile widths (2.2s)
+  ok 10 [chromium] › tests\e2e\roadbook.spec.js:147:1 › theme changes real colors and persists across reloads (948ms)
+  ok  9 [chromium] › tests\e2e\roadbook.spec.js:120:1 › ten daily tabs support keyboard navigation, persistence and chapter schedules (1.9s)
+  ok 11 [chromium] › tests\e2e\roadbook.spec.js:162:1 › seven preparation checks persist and open the correct explanation (1.0s)
+  ok 12 [chromium] › tests\e2e\roadbook.spec.js:179:1 › budget calculates partial costs, handles blanks, saves and resets (916ms)
+  ok 13 [chromium] › tests\e2e\roadbook.spec.js:203:1 › invalid saved budget and reminder values recover gracefully (600ms)
+  ok 15 [chromium] › tests\e2e\roadbook.spec.js:229:1 › maps separate taxis, estimated driving and return trips and preserve navigation endpoints (887ms)
+  ok 14 [chromium] › tests\e2e\roadbook.spec.js:216:1 › food cards land on real sections and brand returns to the top (2.1s)
+  ok 16 [chromium] › tests\e2e\roadbook.spec.js:254:1 › all ten chapter briefs keep complete travel and hotel text clear of ratings (6.7s)
+  ok 17 [chromium] › tests\e2e\roadbook.spec.js:288:1 › all ten daily maps fit when collapsed, expanded and resized on narrow screens (6.1s)
+  ok 18 [chromium] › tests\e2e\roadbook.spec.js:308:1 › search, chapter checklists, timing qualifiers and mobile drawers work (1.2s)
+  ok 19 [chromium] › tests\e2e\roadbook.spec.js:343:1 › overview map fits, opens, zooms, closes and restores focus (1.1s)
+  ok 21 [chromium] › tests\e2e\roadbook.spec.js:408:1 › printing expands a collapsed route map on a white page (621ms)
+(node:8472) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ok 20 [chromium] › tests\e2e\roadbook.spec.js:389:1 › header and homepage fit every responsive breakpoint (1.2s)
+(node:46788) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ok 22 [mobile-chromium] › tests\e2e\design-experience.spec.js:12:1 › day controls respect boundaries and restore a visible tab without scrolling the page (952ms)
+  ok 23 [mobile-chromium] › tests\e2e\design-experience.spec.js:39:1 › section navigation tracks clicks and manual scrolling without changing the route (930ms)
+  ok 24 [mobile-chromium] › tests\e2e\design-experience.spec.js:64:1 › reading size persists and chapter rails leave the reader at the top (814ms)
+  ok 25 [mobile-chromium] › tests\e2e\design-experience.spec.js:90:1 › mobile daily shortcut opens the guide for the chapter being read (711ms)
+  ok 26 [mobile-chromium] › tests\e2e\design-experience.spec.js:100:1 › search suggestions work by keyboard and text navigation keeps native editing behavior (795ms)
+  ok 27 [mobile-chromium] › tests\e2e\design-experience.spec.js:126:1 › system dark mode covers search and printing while an explicit theme choice takes precedence (1.5s)
+  ok 29 [mobile-chromium] › tests\e2e\roadbook.spec.js:81:1 › chapter focus links support keyboard navigation and keep risk and fallback content readable (847ms)
+  ok 28 [mobile-chromium] › tests\e2e\roadbook.spec.js:57:1 › all 22 chapters load with intact images, headings and mobile widths (2.0s)
+  ok 31 [mobile-chromium] › tests\e2e\roadbook.spec.js:147:1 › theme changes real colors and persists across reloads (958ms)
+  ok 30 [mobile-chromium] › tests\e2e\roadbook.spec.js:120:1 › ten daily tabs support keyboard navigation, persistence and chapter schedules (1.9s)
+  ok 32 [mobile-chromium] › tests\e2e\roadbook.spec.js:162:1 › seven preparation checks persist and open the correct explanation (978ms)
+  ok 34 [mobile-chromium] › tests\e2e\roadbook.spec.js:203:1 › invalid saved budget and reminder values recover gracefully (596ms)
+  ok 33 [mobile-chromium] › tests\e2e\roadbook.spec.js:179:1 › budget calculates partial costs, handles blanks, saves and resets (926ms)
+  ok 36 [mobile-chromium] › tests\e2e\roadbook.spec.js:229:1 › maps separate taxis, estimated driving and return trips and preserve navigation endpoints (941ms)
+  ok 35 [mobile-chromium] › tests\e2e\roadbook.spec.js:216:1 › food cards land on real sections and brand returns to the top (2.0s)
+  ok 37 [mobile-chromium] › tests\e2e\roadbook.spec.js:254:1 › all ten chapter briefs keep complete travel and hotel text clear of ratings (6.2s)
+  ok 38 [mobile-chromium] › tests\e2e\roadbook.spec.js:288:1 › all ten daily maps fit when collapsed, expanded and resized on narrow screens (6.1s)
+  ok 39 [mobile-chromium] › tests\e2e\roadbook.spec.js:308:1 › search, chapter checklists, timing qualifiers and mobile drawers work (1.3s)
+  -  41 [mobile-chromium] › tests\e2e\roadbook.spec.js:389:1 › header and homepage fit every responsive breakpoint
+  ok 40 [mobile-chromium] › tests\e2e\roadbook.spec.js:343:1 › overview map fits, opens, zooms, closes and restores focus (1.2s)
+  ok 42 [mobile-chromium] › tests\e2e\roadbook.spec.js:408:1 › printing expands a collapsed route map on a white page (598ms)
+
+  1 skipped
+  41 passed (35.5s)

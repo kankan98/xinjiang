@@ -1,0 +1,190 @@
+/* 阅读重点：章首速读 → 正文标记 → 风险与备线。颜色始终伴随文字标签。 */
+[data-reading-tone="key"] { --reading-accent: var(--reading-key); --reading-wash: var(--reading-key-wash); --reading-line: var(--reading-key-line); }
+[data-reading-tone="risk"] { --reading-accent: var(--reading-risk); --reading-wash: var(--reading-risk-wash); --reading-line: var(--reading-risk-line); }
+[data-reading-tone="info"] { --reading-accent: var(--reading-info); --reading-wash: var(--reading-info-wash); --reading-line: var(--reading-info-line); }
+
+/* 让章首重点用满正文宽度；手机先读重点，再看配图。 */
+.reader-main { max-width: none; }
+.reader-focus { min-width: 0; padding-top: 16px; border-top: 1px solid var(--color-line); }
+.reader-focus__head { display: flex; align-items: center; justify-content: space-between; gap: 8px 16px; flex-wrap: wrap; margin-bottom: 14px; }
+.reader-focus__head h2 { display: flex; align-items: center; gap: 9px; margin: 0; color: var(--color-ink); font-size: 15px; font-weight: 650; line-height: 1.5; letter-spacing: .02em; }
+.reader-focus__head h2 svg { width: 19px; height: 19px; color: var(--color-route); }
+.reader-focus__head > span { color: var(--color-muted); font-size: 11px; }
+.reader-focus__grid { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; }
+.reader-focus__item {
+  position: relative; min-width: 0; padding: 13px 16px 15px;
+  display: flex; flex-direction: column; gap: 5px;
+  border: 1px solid var(--color-line); border-top: 2px solid var(--reading-accent); border-radius: 8px;
+  color: var(--color-ink); background: var(--color-surface); text-decoration: none;
+  transition: border-color var(--motion-fast) var(--ease), background var(--motion-fast) var(--ease);
+}
+.reader-focus__item:hover { border-color: var(--reading-accent); background: var(--reading-wash); }
+.reader-focus__item:focus-visible { outline: 3px solid var(--reading-accent); outline-offset: 3px; }
+.reader-focus__label { display: flex; align-items: center; gap: 6px; padding-right: 20px; color: var(--reading-accent); font-size: 11px; font-weight: 650; line-height: 1.5; }
+.reader-focus__label svg { flex: none; width: 15px; height: 15px; }
+.reader-focus__title { display: block; color: var(--color-ink); font-size: 19px; font-weight: 650; line-height: 1.5; letter-spacing: -.015em; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.reader-header .reader-focus__detail { margin: 0; color: var(--color-ink-soft); font-size: 13px; line-height: 1.8; }
+.reader-focus__arrow { position: absolute; top: 16px; right: 14px; width: 15px; height: 15px; color: var(--reading-accent); }
+.reader-focus__legend { display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 6px 16px; margin: 11px 0 0; padding: 0; list-style: none; }
+.reader-focus__legend li { display: flex; align-items: center; gap: 5px; color: var(--color-muted); font-size: 10.5px; line-height: 1.6; }
+.reader-focus__legend li > span { width: 6px; height: 6px; border-radius: 2px; background: var(--reading-accent); }
+
+/* 正文以字重建立层级；颜色留给真正的时间和条件，不给全部加粗文字涂色。 */
+.markdown-body { font-size: var(--reader-font-size); line-height: 1.95; }
+.markdown-body :is(p, li, td) > strong {
+  color: var(--color-ink);
+  font-weight: 700;
+}
+.markdown-body h2 { margin: 48px 0 20px; padding: 20px 0 0; border-top: 1px solid var(--color-line); font-family: var(--font-editorial); font-size: 26px; font-weight: 600; letter-spacing: 0; text-wrap: pretty; }
+.markdown-body h2::before { content: counter(rb-sec, decimal-leading-zero); position: static; display: block; width: auto; height: auto; margin-bottom: 8px; transform: none; background: none; color: var(--color-route); box-shadow: none; font: 500 12px/1.4 var(--font-utility); letter-spacing: .08em; }
+.markdown-body h2::after { content: none; }
+.markdown-body h2[data-reading-tone] { color: var(--color-ink); border-top-color: var(--reading-line); }
+.markdown-body h2[data-reading-tone]::before { color: var(--reading-accent); }
+.markdown-body :is(h2, h3)[data-reading-tone]::after {
+  content: attr(data-reading-label); display: inline-block; margin-left: 12px; padding: 3px 7px;
+  border: 1px solid var(--reading-line); border-radius: 4px; color: var(--reading-accent); background: var(--reading-wash);
+  font: 500 10px/1.6 var(--font-body); letter-spacing: .02em; vertical-align: middle; white-space: nowrap;
+}
+.markdown-body h3[data-reading-tone] { color: var(--reading-accent); }
+
+/* 条件在前、动作在后：风险列表与备选列表便于扫读。 */
+.markdown-body .reading-points { padding: 0; list-style: none; counter-reset: reading-item; }
+.markdown-body .reading-points > li {
+  position: relative; margin: 0; padding: 15px 18px 15px 46px; counter-increment: reading-item;
+  border-bottom: 1px solid var(--reading-line); font-size: var(--reader-detail-size); line-height: 1.9;
+}
+.markdown-body .reading-points[data-reading-tone="risk"] > li { margin: 9px 0; border: 1px solid var(--reading-line); border-left: 3px solid var(--reading-accent); border-radius: 7px; background: var(--reading-wash); }
+.markdown-body .reading-points[data-reading-tone="info"] > li { background: color-mix(in srgb, var(--reading-wash) 45%, transparent); }
+.markdown-body .reading-points > li::before { content: counter(reading-item, decimal-leading-zero); position: absolute; left: 15px; top: 19px; color: var(--reading-accent); font: 500 11px/1.7 var(--font-utility); }
+.markdown-body .reading-points > li > strong:first-child { display: block; margin: 0 0 5px; padding: 0; color: var(--reading-accent); background: transparent; font-size: 15px; }
+.markdown-body .reading-decision-table { border-color: var(--reading-risk-line); }
+.markdown-body .reading-decision-table table { width: 100%; min-width: 0; table-layout: fixed; }
+.markdown-body .reading-decision-table tr > * { position: static; width: auto; min-width: 0; max-width: none; }
+.markdown-body .reading-decision-table tr > :first-child { width: 34%; min-width: 0; max-width: none; box-shadow: none; }
+.markdown-body .reading-decision-table tbody th[scope="row"] { color: var(--reading-risk); background: var(--reading-risk-wash); font-weight: 700; }
+.markdown-body .reading-decision-table tbody td { color: var(--color-ink-soft); background: var(--color-surface); }
+
+/* 统一原文两种 warning 拼写，避免重要公告落成普通说明。 */
+.markdown-body :is(.alert-banner, .callout) { font-size: var(--reader-detail-size); line-height: 1.9; }
+.markdown-body :is(.alert-banner, .callout) > :is(strong, b) { font-size: 16px; line-height: 1.65; }
+.markdown-body :is(.alert-banner.is-warning, .alert-banner.is-danger, .callout.is-warn, .callout.is-warning) {
+  --reading-accent: var(--reading-risk); --reading-wash: var(--reading-risk-wash);
+  border-color: var(--reading-risk-line); border-left: 4px solid var(--reading-risk);
+  background: var(--reading-risk-wash); color: var(--color-ink-soft);
+}
+.markdown-body :is(.alert-banner.is-warning, .alert-banner.is-danger, .callout.is-warn, .callout.is-warning) > :is(strong, b) { color: var(--reading-risk); }
+.markdown-body :is(.alert-banner.is-warning, .alert-banner.is-danger)::before { content: "!  重要提醒"; color: var(--reading-risk); font: 700 11px/1.6 var(--font-body); letter-spacing: .06em; }
+.markdown-body :is(.callout.is-warning, .callout.is-warn)::before { content: "!  重要提醒"; display: block; margin-bottom: 5px; color: var(--reading-risk); font: 700 11px/1.6 var(--font-body); }
+.markdown-body .callout.is-note { --reading-accent: var(--reading-info); --reading-wash: var(--reading-info-wash); border-color: var(--reading-info-line); border-left-width: 3px; border-left-color: var(--reading-info); background: var(--reading-info-wash); color: var(--color-ink-soft); }
+.markdown-body .callout.is-note > :is(strong, b) { color: var(--reading-info); }
+
+/* 原“最重要提醒”升到体验卡首行，叙述与星级放在其后。 */
+.markdown-body .experience-card { grid-template-columns: minmax(0, 1fr); gap: 22px; padding: 22px; }
+.markdown-body .experience-side { display: contents; }
+.markdown-body .experience-reminder { grid-column: 1 / -1; grid-row: 1; max-width: none; margin: 0; padding: 16px 19px; border: 1px solid var(--reading-key-line); border-left: 4px solid var(--reading-key); border-radius: 6px; color: var(--color-ink-soft); background: var(--reading-key-wash); font-size: var(--reader-detail-size); line-height: 1.9; }
+.markdown-body .experience-reminder small { color: var(--reading-key); font: 700 12px/1.6 var(--font-body); letter-spacing: .02em; }
+.markdown-body .experience-story { grid-row: 2; }
+.markdown-body .experience-score-grid { grid-row: 3; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; }
+.markdown-body .experience-label { margin-top: 15px; color: var(--color-ink); font: 700 13px/1.7 var(--font-body); letter-spacing: .02em; }
+.markdown-body .experience-copy { font-size: var(--reader-detail-size); line-height: 1.95; }
+.markdown-body .experience-keywords { gap: 7px; }
+.markdown-body .experience-keywords span { border-color: var(--reading-key-line); border-radius: 5px; background: var(--reading-key-wash); color: var(--reading-key); font-size: 12px; font-weight: 650; }
+
+/* 普通节点轻量呈现；关键节点用琥珀色和可读标签突出，不将所有时间当风险。 */
+.markdown-body .day-timeline { gap: 12px; }
+.markdown-body .day-timeline::before { left: 90px; }
+.markdown-body .day-timeline__item { min-height: 0; grid-template-columns: 74px minmax(0, 1fr); gap: 32px; }
+.day-timeline__item::after { left: 90px; width: 8px; height: 8px; top: 18px; background: var(--color-line); box-shadow: none; }
+.day-timeline__time b { color: var(--color-muted); font-size: 25px; }
+.day-timeline__time .day-timeline__qualifier { color: var(--color-ink-soft); font-size: 12px; font-weight: 650; }
+.day-timeline__card { padding: 12px 16px; border-color: var(--color-line-soft); background: color-mix(in srgb, var(--color-surface) 60%, transparent); gap: 6px; }
+.day-timeline__item.is-key::after { top: 17px; width: 12px; height: 12px; background: var(--reading-key); box-shadow: 0 0 0 4px var(--reading-key-wash); }
+.day-timeline__item.is-key .day-timeline__time b { color: var(--reading-key); font-size: 30px; }
+.day-timeline__item.is-key .day-timeline__card { border: 1px solid var(--reading-key-line); border-left: 3px solid var(--reading-key); background: var(--reading-key-wash); }
+.day-timeline__badge { justify-self: start; color: var(--reading-key); font-size: 10px; font-weight: 700; letter-spacing: .06em; }
+.day-timeline__item.is-key .day-timeline__title { color: var(--color-ink); font-size: 16px; }
+.markdown-body .day-timeline__title > strong { padding: 0; color: inherit; background: none; }
+.markdown-body .day-timeline__note { color: var(--color-ink-soft); font-size: var(--reader-note-size); line-height: 1.85; }
+.markdown-body .day-timeline__note > strong { color: var(--reading-risk); background: none; }
+
+/* 目录同步显示重点标签，长文中也能直接找到风险和备选。 */
+.toc__link[data-reading-tone] .toc__index { color: var(--reading-accent); font-weight: 700; }
+.toc__link[data-reading-tone] .toc__dot { background: var(--reading-accent); }
+.toc__priority { flex: none; margin-left: auto; padding: 1px 5px; border: 1px solid var(--reading-line); border-radius: 3px; color: var(--reading-accent); background: var(--reading-wash); font-size: 9px; font-weight: 500; white-space: nowrap; }
+.toc__link[data-reading-tone].is-active { background: var(--reading-wash); }
+.toc__link[data-reading-tone].is-active .toc__active { background: var(--reading-accent); box-shadow: none; }
+
+@media (min-width: 40rem) {
+  .reader-focus__grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (min-width: 48rem) {
+  .reader-header-grid { grid-template-columns: minmax(0, 1fr) minmax(220px, .58fr); gap: 24px 32px; }
+  .reader-header-copy { grid-column: 1; grid-row: 1; }
+  .reader-header h1 { font-size: clamp(29px, 2.6vw, 36px); letter-spacing: -.025em; }
+  .reader-hero { grid-column: 2; grid-row: 1; }
+  .reader-media img, .reader-hero-empty { height: 200px; min-height: 0; }
+  .reader-focus { grid-column: 1 / -1; grid-row: 2; }
+  .markdown-body .experience-card { grid-template-columns: minmax(0, 1fr) 164px; }
+  .markdown-body .experience-score-grid { grid-column: 2; grid-row: 2; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 72rem) {
+  .reader-layout { grid-template-columns: minmax(0, 1fr) 248px; gap: 44px; }
+}
+@media screen and (max-width: 47.999rem) {
+  .reader-focus { padding-top: 16px; }
+  .reader-header-grid { gap: 22px; }
+  .reader-hero { margin-top: 4px; }
+}
+@media screen and (max-width: 39.999rem) {
+  .reader-toolbar .reader-status, .reader-toolbar .reader-position { display: none; }
+  .reader-toolbar-start { flex: 1; }
+  .reader-toolbar-end { margin-left: 0; }
+  .reader-focus__head { margin-bottom: 10px; gap: 4px 12px; }
+  .reader-focus__head h2 { font-size: 16px; }
+  .reader-focus__head > span { font-size: 10px; }
+  .reader-focus__item { padding: 12px 15px; gap: 5px; }
+  .reader-focus__title { font-size: 18px; }
+  .reader-header .reader-focus__detail { font-size: 13px; line-height: 1.8; }
+  .reader-focus__legend { justify-content: flex-start; gap: 5px 12px; }
+  .reader-focus__legend li { font-size: 10px; }
+  .markdown-body { font-size: var(--reader-font-size); }
+  .markdown-body h2 { margin-top: 36px; margin-bottom: 16px; font-size: 23px; }
+  .markdown-body h3 { font-size: 18px; }
+  .markdown-body :is(h2, h3)[data-reading-tone]::after { margin-left: 8px; padding: 2px 5px; font-size: 9px; }
+  .markdown-body .experience-card { padding: 15px; gap: 15px; }
+  .markdown-body .experience-reminder { padding: 12px 14px; font-size: var(--reader-detail-size); }
+  .markdown-body .experience-score-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .markdown-body :is(.alert-banner, .callout) { padding: 14px 16px; font-size: var(--reader-detail-size); }
+  .markdown-body :is(.alert-banner, .callout) > :is(strong, b) { font-size: 15px; }
+  .markdown-body .reading-points > li { padding: 13px 13px 13px 38px; font-size: var(--reader-detail-size); }
+  .markdown-body .reading-points > li::before { left: 11px; top: 17px; font-size: 10px; }
+  .markdown-body .reading-points > li > strong:first-child { font-size: 14px; }
+  .markdown-body .day-timeline__item.is-key .day-timeline__time b { font-size: 25px; }
+  .markdown-body .day-timeline::before { left: 74px; }
+  .markdown-body .day-timeline__item { grid-template-columns: 60px minmax(0, 1fr); gap: 28px; }
+  .day-timeline__item::after { left: 74px; }
+  .markdown-body .day-timeline__item.is-key .day-timeline__title { font-size: 14px; }
+  .markdown-body .day-timeline__note { font-size: var(--reader-note-size); }
+  .markdown-body .reading-decision-table { overflow: visible; border: 0; background: transparent; }
+  .markdown-body .reading-decision-table::before { display: none; }
+  .markdown-body .reading-decision-table :is(table, tbody) { display: block; width: 100%; }
+  .markdown-body .reading-decision-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  .markdown-body .reading-decision-table tr { display: grid; grid-template-columns: minmax(0, 1fr); margin-bottom: 12px; border: 1px solid var(--reading-risk-line); border-left: 3px solid var(--reading-risk); border-radius: 7px; overflow: hidden; }
+  .markdown-body .reading-decision-table tr > * { position: static; display: block; width: auto; min-width: 0; max-width: none; padding: 13px 15px; border: 0; }
+  .markdown-body .reading-decision-table tr > :first-child { width: auto; min-width: 0; max-width: none; }
+  .markdown-body .reading-decision-table tbody td { border-top: 1px solid var(--reading-risk-line); }
+  .markdown-body .reading-decision-table td::before { content: attr(data-th); display: block; margin-bottom: 5px; color: var(--reading-risk); font-size: 10px; font-weight: 650; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reader-focus__item:hover { transform: none; }
+}
+@media (forced-colors: active) {
+  .reader-focus__item, .toc__priority, .day-timeline__badge { border: 1px solid ButtonText; }
+  .markdown-body :is(p, li, td) > strong { text-decoration: underline; text-decoration-thickness: 2px; }
+}
+
+@media screen {
+  .reader[data-reader-size="large"] .markdown-body table { font-size: 16px; }
+  .reader[data-reader-size="large"] .markdown-body h3 { font-size: 21px; }
+  .reader[data-reader-size="large"] .day-timeline__title { font-size: 17px; }
+}

@@ -1,0 +1,261 @@
+{
+  "queriedAt": "2026-09-30",
+  "source": "高德 MCP",
+  "limitations": "API无出发时刻/强制途经点参数；以POI分段相加。驾车响应无道路折线坐标，地图连接仅示意。时长为查询快照，不代表10月9/10日通行。",
+  "pois": {
+    "hotel": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0MB4UZ248\",\"name\":\"汉庭酒店(新源天鹅湖店)\",\"location\":\"83.237363,43.443268\",\"address\":\"新源镇江额尔森西街005号1号楼\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"住宿服务;宾馆酒店;经济型连锁酒店\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/803254a004af42f7e3f2ffd46c31437e\",\"cost\":\"\",\"star\":\"\",\"opentime2\":\"\",\"rating\":\"4.8\",\"lowest_price\":\"\",\"hotel_ordering\":\"1\",\"open_time\":\"\"}"
+        }
+      ],
+      "isError": false
+    },
+    "kurd": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0HUMSUA7K\",\"name\":\"库尔德宁景区游客中心\",\"location\":\"82.692833,43.274436\",\"address\":\"库尔德宁自然保护区(西北角)\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"生活服务;信息咨询中心;服务中心\",\"alias\":\"\",\"photo\":\"https://aos-comment.amap.com/B0HUMSUA7K/comment/content_media_external_file_178812_ss__1768910121810_77146754.jpg\",\"cost\":\"\",\"opentime2\":\"周一至周日 09:00-20:00\",\"rating\":\"\",\"open_time\":\"09:00-20:00\"}"
+        }
+      ],
+      "isError": false
+    },
+    "tang": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0FFLANKAJ\",\"name\":\"百里画廊\",\"location\":\"83.919793,43.718426\",\"address\":\"克令乡\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"风景名胜;风景名胜;风景名胜\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/4d77f39bc8685a4a0000002827248975?type=pic\",\"cost\":\"\",\"opentime2\":\"周一至周日 00:00-24:00\",\"level\":\"\",\"rating\":\"4.8\",\"open_time\":\"24小时营业\",\"ticket_ordering\":\"0\"}"
+        }
+      ],
+      "isError": false
+    },
+    "qiao": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"BZEKIS0001\",\"name\":\"乔尔玛服务区\",\"location\":\"84.382897,43.653744\",\"address\":\"尼勒克县\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"道路附属设施;服务区;公路驿站\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/0004b2a7d65b60ad0000002879878301?type=pic\",\"cost\":\"\",\"opentime2\":\"周一至周日 00:00-24:00\",\"rating\":\"\",\"open_time\":\"24小时营业\"}"
+        }
+      ],
+      "isError": false
+    },
+    "nalati": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B03E70M6LB\",\"name\":\"那拉提镇人民政府\",\"location\":\"84.003822,43.328259\",\"address\":\"二一八国道旁\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"政府机构及社会团体;政府机关;乡镇级政府及事业单位\",\"alias\":\"\",\"photo\":null,\"cost\":\"\",\"opentime2\":\"周一至周五 10:00-14:00，16:00-19:30\",\"rating\":\"\",\"open_time\":\"\"}"
+        }
+      ],
+      "isError": false
+    },
+    "subutai": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"BZENI9000E\",\"name\":\"苏布台北收费站(G577精伊高速入口)\",\"location\":\"82.059819,43.907797\",\"address\":\"尼勒克县\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"道路附属设施;收费站;收费站\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/f336ee262de310070000003064350156\",\"cost\":\"\",\"opentime2\":\"\",\"rating\":\"\",\"open_time\":\"\"}"
+        }
+      ],
+      "isError": false
+    },
+    "qimeng": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0J259KOWT\",\"name\":\"齐梦德观景台\",\"location\":\"82.816448,43.110236\",\"address\":\"\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"风景名胜;风景名胜;风景名胜\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/d2754c7895ab45be0000002363080833?type=pic\",\"cost\":\"\",\"opentime2\":\"周一至周日 08:00-22:00\",\"level\":\"\",\"rating\":\"4.7\",\"open_time\":\"08:00-22:00\",\"ticket_ordering\":\"0\"}"
+        }
+      ],
+      "isError": false
+    },
+    "ayou": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0JR67RR20\",\"name\":\"阿尤赛观景台\",\"location\":\"82.843360,43.133396\",\"address\":\"库尔德宁镇库尔德宁风景区\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"风景名胜;风景名胜;风景名胜\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/248ac3dad67383c28fabb03e27f850c5\",\"cost\":\"\",\"opentime2\":\"周一至周日 09:00-20:30\",\"level\":\"\",\"rating\":\"4.4\",\"open_time\":\"09:00-20:30\",\"ticket_ordering\":\"0\"}"
+        }
+      ],
+      "isError": false
+    },
+    "camp": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0JRRAQ3AD\",\"name\":\"喀峰大本营\",\"location\":\"82.836240,43.139357\",\"address\":\"巩留库尔德宁云杉梦谷营地东北侧110米\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"体育休闲服务;休闲场所;休闲场所\",\"alias\":\"\",\"photo\":\"https://store.is.autonavi.com/showpic/392d1760710e6d48d242ca05b041248d\",\"cost\":\"31.00\",\"opentime2\":\"周一至周日 00:00-24:00\",\"rating\":\"4.7\",\"open_time\":\"24小时营业\"}"
+        }
+      ],
+      "isError": false
+    },
+    "lunch_ma": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0FFHP2JN0\",\"name\":\"马家拌面大盘鸡椒麻鸡餐厅\",\"location\":\"82.682835,43.277106\",\"address\":\"新疆维吾尔自治区伊犁哈萨克自治州巩留县库尔德宁镇停车场旁边\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"餐饮服务;餐饮相关场所;餐饮相关\",\"alias\":\"\",\"photo\":\"https://aos-comment.amap.com/B0FFHP2JN0/comment/412f8349961e54b8b91134521b1d7112_2048_2048_80.jpg\",\"cost\":\"19.00\",\"opentime2\":\"周一至周日 09:00-24:00\",\"rating\":\"4.4\",\"open_time\":\"09:00-24:00\",\"meal_ordering\":\"0\"}"
+        }
+      ],
+      "isError": false
+    },
+    "lunch_ai": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0LAO5P2SC\",\"name\":\"爱客人快餐厅\",\"location\":\"82.683754,43.276933\",\"address\":\"737县道\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"餐饮服务;餐饮相关场所;餐饮相关\",\"alias\":\"\",\"photo\":\"http://store.is.autonavi.com/showpic/869b3e4c3dc45339b98f922f400b648f\",\"cost\":\"47.00\",\"opentime2\":\"周一至周日 10:00-24:00\",\"rating\":\"3.5\",\"open_time\":\"10:00-24:00\",\"meal_ordering\":\"0\"}"
+        }
+      ],
+      "isError": false
+    },
+    "lunch_rong": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"id\":\"B0MUAB01MQ\",\"name\":\"融泉山庄餐厅\",\"location\":\"82.700525,43.272925\",\"address\":\"融泉山庄东南侧\",\"business_area\":\"\",\"city\":\"伊犁哈萨克自治州\",\"type\":\"体育休闲服务;休闲场所;休闲场所\",\"alias\":\"\",\"photo\":null,\"cost\":\"71.00\",\"opentime2\":\"周一至周日 00:00-24:00\",\"rating\":\"3.8\",\"open_time\":\"24小时营业\"}"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "queries": {
+    "yin_kurd": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"81.296696,43.939808\",\"destination\":\"82.692833,43.274436\",\"paths\":[{\"path\":\"\",\"distance\":\"157380\",\"duration\":\"8607\",\"steps\":[{\"instruction\":\"向西北行驶73米右转\",\"road\":\"\",\"distance\":\"73\",\"orientation\":\"西北\",\"duration\":\"34\"},{\"instruction\":\"沿明珠路向东北行驶275米进入环岛绕环岛直行\",\"road\":\"明珠路\",\"distance\":\"275\",\"orientation\":\"东北\",\"duration\":\"54\"},{\"instruction\":\"向东北行驶39米离开环岛\",\"road\":\"\",\"distance\":\"39\",\"orientation\":\"东北\",\"duration\":\"8\"},{\"instruction\":\"沿明珠路向东北行驶366米右转\",\"road\":\"明珠路\",\"distance\":\"366\",\"orientation\":\"东北\",\"duration\":\"70\"},{\"instruction\":\"沿宁远路向东行驶3.5千米左转\",\"road\":\"宁远路\",\"distance\":\"3534\",\"orientation\":\"东\",\"duration\":\"567\"},{\"instruction\":\"沿胜利北路辅路途径胜利北路向东北行驶3.3千米向右前方行驶进入右转专用道\",\"road\":\"胜利北路辅路\",\"distance\":\"3347\",\"orientation\":\"东北\",\"duration\":\"349\"},{\"instruction\":\"沿S12伊墩高速入口向东行驶130米右转\",\"road\":\"S12伊墩高速入口\",\"distance\":\"130\",\"orientation\":\"东\",\"duration\":\"19\"},{\"instruction\":\"沿S12伊墩高速入口向东行驶283米减速行驶到达收费站\",\"road\":\"S12伊墩高速入口\",\"distance\":\"283\",\"orientation\":\"东\",\"duration\":\"47\"},{\"instruction\":\"沿S12伊墩高速入口向东北行驶132米靠右\",\"road\":\"S12伊墩高速入口\",\"distance\":\"132\",\"orientation\":\"东北\",\"duration\":\"26\"},{\"instruction\":\"沿S12伊墩高速入口途径S12伊墩高速、吉尔格朗河桥向东行驶40.7千米靠左沿主路行驶\",\"road\":\"S12伊墩高速入口\",\"distance\":\"40693\",\"orientation\":\"东\",\"duration\":\"1466\"},{\"instruction\":\"沿S12伊墩高速途径喀什河大桥、S12高伊高速、克其克布拉克大桥、巴斯勒根萨依大桥、黑山头1号大桥、木萨能萨依大桥、黑山头2号大桥、塔勒德萨依大桥向东南行驶42.0千米向右前方行驶进入匝道\",\"road\":\"S12伊墩高速\",\"distance\":\"42002\",\"orientation\":\"东南\",\"duration\":\"1538\"},{\"instruction\":\"沿尼勒克互通向东行驶1.2千米减速行驶到达收费站\",\"road\":\"尼勒克互通\",\"distance\":\"1175\",\"orientation\":\"东\",\"duration\":\"98\"},{\"instruction\":\"沿尼勒克互通向东北行驶346米向右前方行驶进入右转专用道\",\"road\":\"尼勒克互通\",\"distance\":\"346\",\"orientation\":\"东北\",\"duration\":\"43\"},{\"instruction\":\"沿242省道向东北行驶52米右转\",\"road\":\"242省道\",\"distance\":\"52\",\"orientation\":\"东北\",\"duration\":\"13\"},{\"instruction\":\"沿242省道途径巩乃斯河大桥、蝶湖大道向南行驶17.0千米左转\",\"road\":\"242省道\",\"distance\":\"16998\",\"orientation\":\"南\",\"duration\":\"935\"},{\"instruction\":\"向东行驶6.2千米左转\",\"road\":\"\",\"distance\":\"6214\",\"orientation\":\"东\",\"duration\":\"424\"},{\"instruction\":\"沿578国道向东行驶9.8千米右转\",\"road\":\"578国道\",\"distance\":\"9768\",\"orientation\":\"东\",\"duration\":\"519\"},{\"instruction\":\"向南行驶211米向右前方行驶\",\"road\":\"\",\"distance\":\"211\",\"orientation\":\"南\",\"duration\":\"26\"},{\"instruction\":\"向西南行驶236米左转\",\"road\":\"\",\"distance\":\"236\",\"orientation\":\"西南\",\"duration\":\"35\"},{\"instruction\":\"向东南行驶153米右转\",\"road\":\"\",\"distance\":\"153\",\"orientation\":\"东南\",\"duration\":\"28\"},{\"instruction\":\"向西南行驶355米向左后方行驶\",\"road\":\"\",\"distance\":\"355\",\"orientation\":\"西南\",\"duration\":\"43\"},{\"instruction\":\"向东行驶2.1千米右转\",\"road\":\"\",\"distance\":\"2098\",\"orientation\":\"东\",\"duration\":\"323\"},{\"instruction\":\"沿737县道途径235乡道向东南行驶11.5千米向右前方行驶\",\"road\":\"737县道\",\"distance\":\"11461\",\"orientation\":\"东南\",\"duration\":\"723\"},{\"instruction\":\"向南行驶1.5千米左转\",\"road\":\"\",\"distance\":\"1504\",\"orientation\":\"南\",\"duration\":\"149\"},{\"instruction\":\"沿737县道向东行驶15.7千米向右前方行驶\",\"road\":\"737县道\",\"distance\":\"15659\",\"orientation\":\"东\",\"duration\":\"998\"},{\"instruction\":\"向东南行驶214米左转\",\"road\":\"\",\"distance\":\"214\",\"orientation\":\"东南\",\"duration\":\"36\"},{\"instruction\":\"向东北行驶54米左转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"东北\",\"duration\":\"32\"},{\"instruction\":\"向西北行驶8米到达目的地\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"西北\",\"duration\":\"4\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "kurd_hotel": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.692833,43.274436\",\"destination\":\"83.237363,43.443268\",\"paths\":[{\"path\":\"\",\"distance\":\"79696\",\"duration\":\"5717\",\"steps\":[{\"instruction\":\"向东南行驶8米右转\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"东南\",\"duration\":\"14\"},{\"instruction\":\"向西南行驶54米右转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"西南\",\"duration\":\"22\"},{\"instruction\":\"向西北行驶24米右转\",\"road\":\"\",\"distance\":\"24\",\"orientation\":\"西北\",\"duration\":\"12\"},{\"instruction\":\"向东北行驶103米右转\",\"road\":\"\",\"distance\":\"103\",\"orientation\":\"东北\",\"duration\":\"26\"},{\"instruction\":\"沿737县道途径Z784向东行驶6.0千米左转\",\"road\":\"737县道\",\"distance\":\"6012\",\"orientation\":\"东\",\"duration\":\"425\"},{\"instruction\":\"沿Z784向东北行驶1.2千米向右前方行驶\",\"road\":\"Z784\",\"distance\":\"1226\",\"orientation\":\"东北\",\"duration\":\"88\"},{\"instruction\":\"沿Z784向东行驶7.2千米右转\",\"road\":\"Z784\",\"distance\":\"7156\",\"orientation\":\"东\",\"duration\":\"591\"},{\"instruction\":\"沿Z784向东行驶342米向左后方行驶\",\"road\":\"Z784\",\"distance\":\"342\",\"orientation\":\"东\",\"duration\":\"38\"},{\"instruction\":\"沿宝柯段向西行驶6.1千米右转\",\"road\":\"宝柯段\",\"distance\":\"6051\",\"orientation\":\"西\",\"duration\":\"471\"},{\"instruction\":\"向东北行驶723米向右前方行驶\",\"road\":\"\",\"distance\":\"723\",\"orientation\":\"东北\",\"duration\":\"96\"},{\"instruction\":\"向东北行驶27.2千米向右前方行驶进入右转专用道\",\"road\":\"\",\"distance\":\"27225\",\"orientation\":\"东北\",\"duration\":\"1750\"},{\"instruction\":\"沿578国道向东北行驶36米右转\",\"road\":\"578国道\",\"distance\":\"36\",\"orientation\":\"东北\",\"duration\":\"15\"},{\"instruction\":\"沿578国道途径塔勒德街向东行驶24.5千米左转\",\"road\":\"578国道\",\"distance\":\"24545\",\"orientation\":\"东\",\"duration\":\"1578\"},{\"instruction\":\"沿那拉提路向北行驶2.9千米右转\",\"road\":\"那拉提路\",\"distance\":\"2861\",\"orientation\":\"北\",\"duration\":\"178\"},{\"instruction\":\"沿青年西街向东行驶1.5千米左转\",\"road\":\"青年西街\",\"distance\":\"1522\",\"orientation\":\"东\",\"duration\":\"158\"},{\"instruction\":\"沿库尔干路向北行驶1.0千米右转\",\"road\":\"库尔干路\",\"distance\":\"1020\",\"orientation\":\"北\",\"duration\":\"100\"},{\"instruction\":\"沿江额尔森西街向东行驶689米左转调头\",\"road\":\"江额尔森西街\",\"distance\":\"689\",\"orientation\":\"东\",\"duration\":\"117\"},{\"instruction\":\"沿江额尔森西街向西行驶56米右转\",\"road\":\"江额尔森西街\",\"distance\":\"56\",\"orientation\":\"西\",\"duration\":\"15\"},{\"instruction\":\"向西北行驶43米到达目的地\",\"road\":\"\",\"distance\":\"43\",\"orientation\":\"西北\",\"duration\":\"23\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "hotel_tang": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"83.237363,43.443268\",\"destination\":\"83.919793,43.718426\",\"paths\":[{\"path\":\"\",\"distance\":\"95213\",\"duration\":\"5792\",\"steps\":[{\"instruction\":\"向东南行驶43米右转\",\"road\":\"\",\"distance\":\"43\",\"orientation\":\"东南\",\"duration\":\"24\"},{\"instruction\":\"沿江额尔森西街向西行驶83米左转调头\",\"road\":\"江额尔森西街\",\"distance\":\"83\",\"orientation\":\"西\",\"duration\":\"58\"},{\"instruction\":\"沿江额尔森西街向东行驶1.7千米左转\",\"road\":\"江额尔森西街\",\"distance\":\"1739\",\"orientation\":\"东\",\"duration\":\"184\"},{\"instruction\":\"沿恰普河路向北行驶1.9千米右转\",\"road\":\"恰普河路\",\"distance\":\"1913\",\"orientation\":\"北\",\"duration\":\"117\"},{\"instruction\":\"沿兴业街向东行驶497米左转\",\"road\":\"兴业街\",\"distance\":\"497\",\"orientation\":\"东\",\"duration\":\"81\"},{\"instruction\":\"沿则新路向北行驶7.6千米右转\",\"road\":\"则新路\",\"distance\":\"7577\",\"orientation\":\"北\",\"duration\":\"455\"},{\"instruction\":\"沿199乡道途径工业大道向东行驶2.9千米左转\",\"road\":\"199乡道\",\"distance\":\"2889\",\"orientation\":\"东\",\"duration\":\"197\"},{\"instruction\":\"沿东二路向北行驶1.1千米向右前方行驶\",\"road\":\"东二路\",\"distance\":\"1144\",\"orientation\":\"北\",\"duration\":\"111\"},{\"instruction\":\"沿316省道途径加郎布特路向北行驶28.0千米向右前方行驶进入右转专用道\",\"road\":\"316省道\",\"distance\":\"28047\",\"orientation\":\"北\",\"duration\":\"1765\"},{\"instruction\":\"沿315省道向东北行驶68米右转\",\"road\":\"315省道\",\"distance\":\"68\",\"orientation\":\"东北\",\"duration\":\"14\"},{\"instruction\":\"沿315省道向东行驶5.1千米靠左\",\"road\":\"315省道\",\"distance\":\"5139\",\"orientation\":\"东\",\"duration\":\"266\"},{\"instruction\":\"沿315省道途径165乡道向东行驶3.0千米靠左\",\"road\":\"315省道\",\"distance\":\"3011\",\"orientation\":\"东\",\"duration\":\"143\"},{\"instruction\":\"沿315省道途径蒙不特桥向东行驶43.0千米向右前方行驶\",\"road\":\"315省道\",\"distance\":\"42990\",\"orientation\":\"东\",\"duration\":\"2363\"},{\"instruction\":\"向东南行驶73米到达目的地\",\"road\":\"\",\"distance\":\"73\",\"orientation\":\"东南\",\"duration\":\"14\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "tang_qiao": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"83.919793,43.718426\",\"destination\":\"84.382897,43.653744\",\"paths\":[{\"path\":\"\",\"distance\":\"40097\",\"duration\":\"2599\",\"steps\":[{\"instruction\":\"向西北行驶73米右转\",\"road\":\"\",\"distance\":\"73\",\"orientation\":\"西北\",\"duration\":\"22\"},{\"instruction\":\"沿315省道途径独库公路向东行驶39.2千米靠右\",\"road\":\"315省道\",\"distance\":\"39205\",\"orientation\":\"东\",\"duration\":\"2501\"},{\"instruction\":\"沿独库公路向东行驶693米向左后方行驶\",\"road\":\"独库公路\",\"distance\":\"693\",\"orientation\":\"东\",\"duration\":\"62\"},{\"instruction\":\"向西行驶126米到达目的地\",\"road\":\"\",\"distance\":\"126\",\"orientation\":\"西\",\"duration\":\"14\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "hotel_nalati": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"83.237363,43.443268\",\"destination\":\"84.003822,43.328259\",\"paths\":[{\"path\":\"\",\"distance\":\"68596\",\"duration\":\"4573\",\"steps\":[{\"instruction\":\"向东南行驶43米右转\",\"road\":\"\",\"distance\":\"43\",\"orientation\":\"东南\",\"duration\":\"24\"},{\"instruction\":\"沿江额尔森西街向西行驶83米左转调头\",\"road\":\"江额尔森西街\",\"distance\":\"83\",\"orientation\":\"西\",\"duration\":\"54\"},{\"instruction\":\"沿江额尔森西街向东行驶1.7千米右转\",\"road\":\"江额尔森西街\",\"distance\":\"1739\",\"orientation\":\"东\",\"duration\":\"187\"},{\"instruction\":\"沿恰普河路向南行驶337米左转\",\"road\":\"恰普河路\",\"distance\":\"337\",\"orientation\":\"南\",\"duration\":\"60\"},{\"instruction\":\"沿别斯托别街向东行驶606米右转\",\"road\":\"别斯托别街\",\"distance\":\"606\",\"orientation\":\"东\",\"duration\":\"63\"},{\"instruction\":\"沿则新路向南行驶2.8千米左转\",\"road\":\"则新路\",\"distance\":\"2770\",\"orientation\":\"南\",\"duration\":\"350\"},{\"instruction\":\"沿环城南路途径578国道向东行驶9.2千米靠右\",\"road\":\"环城南路\",\"distance\":\"9236\",\"orientation\":\"东\",\"duration\":\"587\"},{\"instruction\":\"沿578国道途径巩乃斯大桥向东行驶29.8千米靠右\",\"road\":\"578国道\",\"distance\":\"29772\",\"orientation\":\"东\",\"duration\":\"1726\"},{\"instruction\":\"沿578国道途径218国道、友谊路向东行驶23.9千米左转\",\"road\":\"578国道\",\"distance\":\"23925\",\"orientation\":\"东\",\"duration\":\"1497\"},{\"instruction\":\"向东北行驶85米到达目的地\",\"road\":\"\",\"distance\":\"85\",\"orientation\":\"东北\",\"duration\":\"25\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "nalati_qiao": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"84.003822,43.328259\",\"destination\":\"84.382897,43.653744\",\"paths\":[{\"path\":\"\",\"distance\":\"104196\",\"duration\":\"8066\",\"steps\":[{\"instruction\":\"向西南行驶85米左转\",\"road\":\"\",\"distance\":\"85\",\"orientation\":\"西南\",\"duration\":\"43\"},{\"instruction\":\"沿218国道向东行驶17.0千米向右前方行驶\",\"road\":\"218国道\",\"distance\":\"16952\",\"orientation\":\"东\",\"duration\":\"1233\"},{\"instruction\":\"沿218国道向东行驶6.9千米左转\",\"road\":\"218国道\",\"distance\":\"6943\",\"orientation\":\"东\",\"duration\":\"543\"},{\"instruction\":\"沿独库公路向东北行驶25.3千米向左前方行驶\",\"road\":\"独库公路\",\"distance\":\"25278\",\"orientation\":\"东北\",\"duration\":\"1801\"},{\"instruction\":\"沿独库公路向东北行驶15.9千米直行进入隧道\",\"road\":\"独库公路\",\"distance\":\"15896\",\"orientation\":\"东北\",\"duration\":\"1120\"},{\"instruction\":\"沿玉希莫勒盖隧道途径独库公路向西北行驶22.8千米靠右\",\"road\":\"玉希莫勒盖隧道\",\"distance\":\"22764\",\"orientation\":\"西北\",\"duration\":\"1408\"},{\"instruction\":\"沿独库公路向北行驶14.2千米向右前方行驶进入右转专用道\",\"road\":\"独库公路\",\"distance\":\"14171\",\"orientation\":\"北\",\"duration\":\"1701\"},{\"instruction\":\"沿独库公路向东行驶70米右转\",\"road\":\"独库公路\",\"distance\":\"70\",\"orientation\":\"东\",\"duration\":\"22\"},{\"instruction\":\"沿独库公路向东行驶1.2千米靠右\",\"road\":\"独库公路\",\"distance\":\"1218\",\"orientation\":\"东\",\"duration\":\"112\"},{\"instruction\":\"沿独库公路向东行驶693米向左后方行驶\",\"road\":\"独库公路\",\"distance\":\"693\",\"orientation\":\"东\",\"duration\":\"69\"},{\"instruction\":\"向西行驶126米到达目的地\",\"road\":\"\",\"distance\":\"126\",\"orientation\":\"西\",\"duration\":\"14\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "qiao_kuitun": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"84.382897,43.653744\",\"destination\":\"84.900179,44.403616\",\"paths\":[{\"path\":\"\",\"distance\":\"141330\",\"duration\":\"9876\",\"steps\":[{\"instruction\":\"沿独库公路向东北行驶22.1千米直行进入隧道\",\"road\":\"独库公路\",\"distance\":\"22076\",\"orientation\":\"东北\",\"duration\":\"1530\"},{\"instruction\":\"沿哈希勒根隧道途径独库公路向西北行驶1.6千米靠左\",\"road\":\"哈希勒根隧道\",\"distance\":\"1640\",\"orientation\":\"西北\",\"duration\":\"147\"},{\"instruction\":\"沿独库公路向西北行驶102米靠右\",\"road\":\"独库公路\",\"distance\":\"102\",\"orientation\":\"西北\",\"duration\":\"26\"},{\"instruction\":\"沿独库公路向东北行驶12.0千米左转\",\"road\":\"独库公路\",\"distance\":\"12033\",\"orientation\":\"东北\",\"duration\":\"1007\"},{\"instruction\":\"沿独库公路途径老虎口大桥、清水河大桥向东北行驶40.5千米靠右\",\"road\":\"独库公路\",\"distance\":\"40486\",\"orientation\":\"东北\",\"duration\":\"2568\"},{\"instruction\":\"沿独库公路向东北行驶10.3千米靠右\",\"road\":\"独库公路\",\"distance\":\"10294\",\"orientation\":\"东北\",\"duration\":\"671\"},{\"instruction\":\"沿独库公路向东行驶16.9千米靠右\",\"road\":\"独库公路\",\"distance\":\"16856\",\"orientation\":\"东\",\"duration\":\"1197\"},{\"instruction\":\"沿独库公路向东行驶981米靠左\",\"road\":\"独库公路\",\"distance\":\"981\",\"orientation\":\"东\",\"duration\":\"102\"},{\"instruction\":\"沿独库公路途径北京路向北行驶23.0千米右转\",\"road\":\"独库公路\",\"distance\":\"23012\",\"orientation\":\"北\",\"duration\":\"1240\"},{\"instruction\":\"沿规划二路途径规划一路向东行驶1.3千米左转\",\"road\":\"规划二路\",\"distance\":\"1317\",\"orientation\":\"东\",\"duration\":\"99\"},{\"instruction\":\"沿南京路向北行驶2.8千米进入环岛\",\"road\":\"南京路\",\"distance\":\"2842\",\"orientation\":\"北\",\"duration\":\"317\"},{\"instruction\":\"向西北行驶75米离开环岛\",\"road\":\"\",\"distance\":\"75\",\"orientation\":\"西北\",\"duration\":\"9\"},{\"instruction\":\"沿石化大道途径玛纳斯街向东北行驶5.9千米直行进入左侧道路\",\"road\":\"石化大道\",\"distance\":\"5886\",\"orientation\":\"东北\",\"duration\":\"355\"},{\"instruction\":\"沿玛纳斯街途径迎宾大道向北行驶1.0千米右转\",\"road\":\"玛纳斯街\",\"distance\":\"1050\",\"orientation\":\"北\",\"duration\":\"93\"},{\"instruction\":\"向东北行驶159米左转\",\"road\":\"\",\"distance\":\"159\",\"orientation\":\"东北\",\"duration\":\"57\"},{\"instruction\":\"向西行驶67米右转\",\"road\":\"\",\"distance\":\"67\",\"orientation\":\"西\",\"duration\":\"19\"},{\"instruction\":\"沿迎宾大道向北行驶774米左转\",\"road\":\"迎宾大道\",\"distance\":\"774\",\"orientation\":\"北\",\"duration\":\"93\"},{\"instruction\":\"沿南环东路向西行驶1.2千米左转\",\"road\":\"南环东路\",\"distance\":\"1190\",\"orientation\":\"西\",\"duration\":\"173\"},{\"instruction\":\"沿团结南街向南行驶340米右转\",\"road\":\"团结南街\",\"distance\":\"340\",\"orientation\":\"南\",\"duration\":\"70\"},{\"instruction\":\"向西行驶38米左转\",\"road\":\"\",\"distance\":\"38\",\"orientation\":\"西\",\"duration\":\"31\"},{\"instruction\":\"向南行驶61米左转\",\"road\":\"\",\"distance\":\"61\",\"orientation\":\"南\",\"duration\":\"35\"},{\"instruction\":\"向东行驶12米右转\",\"road\":\"\",\"distance\":\"12\",\"orientation\":\"东\",\"duration\":\"12\"},{\"instruction\":\"向南行驶26米左转\",\"road\":\"\",\"distance\":\"26\",\"orientation\":\"南\",\"duration\":\"21\"},{\"instruction\":\"向东行驶13米到达目的地\",\"road\":\"\",\"distance\":\"13\",\"orientation\":\"东\",\"duration\":\"4\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "hotel_kuitun": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"83.237363,43.443268\",\"destination\":\"84.900179,44.403616\",\"paths\":[{\"path\":\"\",\"distance\":\"276242\",\"duration\":\"19058\",\"steps\":[{\"instruction\":\"向东南行驶43米右转\",\"road\":\"\",\"distance\":\"43\",\"orientation\":\"东南\",\"duration\":\"24\"},{\"instruction\":\"沿江额尔森西街向西行驶83米左转调头\",\"road\":\"江额尔森西街\",\"distance\":\"83\",\"orientation\":\"西\",\"duration\":\"58\"},{\"instruction\":\"沿江额尔森西街向东行驶1.7千米左转\",\"road\":\"江额尔森西街\",\"distance\":\"1739\",\"orientation\":\"东\",\"duration\":\"182\"},{\"instruction\":\"沿恰普河路向北行驶1.9千米右转\",\"road\":\"恰普河路\",\"distance\":\"1913\",\"orientation\":\"北\",\"duration\":\"116\"},{\"instruction\":\"沿兴业街向东行驶497米左转\",\"road\":\"兴业街\",\"distance\":\"497\",\"orientation\":\"东\",\"duration\":\"81\"},{\"instruction\":\"沿则新路向北行驶7.6千米右转\",\"road\":\"则新路\",\"distance\":\"7577\",\"orientation\":\"北\",\"duration\":\"452\"},{\"instruction\":\"沿199乡道途径工业大道向东行驶2.9千米左转\",\"road\":\"199乡道\",\"distance\":\"2889\",\"orientation\":\"东\",\"duration\":\"195\"},{\"instruction\":\"沿东二路向北行驶1.1千米向右前方行驶\",\"road\":\"东二路\",\"distance\":\"1144\",\"orientation\":\"北\",\"duration\":\"111\"},{\"instruction\":\"沿316省道途径加郎布特路向北行驶28.0千米向右前方行驶进入右转专用道\",\"road\":\"316省道\",\"distance\":\"28047\",\"orientation\":\"北\",\"duration\":\"1754\"},{\"instruction\":\"沿315省道向东北行驶68米右转\",\"road\":\"315省道\",\"distance\":\"68\",\"orientation\":\"东北\",\"duration\":\"13\"},{\"instruction\":\"沿315省道向东行驶5.1千米靠左\",\"road\":\"315省道\",\"distance\":\"5139\",\"orientation\":\"东\",\"duration\":\"264\"},{\"instruction\":\"沿315省道途径165乡道向东行驶3.0千米靠左\",\"road\":\"315省道\",\"distance\":\"3011\",\"orientation\":\"东\",\"duration\":\"142\"},{\"instruction\":\"沿315省道途径蒙不特桥、独库公路向东行驶82.2千米靠右\",\"road\":\"315省道\",\"distance\":\"82195\",\"orientation\":\"东\",\"duration\":\"4606\"},{\"instruction\":\"沿独库公路向东北行驶22.6千米直行进入隧道\",\"road\":\"独库公路\",\"distance\":\"22643\",\"orientation\":\"东北\",\"duration\":\"2256\"},{\"instruction\":\"沿哈希勒根隧道途径独库公路向西北行驶1.6千米靠左\",\"road\":\"哈希勒根隧道\",\"distance\":\"1640\",\"orientation\":\"西北\",\"duration\":\"157\"},{\"instruction\":\"沿独库公路向西北行驶102米靠右\",\"road\":\"独库公路\",\"distance\":\"102\",\"orientation\":\"西北\",\"duration\":\"25\"},{\"instruction\":\"沿独库公路向东北行驶12.0千米左转\",\"road\":\"独库公路\",\"distance\":\"12033\",\"orientation\":\"东北\",\"duration\":\"1352\"},{\"instruction\":\"沿独库公路途径老虎口大桥、清水河大桥向东北行驶40.5千米靠右\",\"road\":\"独库公路\",\"distance\":\"40486\",\"orientation\":\"东北\",\"duration\":\"2659\"},{\"instruction\":\"沿独库公路向东北行驶10.3千米靠右\",\"road\":\"独库公路\",\"distance\":\"10294\",\"orientation\":\"东北\",\"duration\":\"684\"},{\"instruction\":\"沿独库公路向东行驶16.9千米靠右\",\"road\":\"独库公路\",\"distance\":\"16856\",\"orientation\":\"东\",\"duration\":\"1207\"},{\"instruction\":\"沿独库公路向东行驶981米靠左\",\"road\":\"独库公路\",\"distance\":\"981\",\"orientation\":\"东\",\"duration\":\"93\"},{\"instruction\":\"沿独库公路途径北京路向北行驶23.0千米右转\",\"road\":\"独库公路\",\"distance\":\"23012\",\"orientation\":\"北\",\"duration\":\"1206\"},{\"instruction\":\"沿规划二路途径规划一路向东行驶1.3千米左转\",\"road\":\"规划二路\",\"distance\":\"1317\",\"orientation\":\"东\",\"duration\":\"106\"},{\"instruction\":\"沿南京路向北行驶2.8千米进入环岛\",\"road\":\"南京路\",\"distance\":\"2842\",\"orientation\":\"北\",\"duration\":\"323\"},{\"instruction\":\"向西北行驶75米离开环岛\",\"road\":\"\",\"distance\":\"75\",\"orientation\":\"西北\",\"duration\":\"11\"},{\"instruction\":\"沿石化大道途径玛纳斯街向东北行驶5.9千米直行进入左侧道路\",\"road\":\"石化大道\",\"distance\":\"5886\",\"orientation\":\"东北\",\"duration\":\"362\"},{\"instruction\":\"沿玛纳斯街途径迎宾大道向北行驶1.0千米右转\",\"road\":\"玛纳斯街\",\"distance\":\"1050\",\"orientation\":\"北\",\"duration\":\"89\"},{\"instruction\":\"向东北行驶159米左转\",\"road\":\"\",\"distance\":\"159\",\"orientation\":\"东北\",\"duration\":\"62\"},{\"instruction\":\"向西行驶67米右转\",\"road\":\"\",\"distance\":\"67\",\"orientation\":\"西\",\"duration\":\"20\"},{\"instruction\":\"沿迎宾大道向北行驶774米左转\",\"road\":\"迎宾大道\",\"distance\":\"774\",\"orientation\":\"北\",\"duration\":\"98\"},{\"instruction\":\"沿南环东路向西行驶1.2千米左转\",\"road\":\"南环东路\",\"distance\":\"1190\",\"orientation\":\"西\",\"duration\":\"178\"},{\"instruction\":\"沿团结南街向南行驶340米右转\",\"road\":\"团结南街\",\"distance\":\"340\",\"orientation\":\"南\",\"duration\":\"74\"},{\"instruction\":\"向西行驶38米左转\",\"road\":\"\",\"distance\":\"38\",\"orientation\":\"西\",\"duration\":\"27\"},{\"instruction\":\"向南行驶61米左转\",\"road\":\"\",\"distance\":\"61\",\"orientation\":\"南\",\"duration\":\"34\"},{\"instruction\":\"向东行驶12米右转\",\"road\":\"\",\"distance\":\"12\",\"orientation\":\"东\",\"duration\":\"12\"},{\"instruction\":\"向南行驶26米左转\",\"road\":\"\",\"distance\":\"26\",\"orientation\":\"南\",\"duration\":\"21\"},{\"instruction\":\"向东行驶13米到达目的地\",\"road\":\"\",\"distance\":\"13\",\"orientation\":\"东\",\"duration\":\"4\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "hotel_subutai": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"83.237363,43.443268\",\"destination\":\"82.059819,43.907797\",\"paths\":[{\"path\":\"\",\"distance\":\"140691\",\"duration\":\"7755\",\"steps\":[{\"instruction\":\"向东南行驶43米右转\",\"road\":\"\",\"distance\":\"43\",\"orientation\":\"东南\",\"duration\":\"23\"},{\"instruction\":\"沿江额尔森西街途径109乡道向西行驶1.6千米左转\",\"road\":\"江额尔森西街\",\"distance\":\"1556\",\"orientation\":\"西\",\"duration\":\"189\"},{\"instruction\":\"向南行驶287米右转\",\"road\":\"\",\"distance\":\"287\",\"orientation\":\"南\",\"duration\":\"23\"},{\"instruction\":\"沿天山西街向西行驶833米右转\",\"road\":\"天山西街\",\"distance\":\"833\",\"orientation\":\"西\",\"duration\":\"78\"},{\"instruction\":\"沿108乡道途径那拉提路、巩乃斯河特大桥向西北行驶13.6千米左转\",\"road\":\"108乡道\",\"distance\":\"13597\",\"orientation\":\"西北\",\"duration\":\"768\"},{\"instruction\":\"沿218国道向西行驶32.3千米向右前方行驶进入右转专用道\",\"road\":\"218国道\",\"distance\":\"32288\",\"orientation\":\"西\",\"duration\":\"1540\"},{\"instruction\":\"沿774县道向西北行驶60米向右前方行驶\",\"road\":\"774县道\",\"distance\":\"60\",\"orientation\":\"西北\",\"duration\":\"11\"},{\"instruction\":\"沿774县道途径022乡道向北行驶20.1千米右转\",\"road\":\"774县道\",\"distance\":\"20098\",\"orientation\":\"北\",\"duration\":\"1276\"},{\"instruction\":\"沿托铁路向西行驶3.2千米右转\",\"road\":\"托铁路\",\"distance\":\"3166\",\"orientation\":\"西\",\"duration\":\"205\"},{\"instruction\":\"向西行驶6.4千米向右前方行驶\",\"road\":\"\",\"distance\":\"6394\",\"orientation\":\"西\",\"duration\":\"360\"},{\"instruction\":\"沿喀什路向西北行驶626米右转\",\"road\":\"喀什路\",\"distance\":\"626\",\"orientation\":\"西北\",\"duration\":\"55\"},{\"instruction\":\"沿解放路向东北行驶1.7千米左转\",\"road\":\"解放路\",\"distance\":\"1667\",\"orientation\":\"东北\",\"duration\":\"147\"},{\"instruction\":\"沿774县道途径喀拉托别大桥、马场路向西北行驶4.1千米左转\",\"road\":\"774县道\",\"distance\":\"4128\",\"orientation\":\"西北\",\"duration\":\"312\"},{\"instruction\":\"沿773县道向西行驶156米右转\",\"road\":\"773县道\",\"distance\":\"156\",\"orientation\":\"西\",\"duration\":\"21\"},{\"instruction\":\"沿773县道向北行驶1.3千米左转\",\"road\":\"773县道\",\"distance\":\"1273\",\"orientation\":\"北\",\"duration\":\"113\"},{\"instruction\":\"沿315省道途径578国道、恰和那木村大桥、尼勒克河大桥、喀什河2号大桥、加哈乌拉斯台2号大桥、加哈乌拉斯台1号大桥、乌拉斯台沟大桥、乔拉克布拉克大桥向西行驶39.3千米左转\",\"road\":\"315省道\",\"distance\":\"39334\",\"orientation\":\"西\",\"duration\":\"1679\"},{\"instruction\":\"向北行驶1.6千米左转\",\"road\":\"\",\"distance\":\"1558\",\"orientation\":\"北\",\"duration\":\"133\"},{\"instruction\":\"沿希望路途径315省道向西行驶13.2千米向右前方行驶进入右转专用道\",\"road\":\"希望路\",\"distance\":\"13240\",\"orientation\":\"西\",\"duration\":\"765\"},{\"instruction\":\"沿苏布台北互通向西行驶43米右转\",\"road\":\"苏布台北互通\",\"distance\":\"43\",\"orientation\":\"西\",\"duration\":\"12\"},{\"instruction\":\"沿苏布台北互通向北行驶344米到达目的地\",\"road\":\"苏布台北互通\",\"distance\":\"344\",\"orientation\":\"北\",\"duration\":\"45\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "subutai_kuitun": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.059819,43.907797\",\"destination\":\"84.900179,44.403616\",\"paths\":[{\"path\":\"\",\"distance\":\"301293\",\"duration\":\"12608\",\"steps\":[{\"instruction\":\"沿苏布台北互通向北行驶1米减速行驶到达收费站\",\"road\":\"苏布台北互通\",\"distance\":\"1\",\"orientation\":\"北\",\"duration\":\"2\"},{\"instruction\":\"沿苏布台北互通向北行驶352米靠左\",\"road\":\"苏布台北互通\",\"distance\":\"352\",\"orientation\":\"北\",\"duration\":\"19\"},{\"instruction\":\"沿苏布台北互通途径G577精伊高速向北行驶6.4千米直行进入隧道\",\"road\":\"苏布台北互通\",\"distance\":\"6437\",\"orientation\":\"北\",\"duration\":\"254\"},{\"instruction\":\"沿苏布台4号隧道途径G577精伊高速向北行驶7.3千米直行进入隧道\",\"road\":\"苏布台4号隧道\",\"distance\":\"7313\",\"orientation\":\"北\",\"duration\":\"287\"},{\"instruction\":\"沿苏布台三号隧道途径G577精伊高速向西北行驶3.6千米直行进入隧道\",\"road\":\"苏布台三号隧道\",\"distance\":\"3574\",\"orientation\":\"西北\",\"duration\":\"155\"},{\"instruction\":\"沿苏布台二号隧道途径G577精伊高速向北行驶2.0千米直行进入隧道\",\"road\":\"苏布台二号隧道\",\"distance\":\"1958\",\"orientation\":\"北\",\"duration\":\"87\"},{\"instruction\":\"沿苏布台一号隧道途径博尔博松特大桥、G577精伊高速、精斯格布拉克特大桥、科克乔克2号特大桥、科克乔克1号特大桥向东北行驶9.1千米直行进入隧道\",\"road\":\"苏布台一号隧道\",\"distance\":\"9109\",\"orientation\":\"东北\",\"duration\":\"378\"},{\"instruction\":\"沿北天山隧道途径G577精伊高速、铁列克萨依特大桥、尼勒克会岸1号特大桥、新龙口特大桥、G30连霍高速入口向东北行驶59.4千米向右前方行驶\",\"road\":\"北天山隧道\",\"distance\":\"59403\",\"orientation\":\"东北\",\"duration\":\"2387\"},{\"instruction\":\"沿G30连霍高速入口途径G30连霍高速、精河大桥、托托1号中桥、古尔图大桥、四棵树大桥、奎屯河大桥向东行驶204.0千米向右前方行驶进入匝道\",\"road\":\"G30连霍高速入口\",\"distance\":\"203957\",\"orientation\":\"东\",\"duration\":\"8053\"},{\"instruction\":\"沿奎屯西互通向东行驶363米靠左\",\"road\":\"奎屯西互通\",\"distance\":\"363\",\"orientation\":\"东\",\"duration\":\"13\"},{\"instruction\":\"沿奎屯西互通向东行驶676米靠右\",\"road\":\"奎屯西互通\",\"distance\":\"676\",\"orientation\":\"东\",\"duration\":\"42\"},{\"instruction\":\"沿奎屯西互通向北行驶688米靠左\",\"road\":\"奎屯西互通\",\"distance\":\"688\",\"orientation\":\"北\",\"duration\":\"50\"},{\"instruction\":\"沿奎屯西互通向东北行驶441米减速行驶到达收费站\",\"road\":\"奎屯西互通\",\"distance\":\"441\",\"orientation\":\"东北\",\"duration\":\"82\"},{\"instruction\":\"沿奎屯西互通向东北行驶202米靠右\",\"road\":\"奎屯西互通\",\"distance\":\"202\",\"orientation\":\"东北\",\"duration\":\"34\"},{\"instruction\":\"沿奎屯西立交桥向东北行驶499米左转\",\"road\":\"奎屯西立交桥\",\"distance\":\"499\",\"orientation\":\"东北\",\"duration\":\"43\"},{\"instruction\":\"向东北行驶374米右转\",\"road\":\"\",\"distance\":\"374\",\"orientation\":\"东北\",\"duration\":\"75\"},{\"instruction\":\"沿库区路向东行驶2.0千米向左前方行驶\",\"road\":\"库区路\",\"distance\":\"1972\",\"orientation\":\"东\",\"duration\":\"138\"},{\"instruction\":\"沿库区路向东行驶133米左转\",\"road\":\"库区路\",\"distance\":\"133\",\"orientation\":\"东\",\"duration\":\"42\"},{\"instruction\":\"沿储运路向东北行驶653米右转\",\"road\":\"储运路\",\"distance\":\"653\",\"orientation\":\"东北\",\"duration\":\"51\"},{\"instruction\":\"沿南环西路向东行驶2.7千米右转\",\"road\":\"南环西路\",\"distance\":\"2698\",\"orientation\":\"东\",\"duration\":\"239\"},{\"instruction\":\"沿团结南街向南行驶340米右转\",\"road\":\"团结南街\",\"distance\":\"340\",\"orientation\":\"南\",\"duration\":\"76\"},{\"instruction\":\"向西行驶38米左转\",\"road\":\"\",\"distance\":\"38\",\"orientation\":\"西\",\"duration\":\"29\"},{\"instruction\":\"向南行驶61米左转\",\"road\":\"\",\"distance\":\"61\",\"orientation\":\"南\",\"duration\":\"35\"},{\"instruction\":\"向东行驶12米右转\",\"road\":\"\",\"distance\":\"12\",\"orientation\":\"东\",\"duration\":\"12\"},{\"instruction\":\"向南行驶26米左转\",\"road\":\"\",\"distance\":\"26\",\"orientation\":\"南\",\"duration\":\"21\"},{\"instruction\":\"向东行驶13米到达目的地\",\"road\":\"\",\"distance\":\"13\",\"orientation\":\"东\",\"duration\":\"4\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "kurd_camp": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.692833,43.274436\",\"destination\":\"82.836240,43.139357\",\"paths\":[{\"path\":\"\",\"distance\":\"20033\",\"duration\":\"1392\",\"steps\":[{\"instruction\":\"向东南行驶8米右转\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"东南\",\"duration\":\"13\"},{\"instruction\":\"向西南行驶54米左转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"西南\",\"duration\":\"34\"},{\"instruction\":\"向东南行驶2.3千米靠左\",\"road\":\"\",\"distance\":\"2350\",\"orientation\":\"东南\",\"duration\":\"135\"},{\"instruction\":\"向东南行驶17.5千米靠左\",\"road\":\"\",\"distance\":\"17487\",\"orientation\":\"东南\",\"duration\":\"1183\"},{\"instruction\":\"向南行驶134米到达目的地\",\"road\":\"\",\"distance\":\"134\",\"orientation\":\"南\",\"duration\":\"27\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "camp_ayou": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.836240,43.139357\",\"destination\":\"82.843360,43.133396\",\"paths\":[{\"path\":\"\",\"distance\":\"2217\",\"duration\":\"423\",\"steps\":[{\"instruction\":\"向东南行驶2.2千米到达目的地\",\"road\":\"\",\"distance\":\"2217\",\"orientation\":\"东南\",\"duration\":\"423\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "ayou_hotel": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.843360,43.133396\",\"destination\":\"83.237363,43.443268\",\"paths\":[{\"path\":\"\",\"distance\":\"88277\",\"duration\":\"7469\",\"steps\":[{\"instruction\":\"向东北行驶281米右转\",\"road\":\"\",\"distance\":\"281\",\"orientation\":\"东北\",\"duration\":\"65\"},{\"instruction\":\"沿Z784向东北行驶16.7千米左转\",\"road\":\"Z784\",\"distance\":\"16717\",\"orientation\":\"东北\",\"duration\":\"1951\"},{\"instruction\":\"沿Z784向西行驶6.5千米向右前方行驶\",\"road\":\"Z784\",\"distance\":\"6508\",\"orientation\":\"西\",\"duration\":\"704\"},{\"instruction\":\"沿宝柯段向西行驶6.1千米右转\",\"road\":\"宝柯段\",\"distance\":\"6051\",\"orientation\":\"西\",\"duration\":\"514\"},{\"instruction\":\"向东北行驶723米向右前方行驶\",\"road\":\"\",\"distance\":\"723\",\"orientation\":\"东北\",\"duration\":\"93\"},{\"instruction\":\"向东北行驶27.2千米向右前方行驶进入右转专用道\",\"road\":\"\",\"distance\":\"27225\",\"orientation\":\"东北\",\"duration\":\"1836\"},{\"instruction\":\"沿578国道向东北行驶36米右转\",\"road\":\"578国道\",\"distance\":\"36\",\"orientation\":\"东北\",\"duration\":\"15\"},{\"instruction\":\"沿578国道途径塔勒德街向东行驶24.5千米左转\",\"road\":\"578国道\",\"distance\":\"24545\",\"orientation\":\"东\",\"duration\":\"1654\"},{\"instruction\":\"沿那拉提路向北行驶2.9千米右转\",\"road\":\"那拉提路\",\"distance\":\"2861\",\"orientation\":\"北\",\"duration\":\"184\"},{\"instruction\":\"沿青年西街向东行驶1.5千米左转\",\"road\":\"青年西街\",\"distance\":\"1522\",\"orientation\":\"东\",\"duration\":\"179\"},{\"instruction\":\"沿库尔干路向北行驶1.0千米右转\",\"road\":\"库尔干路\",\"distance\":\"1020\",\"orientation\":\"北\",\"duration\":\"107\"},{\"instruction\":\"沿江额尔森西街向东行驶689米左转调头\",\"road\":\"江额尔森西街\",\"distance\":\"689\",\"orientation\":\"东\",\"duration\":\"125\"},{\"instruction\":\"沿江额尔森西街向西行驶56米右转\",\"road\":\"江额尔森西街\",\"distance\":\"56\",\"orientation\":\"西\",\"duration\":\"17\"},{\"instruction\":\"向西北行驶43米到达目的地\",\"road\":\"\",\"distance\":\"43\",\"orientation\":\"西北\",\"duration\":\"25\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "yin_lunch": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"81.296696,43.939808\",\"destination\":\"82.682835,43.277106\",\"paths\":[{\"path\":\"\",\"distance\":\"156622\",\"duration\":\"8469\",\"steps\":[{\"instruction\":\"向西北行驶73米右转\",\"road\":\"\",\"distance\":\"73\",\"orientation\":\"西北\",\"duration\":\"34\"},{\"instruction\":\"沿明珠路向东北行驶275米进入环岛绕环岛直行\",\"road\":\"明珠路\",\"distance\":\"275\",\"orientation\":\"东北\",\"duration\":\"58\"},{\"instruction\":\"向东北行驶39米离开环岛\",\"road\":\"\",\"distance\":\"39\",\"orientation\":\"东北\",\"duration\":\"8\"},{\"instruction\":\"沿明珠路向东北行驶366米右转\",\"road\":\"明珠路\",\"distance\":\"366\",\"orientation\":\"东北\",\"duration\":\"78\"},{\"instruction\":\"沿宁远路向东行驶3.5千米左转\",\"road\":\"宁远路\",\"distance\":\"3534\",\"orientation\":\"东\",\"duration\":\"522\"},{\"instruction\":\"沿胜利北路辅路途径胜利北路向东北行驶3.3千米向右前方行驶进入右转专用道\",\"road\":\"胜利北路辅路\",\"distance\":\"3347\",\"orientation\":\"东北\",\"duration\":\"340\"},{\"instruction\":\"沿S12伊墩高速入口向东行驶130米右转\",\"road\":\"S12伊墩高速入口\",\"distance\":\"130\",\"orientation\":\"东\",\"duration\":\"20\"},{\"instruction\":\"沿S12伊墩高速入口向东行驶283米减速行驶到达收费站\",\"road\":\"S12伊墩高速入口\",\"distance\":\"283\",\"orientation\":\"东\",\"duration\":\"48\"},{\"instruction\":\"沿S12伊墩高速入口向东北行驶132米靠右\",\"road\":\"S12伊墩高速入口\",\"distance\":\"132\",\"orientation\":\"东北\",\"duration\":\"26\"},{\"instruction\":\"沿S12伊墩高速入口途径S12伊墩高速、吉尔格朗河桥向东行驶40.7千米靠左沿主路行驶\",\"road\":\"S12伊墩高速入口\",\"distance\":\"40693\",\"orientation\":\"东\",\"duration\":\"1459\"},{\"instruction\":\"沿S12伊墩高速途径喀什河大桥、S12高伊高速、克其克布拉克大桥、巴斯勒根萨依大桥、黑山头1号大桥、木萨能萨依大桥、黑山头2号大桥、塔勒德萨依大桥向东南行驶42.0千米向右前方行驶进入匝道\",\"road\":\"S12伊墩高速\",\"distance\":\"42002\",\"orientation\":\"东南\",\"duration\":\"1539\"},{\"instruction\":\"沿尼勒克互通向东行驶1.2千米减速行驶到达收费站\",\"road\":\"尼勒克互通\",\"distance\":\"1175\",\"orientation\":\"东\",\"duration\":\"97\"},{\"instruction\":\"沿尼勒克互通向东北行驶346米向右前方行驶进入右转专用道\",\"road\":\"尼勒克互通\",\"distance\":\"346\",\"orientation\":\"东北\",\"duration\":\"49\"},{\"instruction\":\"沿242省道向东北行驶52米右转\",\"road\":\"242省道\",\"distance\":\"52\",\"orientation\":\"东北\",\"duration\":\"11\"},{\"instruction\":\"沿242省道途径巩乃斯河大桥、蝶湖大道向南行驶17.0千米左转\",\"road\":\"242省道\",\"distance\":\"16998\",\"orientation\":\"南\",\"duration\":\"927\"},{\"instruction\":\"向东行驶6.2千米左转\",\"road\":\"\",\"distance\":\"6214\",\"orientation\":\"东\",\"duration\":\"428\"},{\"instruction\":\"沿578国道向东行驶9.8千米右转\",\"road\":\"578国道\",\"distance\":\"9768\",\"orientation\":\"东\",\"duration\":\"514\"},{\"instruction\":\"向南行驶211米向右前方行驶\",\"road\":\"\",\"distance\":\"211\",\"orientation\":\"南\",\"duration\":\"27\"},{\"instruction\":\"向西南行驶236米左转\",\"road\":\"\",\"distance\":\"236\",\"orientation\":\"西南\",\"duration\":\"35\"},{\"instruction\":\"向东南行驶153米右转\",\"road\":\"\",\"distance\":\"153\",\"orientation\":\"东南\",\"duration\":\"26\"},{\"instruction\":\"向西南行驶355米向左后方行驶\",\"road\":\"\",\"distance\":\"355\",\"orientation\":\"西南\",\"duration\":\"44\"},{\"instruction\":\"向东行驶2.1千米右转\",\"road\":\"\",\"distance\":\"2098\",\"orientation\":\"东\",\"duration\":\"322\"},{\"instruction\":\"沿737县道途径235乡道向东南行驶11.5千米向右前方行驶\",\"road\":\"737县道\",\"distance\":\"11461\",\"orientation\":\"东南\",\"duration\":\"721\"},{\"instruction\":\"向南行驶1.5千米左转\",\"road\":\"\",\"distance\":\"1504\",\"orientation\":\"南\",\"duration\":\"148\"},{\"instruction\":\"沿737县道向东行驶15.1千米左转调头\",\"road\":\"737县道\",\"distance\":\"15094\",\"orientation\":\"东\",\"duration\":\"977\"},{\"instruction\":\"沿737县道向西行驶83米到达目的地\",\"road\":\"737县道\",\"distance\":\"83\",\"orientation\":\"西\",\"duration\":\"11\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "lunch_kurd": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"origin\":\"82.682835,43.277106\",\"destination\":\"82.692833,43.274436\",\"paths\":[{\"path\":\"\",\"distance\":\"993\",\"duration\":\"194\",\"steps\":[{\"instruction\":\"沿737县道向西行驶37米左转调头\",\"road\":\"737县道\",\"distance\":\"37\",\"orientation\":\"西\",\"duration\":\"39\"},{\"instruction\":\"沿737县道向东行驶680米向右前方行驶\",\"road\":\"737县道\",\"distance\":\"680\",\"orientation\":\"东\",\"duration\":\"66\"},{\"instruction\":\"向东南行驶214米左转\",\"road\":\"\",\"distance\":\"214\",\"orientation\":\"东南\",\"duration\":\"52\"},{\"instruction\":\"向东北行驶54米左转\",\"road\":\"\",\"distance\":\"54\",\"orientation\":\"东北\",\"duration\":\"33\"},{\"instruction\":\"向西北行驶8米到达目的地\",\"road\":\"\",\"distance\":\"8\",\"orientation\":\"西北\",\"duration\":\"4\"}]}]}"
+        }
+      ],
+      "isError": false
+    },
+    "camp_qimeng_walk": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"route\":{\"origin\":\"82.836240,43.139357\",\"destination\":\"82.816448,43.110236\",\"paths\":[{\"distance\":3984,\"duration\":3187,\"steps\":[{\"instruction\":\"向北步行134米向左后方行走\",\"road\":\"\",\"distance\":134,\"orientation\":\"北\",\"duration\":107},{\"instruction\":\"向西南步行3850米到达目的地\",\"road\":\"\",\"distance\":3850,\"orientation\":\"西南\",\"duration\":3080}]}]}}"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

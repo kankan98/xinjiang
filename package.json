@@ -1,0 +1,41 @@
+{
+  "name": "xinjiang-north-roadbook",
+  "version": "3.9.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.5.2",
+  "description": "2026 国庆新疆北疆自驾 RoadBook",
+  "scripts": {
+    "dev": "pnpm run generate && vite",
+    "generate": "pnpm run generate:route-map && pnpm run generate:search && pnpm run generate:day-schedules",
+    "generate:route-map": "python -X utf8 tools/generate_route_map.py",
+    "generate:search": "node tools/generate_search_index.mjs",
+    "check": "pnpm run check:content",
+    "check:search": "node tools/generate_search_index.mjs --check",
+    "check:content": "pnpm run check:search && pnpm run check:day-schedules && node tools/validate_roadbook.mjs",
+    "generate:day-schedules": "node tools/generate_day_schedules.mjs",
+    "check:day-schedules": "node tools/generate_day_schedules.mjs --check",
+    "test:unit": "vitest run",
+    "test": "pnpm run test:unit",
+    "build": "pnpm run generate && pnpm run check:content && vite build",
+    "preview": "vite preview",
+    "test:e2e": "playwright test",
+    "generate:day-routes": "node tools/generate_day_routes.mjs"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.2",
+    "element-plus": "^2.14.3",
+    "vue": "^3.5.0",
+    "vue-router": "^5.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@vitejs/plugin-vue": "^6.0.0",
+    "@vue/test-utils": "^2.4.6",
+    "jsdom": "^26.1.0",
+    "unplugin-auto-import": "^21.1.0",
+    "unplugin-vue-components": "^32.1.0",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.0"
+  }
+}

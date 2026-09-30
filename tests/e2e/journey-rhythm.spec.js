@@ -1,0 +1,20 @@
+import { test, expect } from '@playwright/test'
+
+test('driving comparison keeps detour estimates explicit and links to the selected itinerary', async ({ page }) => {
+  await page.goto('/')
+  const rhythm = page.getByRole('region', { name: '哪天赶路，哪天慢慢看' })
+  await expect(rhythm.locator('.journey-rhythm__day')).toHaveCount(8)
+  await rhythm.getByRole('button', { name: /^D7，/ }).click()
+  await expect(rhythm.locator('.journey-rhythm__detail')).toContainText('伊宁')
+  await expect(rhythm.locator('.journey-rhythm__missing')).toContainText('非高德完整路线实测')
+  await expect(rhythm.getByRole('button', { name: /^D7，/ })).toHaveAccessibleName(/官方绕行预算/)
+  await rhythm.getByRole('button', { name: '自驾里程', exact: true }).click()
+  await expect(rhythm.getByRole('button', { name: /^D7，/ })).toContainText('300 km')
+  await expect(rhythm.getByRole('button', { name: /^D8，/ })).toContainText('276.7 km')
+  await rhythm.getByRole('button', { name: /^D8，/ }).click()
+  await expect(rhythm.locator('.journey-rhythm__detail')).toContainText('唐布拉')
+  await rhythm.getByRole('button', { name: '驾驶时间', exact: true }).click()
+  await expect(rhythm.getByRole('button', { name: /^D8，/ })).toContainText('5时08分')
+  await rhythm.getByRole('button', { name: /读 D8 完整日程/ }).click()
+  await expect(page.locator('#readerTitle')).toContainText('Day 8')
+})

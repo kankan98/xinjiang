@@ -1,0 +1,401 @@
+{
+  "date": "2026-09-30",
+  "chapters": [
+    {
+      "file": "src/pages/chapters/days/Day0-香港-乌鲁木齐.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day1-乌鲁木齐-布尔津.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day2-布尔津-白哈巴.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day3-白哈巴-喀纳斯全天.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day4-白哈巴-克拉玛依-奎屯.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day5-奎屯-赛里木湖.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day6-赛里木湖-伊宁.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day7-伊宁-那拉提-唐布拉-尼勒克.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day8-尼勒克-乌鲁木齐.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/days/Day9-乌鲁木齐-香港.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/overview/00-总目录.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/overview/01-研究底稿.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/overview/02-路线推导.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/overview/03-全书一致性与政策时效性复核.vue",
+      "edited": true,
+      "numericTokensIdentical": false,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [
+        "1",
+        "7"
+      ],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/overview/04-来源与复核日志.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-新疆摄影地图.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-新疆旅行应急宝典.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-无人机飞行规范.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-景区百科.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-理想L8新疆自驾指南.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-美食指南.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-酒店指南.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    },
+    {
+      "file": "src/pages/chapters/topics/专题-预算规划.vue",
+      "edited": true,
+      "numericTokensIdentical": true,
+      "removedNumericTokens": [],
+      "addedNumericTokens": [],
+      "referencesRetained": {
+        "id": true,
+        "href": true,
+        "data-doc": true,
+        "data-section": true,
+        "data-check-index": true,
+        "src": true
+      }
+    }
+  ],
+  "unchangedSources": {
+    "src/data/day-routes.json": true,
+    "src/data/images.manifest.json": true,
+    "src/data/accommodation.js": true,
+    "src/data/route-annotations.js": true,
+    "src/lib/travel.js": true,
+    "src/data/route-review-20260930.json": true,
+    "src/data/route-adjustment-20260930.json": true
+  },
+  "dataChecks": {
+    "itineraryFieldsUnchanged": true,
+    "runtimeNumericTokensIdentical": true,
+    "guideEvidenceUnchanged": true,
+    "scheduleTimeFieldsUnchangedIgnoringWhitespace": true,
+    "scheduleTimeFieldsExactlyIdentical": false
+  },
+  "notes": [
+    "03总览新增导读提及G1—G7，增加标号1、7；没有删除原有数字。",
+    "摄影与美食专题调整段落位置，链接顺序随段落变化；各链接值及数量保留。",
+    "时间表四个时间标签仅调整中文与数字/单位间空格，原始时刻与限定语保持一致。"
+  ],
+  "validation": {
+    "content": "passed: 23 chapters, 10 days, 7 preparation checks, 28 images",
+    "unitTests": {
+      "passed": 33,
+      "failed": 0
+    },
+    "build": "passed",
+    "e2e": {
+      "passed": 47,
+      "skipped": 1,
+      "failed": 0,
+      "skipReason": "移动端项目跳过由桌面项目显式覆盖全部宽度的重复断点测试。"
+    },
+    "lastPassNote": "表格间距、17处术语及美食导语结构收尾后，重新生成；构建、33项单元测试与47项端到端测试全部通过，1项按原配置跳过。",
+    "visualReview": {
+      "reviewed": [
+        "final-rhythm-desktop.png",
+        "final-rhythm-mobile-dark.png",
+        "final-day3-mobile.png",
+        "final-food-desktop.png",
+        "final-food-mobile.png"
+      ],
+      "directory": "screenshots/editorial-20260930",
+      "pageErrors": 0,
+      "horizontalOverflow": 0
+    }
+  }
+}

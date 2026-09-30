@@ -1,0 +1,50 @@
+{
+  "reviewedAt": "2026-09-30",
+  "noticeEvidence": "donggou-notice-20260930.json",
+  "mapEvidence": "amap-middle-return-20260930.json",
+  "confirmed": {
+    "closureStart": "2026-08-26",
+    "plannedReopen": "2026-10-26",
+    "visitorRoute": "中沟进中沟出"
+  },
+  "partialDistanceAudit": {
+    "approachMetricNotInvented": true,
+    "oldApproachNavigationRemoved": true,
+    "manualStart": true,
+    "day7MeasuredKm": 120.955,
+    "day7MeasuredSeconds": 9586,
+    "allTripIsPartial": true,
+    "measuredSubtotalKm": 2158,
+    "measuredSubtotalTime": "31 h 42 min",
+    "ayusaiNotInPrimary": true
+  },
+  "validation": {
+    "content": "passed",
+    "build": "passed",
+    "unitPassed": 33,
+    "e2ePassed": 45,
+    "e2eSkipped": 1,
+    "e2eFailed": 0,
+    "lastRun": {
+      "status": "passed",
+      "failedTests": []
+    }
+  },
+  "sourceHashes": {
+    "src/pages/chapters/days/Day7-伊宁-那拉提-唐布拉-尼勒克.vue": "7c1d423d09c4e516661ae243ac13b4216611dfc73f1977f83712c6baef48ef50",
+    "src/data/roadbook-runtime.json": "192c42ccd74824450470c5207da84cffec77ac1cf43b830e9629585156681955",
+    "src/data/route-adjustment-20260930.json": "1b2c893e617ae18f77566e3dd2897b8c0766c3d6a9ae4756757b398b3d244d3f",
+    "src/data/daily-guides.json": "0ae0503ee758bad4b6a47d634f785b96f34ea45fa7e7c60880f9800b124662a5",
+    "src/components/reader/DayRouteMap.vue": "19d3679cc93d41676043fea6eb5ca1168f13ff258786b0aaca9fdb7a5d4c977b",
+    "src/components/reader/ReaderDayBrief.vue": "24d394ce4cedd371c32657b3675309bae794c4a74c3145068b33b22143b36124",
+    "src/components/home/HeroSection.vue": "3a8925296a076d79f45b79c42853b95cd24687db86de731ee718a9f88c0dab74",
+    "src/components/AppFooter.vue": "12035a78ee16c97717fe5708b4ed3d23a268a4cd4ee6bc82f5529e1649fdd599"
+  },
+  "unconfirmed": [
+    "官方S329/X060两个路口坐标、全线ETA与里程",
+    "东侧普通支路当期通行和铺装",
+    "阿尤赛观景台可达/合法同路返回",
+    "10月9日马队与步道实际开放/时长",
+    "施工结束是否延期或后续解除"
+  ]
+}
