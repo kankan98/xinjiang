@@ -15,6 +15,7 @@ const props = defineProps({
 })
 
 const emit = defineEmits(['navigate', 'credit'])
+const simpleHref = `${import.meta.env.BASE_URL}simple.html`
 
 // 首屏只保留旅行规模；当天班次和硬节点留给每日速查。
 const hudFacts = computed(() => [
@@ -37,6 +38,7 @@ const hudFacts = computed(() => [
           <div class="hero-actions">
             <button type="button" class="primary-btn hero-route-action" @click="scrollToSection('dailyGuide')">打开每日速查 <ArrowRight aria-hidden="true" /></button>
             <button type="button" class="hero-secondary-action" @click="scrollToSection('routeOverview')">查看十日路线 <ArrowDown aria-hidden="true" /></button>
+            <a class="hero-secondary-action" :href="simpleHref">简易版速览 <ArrowRight aria-hidden="true" /></a>
           </div>
           <button v-if="resumeDoc" type="button" class="resume-chip" @click="emit('navigate', resumeDoc.file)">
             <span class="resume-chip__label">接着上次读</span>

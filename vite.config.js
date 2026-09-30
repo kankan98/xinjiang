@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
+import { simpleRoadbookPlugin } from './tools/simple-roadbook.mjs'
 import { fileURLToPath, URL } from 'node:url'
 import AutoImport from 'unplugin-auto-import/vite'
 import Components from 'unplugin-vue-components/vite'
@@ -14,6 +15,7 @@ export default defineConfig({
   },
   plugins: [
     vue(),
+    simpleRoadbookPlugin(),
     AutoImport({
       resolvers: [ElementPlusResolver()],
       dts: false,

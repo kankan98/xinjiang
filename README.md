@@ -75,6 +75,14 @@ node tools/amap-mcp.mjs call maps_search_detail '{"id":"B0KRFURYHQ"}'
 
 端到端测试使用最近一次 `dist/`，会启动 4173 预览服务。先构建再运行测试。截图脚本输出到 `screenshots/`（本地验收产物，不入库；2026-09-29 已清理历史截图，需要时运行脚本重新生成），覆盖明暗主题、桌面和手机，以及 D1/D5/D7/D8 与唐布拉备线。日地图截图输出到 `screenshots/maps/`，可将宽度参数改为 320；默认连接 5173，也支持 `ROADBOOK_PREVIEW_URL`。
 
+## 简易版打包
+
+`pnpm run build` 现在同时输出 `dist/index.html`（完整版）和 `dist/simple.html`（简易版）。完整版首页的“简易版速览”可打开新页面；开发时访问 `/simple.html`，预览时访问 `http://127.0.0.1:4173/simple.html`。
+
+简易版以十张日卡呈现路线、驾驶读数、住宿与关键提醒，详细日程和吃穿建议按需展开。内容直接复用 runtime、daily guides 与正文派生的时间表；无需单独改写。页面内联样式，无脚本、图片或字体依赖，可单独保存后离线打开，浏览器打印时展开全部日程。跳转完整版需通过配套站点访问。
+
+发布时继续上传整个 `dist/`；只分享速览内容时可单独发送 `dist/simple.html`。布局与数据职责见 [简易版方案](docs/simple-roadbook-design.md)。
+
 ## 内容与数据职责
 
 | 位置 | 职责 |
